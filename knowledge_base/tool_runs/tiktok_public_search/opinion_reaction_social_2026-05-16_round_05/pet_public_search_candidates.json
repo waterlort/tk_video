@@ -1,0 +1,2188 @@
+{
+  "generatedAt": "2026-05-16T13:18:49.796Z",
+  "days": 60,
+  "terms": [
+    "hot take",
+    "unpopularopinion",
+    "commentreply",
+    "storyresponse",
+    "reactionvideo",
+    "greenscreen",
+    "ranking",
+    "thingsididntknow",
+    "redflag",
+    "datingadvice",
+    "parenting",
+    "teachersoftiktok",
+    "worktok",
+    "customertok"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7631569719442689310",
+      "createdAt": "2026-04-22T13:08:09.000Z",
+      "creatorHandle": "andrew.salk",
+      "videoUrl": "https://www.tiktok.com/@andrew.salk/video/7631569719442689310",
+      "caption": "Funny Street pranks🤣🤣#funnyvideo #amazing #prank #reaction #fyp",
+      "viewCount": 149200000,
+      "likeCount": 2900000,
+      "commentCount": 28900,
+      "shareCount": 305300,
+      "collectCount": 197800,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 7956600
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7629120935819283726",
+      "createdAt": "2026-04-15T22:45:38.000Z",
+      "creatorHandle": "k.prezzi",
+      "videoUrl": "https://www.tiktok.com/@k.prezzi/video/7629120935819283726",
+      "caption": "",
+      "viewCount": 10900000,
+      "likeCount": 1500000,
+      "commentCount": 11400,
+      "shareCount": 260100,
+      "collectCount": 132100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3691200
+    },
+    {
+      "term": "customertok",
+      "provider": "discover",
+      "videoId": "7633952307570298126",
+      "createdAt": "2026-04-28T23:13:49.000Z",
+      "creatorHandle": "djkartier",
+      "videoUrl": "https://www.tiktok.com/@djkartier/video/7633952307570298126",
+      "caption": "Last one brings back memories😭 Cop the piano in my bio for yall with all famous sounds💯 #fyp #edit #melody",
+      "viewCount": 12600000,
+      "likeCount": 1200000,
+      "commentCount": 15100,
+      "shareCount": 72100,
+      "collectCount": 250600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2582200
+    },
+    {
+      "term": "thingsididntknow",
+      "provider": "tag",
+      "videoId": "7621854890557476126",
+      "createdAt": "2026-03-27T08:49:40.000Z",
+      "creatorHandle": "alice_arties_m",
+      "videoUrl": "https://www.tiktok.com/@alice_arties_m/video/7621854890557476126",
+      "caption": "the loop actually wasn't supposed to have that grainy effect but I thought it fit the edit really well so i kept it 😋 #scpfoudation #scpcontainmentbreach #scpedit #fyp #trend",
+      "viewCount": 7600000,
+      "likeCount": 1300000,
+      "commentCount": 4641,
+      "shareCount": 67500,
+      "collectCount": 286700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2535210
+    },
+    {
+      "term": "greenscreen",
+      "provider": "tag",
+      "videoId": "7631583346384014612",
+      "createdAt": "2026-04-22T14:01:02.000Z",
+      "creatorHandle": "urmoook",
+      "videoUrl": "https://www.tiktok.com/@urmoook/video/7631583346384014612",
+      "caption": "",
+      "viewCount": 6300000,
+      "likeCount": 1200000,
+      "commentCount": 2533,
+      "shareCount": 172500,
+      "collectCount": 35700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2274130
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7632631013763468558",
+      "createdAt": "2026-04-25T09:46:31.000Z",
+      "creatorHandle": "funnything.554",
+      "videoUrl": "https://www.tiktok.com/@funnything.554/video/7632631013763468558",
+      "caption": "Funny laughter 😂 #funnyvideo #reaction #fyp #viral #funny",
+      "viewCount": 8600000,
+      "likeCount": 588900,
+      "commentCount": 9208,
+      "shareCount": 160200,
+      "collectCount": 65500,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 2102130
+    },
+    {
+      "term": "hot take",
+      "provider": "tag",
+      "videoId": "7629682333880175892",
+      "createdAt": "2026-04-17T11:04:08.000Z",
+      "creatorHandle": "boomshadowace",
+      "videoUrl": "https://www.tiktok.com/@boomshadowace/video/7629682333880175892",
+      "caption": "How to put down a tree like a pro! 🤣👇🌳#shadowace #fyp #viral #art",
+      "viewCount": 21300000,
+      "likeCount": 979300,
+      "commentCount": 12100,
+      "shareCount": 95300,
+      "collectCount": 65400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2060650
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7632727944003161351",
+      "createdAt": "2026-04-25T16:02:40.000Z",
+      "creatorHandle": "petloversdaily1",
+      "videoUrl": "https://www.tiktok.com/@petloversdaily1/video/7632727944003161351",
+      "caption": "#kangaroo #petlovers #viral #viralvideo",
+      "viewCount": 15700000,
+      "likeCount": 449800,
+      "commentCount": 6019,
+      "shareCount": 148600,
+      "collectCount": 24300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1885090
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7635690286680706335",
+      "createdAt": "2026-05-03T15:38:04.000Z",
+      "creatorHandle": "funnydogs059",
+      "videoUrl": "https://www.tiktok.com/@funnydogs059/video/7635690286680706335",
+      "caption": "Repeating kids joke after no one laughs prank see their reaction 😂😂😂#prank #kids #joke #funnyvideos #fyp #funnykids #kidsoftiktok #toddler #reaction #fun",
+      "viewCount": 6800000,
+      "likeCount": 997500,
+      "commentCount": 4681,
+      "shareCount": 115900,
+      "collectCount": 57800,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1839960
+    },
+    {
+      "term": "storyresponse",
+      "provider": "discover",
+      "videoId": "7634439532947033374",
+      "createdAt": "2026-04-30T06:44:30.000Z",
+      "creatorHandle": "karmillaa.2",
+      "videoUrl": "https://www.tiktok.com/@karmillaa.2/video/7634439532947033374",
+      "caption": "#alzheimer",
+      "viewCount": 8900000,
+      "likeCount": 1300000,
+      "commentCount": 7162,
+      "shareCount": 71200,
+      "collectCount": 67800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1740420
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7623562130700258574",
+      "createdAt": "2026-03-31T23:14:37.000Z",
+      "creatorHandle": "work_humor",
+      "videoUrl": "https://www.tiktok.com/@work_humor/video/7623562130700258574",
+      "caption": "POV: I just walked into work and my coworkers already got me mentally buffering 😭😂 #WorkHumor #WorkTok #OfficeLife #CoworkerProblems #fyp",
+      "viewCount": 3100000,
+      "likeCount": 157900,
+      "commentCount": 1195,
+      "shareCount": 164400,
+      "collectCount": 26700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1574900
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7634368163722906911",
+      "createdAt": "2026-04-30T02:07:33.000Z",
+      "creatorHandle": "jj.thesnowman",
+      "videoUrl": "https://www.tiktok.com/@jj.thesnowman/video/7634368163722906911",
+      "caption": "I wanna hear yall thoughts on these topics 😭😭😭 S/o @Something Different PHENOMENAL event! #fyp #dmvtiktok",
+      "viewCount": 8400000,
+      "likeCount": 809100,
+      "commentCount": 5294,
+      "shareCount": 90200,
+      "collectCount": 54700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1565890
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7627158903888956685",
+      "createdAt": "2026-04-10T15:51:56.000Z",
+      "creatorHandle": "rebeccaa0928",
+      "videoUrl": "https://www.tiktok.com/@rebeccaa0928/video/7627158903888956685",
+      "caption": "Makes you think 🤔 #foryoupage #fyp #reaction #relationships #moon @Dollar General",
+      "viewCount": 2000000,
+      "likeCount": 278700,
+      "commentCount": 12200,
+      "shareCount": 147300,
+      "collectCount": 20300,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1560950
+    },
+    {
+      "term": "hot take",
+      "provider": "tag",
+      "videoId": "7619883540741704974",
+      "createdAt": "2026-03-22T01:19:49.000Z",
+      "creatorHandle": "jamissotuff",
+      "videoUrl": "https://www.tiktok.com/@jamissotuff/video/7619883540741704974",
+      "caption": "title || #savetheplanet #polarbear #pollution #savetheenvironment ||",
+      "viewCount": 4500000,
+      "likeCount": 1100000,
+      "commentCount": 13400,
+      "shareCount": 33400,
+      "collectCount": 101400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1446800
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7622412808424033538",
+      "createdAt": "2026-03-28T20:54:40.000Z",
+      "creatorHandle": "in_spiring",
+      "videoUrl": "https://www.tiktok.com/@in_spiring/video/7622412808424033538",
+      "caption": "Tom Holland Funniest Viral Video Reaction | Part 8 #viral  #tomholland #funnyvideo #newyorkcity  #fyp",
+      "viewCount": 12100000,
+      "likeCount": 824200,
+      "commentCount": 13000,
+      "shareCount": 37700,
+      "collectCount": 71200,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1370500
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7620774664956038433",
+      "createdAt": "2026-03-24T10:57:50.000Z",
+      "creatorHandle": "kuba.creates.ai",
+      "videoUrl": "https://www.tiktok.com/@kuba.creates.ai/video/7620774664956038433",
+      "caption": "Replying to @✮𝒦𝒶𝓇𝓂𝒶✮ who’s next? #brookemonk #fyp",
+      "viewCount": 16400000,
+      "likeCount": 756400,
+      "commentCount": 9420,
+      "shareCount": 26100,
+      "collectCount": 66400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1274800
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7638002675304451329",
+      "createdAt": "2026-05-09T21:11:19.000Z",
+      "creatorHandle": "_squirrelllll_",
+      "videoUrl": "https://www.tiktok.com/@_squirrelllll_/video/7638002675304451329",
+      "caption": "#рекомендации",
+      "viewCount": 1800000,
+      "likeCount": 336800,
+      "commentCount": 434,
+      "shareCount": 98700,
+      "collectCount": 18300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1071540
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7632781536554700053",
+      "createdAt": "2026-04-25T19:30:38.000Z",
+      "creatorHandle": "xi_me.23",
+      "videoUrl": "https://www.tiktok.com/@xi_me.23/video/7632781536554700053",
+      "caption": "#paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #xyzabc #fyppppppppppppppppppppppp",
+      "viewCount": 2700000,
+      "likeCount": 442200,
+      "commentCount": 332,
+      "shareCount": 76200,
+      "collectCount": 11800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 935220
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7618237371531693326",
+      "createdAt": "2026-03-17T14:51:50.000Z",
+      "creatorHandle": "anthonycarastro",
+      "videoUrl": "https://www.tiktok.com/@anthonycarastro/video/7618237371531693326",
+      "caption": "brail people can’t see this caption btw #comedy #fyp #comments #voiceover #funny",
+      "viewCount": 3300000,
+      "likeCount": 591800,
+      "commentCount": 1973,
+      "shareCount": 42000,
+      "collectCount": 50000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 917630
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7627332025241963783",
+      "createdAt": "2026-04-11T03:03:44.000Z",
+      "creatorHandle": "lingxuan309",
+      "videoUrl": "https://www.tiktok.com/@lingxuan309/video/7627332025241963783",
+      "caption": "#douyin #douyin抖音 #chinesegirl #fyp #shenzhenhighschool",
+      "viewCount": 7500000,
+      "likeCount": 588700,
+      "commentCount": 1151,
+      "shareCount": 44500,
+      "collectCount": 24300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 909060
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7639037014423227679",
+      "createdAt": "2026-05-12T16:05:04.000Z",
+      "creatorHandle": "happy.parenting.life",
+      "videoUrl": "https://www.tiktok.com/@happy.parenting.life/video/7639037014423227679",
+      "caption": "Kids will believe anything if you say it right 😂 #momlife #parentinghumor #toddlermom #honestparenting #momwin",
+      "viewCount": 2600000,
+      "likeCount": 392200,
+      "commentCount": 527,
+      "shareCount": 41700,
+      "collectCount": 68100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 859370
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7630854887638617366",
+      "createdAt": "2026-04-20T14:54:15.000Z",
+      "creatorHandle": "eriinnduff",
+      "videoUrl": "https://www.tiktok.com/@eriinnduff/video/7630854887638617366",
+      "caption": "The way this was over a decade ago, but still UNFORGETTABLE🔥#beyonce #jayz #blueivy #crazyinlove #fyp",
+      "viewCount": 4500000,
+      "likeCount": 874700,
+      "commentCount": 346,
+      "shareCount": 5741,
+      "collectCount": 34500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 714738
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7636464784925363463",
+      "createdAt": "2026-05-05T17:43:31.000Z",
+      "creatorHandle": "diego_lopez04",
+      "videoUrl": "https://www.tiktok.com/@diego_lopez04/video/7636464784925363463",
+      "caption": "#paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #ns200 #insta360x5 #meencantavivirenbogota #fyp",
+      "viewCount": 12600000,
+      "likeCount": 281400,
+      "commentCount": 0,
+      "shareCount": 35200,
+      "collectCount": 7977,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 706208
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7621586712614997262",
+      "createdAt": "2026-03-26T15:28:59.000Z",
+      "creatorHandle": "karissatodd",
+      "videoUrl": "https://www.tiktok.com/@karissatodd/video/7621586712614997262",
+      "caption": "It’s fine. I’m fine. Totally fine. 😑#worklife #myjob #manager #worktok #MemeCut",
+      "viewCount": 1300000,
+      "likeCount": 186100,
+      "commentCount": 312,
+      "shareCount": 64000,
+      "collectCount": 13700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 688970
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7638383821796166942",
+      "createdAt": "2026-05-10T21:50:21.000Z",
+      "creatorHandle": "myteacherface",
+      "videoUrl": "https://www.tiktok.com/@myteacherface/video/7638383821796166942",
+      "caption": "People told me they wish these had captions for what I say because many of you watch without volume (?) so here ya go 😊 #Myteacherface #funnyteacher #teachers #teachersoftiktok #tiktokteacher",
+      "viewCount": 3700000,
+      "likeCount": 459100,
+      "commentCount": 1991,
+      "shareCount": 30900,
+      "collectCount": 27200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 679460
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7639403447460121869",
+      "createdAt": "2026-05-13T15:47:01.000Z",
+      "creatorHandle": "anaia_lachelle",
+      "videoUrl": "https://www.tiktok.com/@anaia_lachelle/video/7639403447460121869",
+      "caption": "Confusion. #explore #work  context: my coworkers don’t speak to me but talk about me in the office. some have called me out of my name for absolutely nothing, but never said it to me. but EYE am the problem?",
+      "viewCount": 2200000,
+      "likeCount": 395900,
+      "commentCount": 8751,
+      "shareCount": 24900,
+      "collectCount": 33600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 663060
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7634366323425840397",
+      "createdAt": "2026-04-30T02:00:24.000Z",
+      "creatorHandle": "usa.sang.free188",
+      "videoUrl": "https://www.tiktok.com/@usa.sang.free188/video/7634366323425840397",
+      "caption": "1 week , 1 year in American#funny #meme #ranking",
+      "viewCount": 7100000,
+      "likeCount": 385100,
+      "commentCount": 1212,
+      "shareCount": 27600,
+      "collectCount": 15700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 630270
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7624955614648601886",
+      "createdAt": "2026-04-04T17:22:03.000Z",
+      "creatorHandle": "mowglii500",
+      "videoUrl": "https://www.tiktok.com/@mowglii500/video/7624955614648601886",
+      "caption": "Reading comments pt2 thx for leaving comments for me to use! #voiceimpressions #comments #funny",
+      "viewCount": 1300000,
+      "likeCount": 334400,
+      "commentCount": 1325,
+      "shareCount": 27300,
+      "collectCount": 37900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 576450
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7628701835683155230",
+      "createdAt": "2026-04-14T19:39:18.000Z",
+      "creatorHandle": "rico.suave3",
+      "videoUrl": "https://www.tiktok.com/@rico.suave3/video/7628701835683155230",
+      "caption": "“Huss Huss Huss” 😂🏃🏽‍♂️💨 #security #work #worktok #workhumour #relateable",
+      "viewCount": 971200,
+      "likeCount": 198400,
+      "commentCount": 1165,
+      "shareCount": 49700,
+      "collectCount": 10100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 568274
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7637527998861692174",
+      "createdAt": "2026-05-08T14:29:19.000Z",
+      "creatorHandle": "turnemuptony",
+      "videoUrl": "https://www.tiktok.com/@turnemuptony/video/7637527998861692174",
+      "caption": "Will it ever go back? #tiktok #unpopularopinion",
+      "viewCount": 1500000,
+      "likeCount": 266100,
+      "commentCount": 4446,
+      "shareCount": 20700,
+      "collectCount": 42000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 541110
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7639836529346481421",
+      "createdAt": "2026-05-14T19:47:36.000Z",
+      "creatorHandle": "ehfea",
+      "videoUrl": "https://www.tiktok.com/@ehfea/video/7639836529346481421",
+      "caption": "Interesting baby reactions 😂 #babyreaction #funnybaby #cute #fyp #vrialvideo",
+      "viewCount": 2000000,
+      "likeCount": 293500,
+      "commentCount": 803,
+      "shareCount": 29400,
+      "collectCount": 14200,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 486780
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7637858304537922833",
+      "createdAt": "2026-05-09T11:51:05.000Z",
+      "creatorHandle": "pulse_tiles",
+      "videoUrl": "https://www.tiktok.com/@pulse_tiles/video/7637858304537922833",
+      "caption": "The customer is always right #thecustomerisalwaysright #customeralwaysright #customerservice #pulsetiles #pulsetilescustomerservice",
+      "viewCount": 6200000,
+      "likeCount": 280800,
+      "commentCount": 1232,
+      "shareCount": 18100,
+      "collectCount": 16200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 486320
+    },
+    {
+      "term": "greenscreen",
+      "provider": "tag",
+      "videoId": "7639085090781400351",
+      "createdAt": "2026-05-12T19:11:38.000Z",
+      "creatorHandle": "duhbuffaloo",
+      "videoUrl": "https://www.tiktok.com/@duhbuffaloo/video/7639085090781400351",
+      "caption": "Toph couldn’t see because of the sandy beach @Maevy #toph #katara #avatarthelastairbender #atla",
+      "viewCount": 774300,
+      "likeCount": 165900,
+      "commentCount": 546,
+      "shareCount": 21300,
+      "collectCount": 43900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 449896
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7634553452433034526",
+      "createdAt": "2026-04-30T14:06:34.000Z",
+      "creatorHandle": "joelle_kendra",
+      "videoUrl": "https://www.tiktok.com/@joelle_kendra/video/7634553452433034526",
+      "caption": "Finally made it to an Unpopular Opinion event in D.C 10/10 @Something Different  #fyp #washingtondc #thingstododc #explore",
+      "viewCount": 1700000,
+      "likeCount": 288900,
+      "commentCount": 1499,
+      "shareCount": 21600,
+      "collectCount": 19200,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 443040
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7638309208219258125",
+      "createdAt": "2026-05-10T17:00:49.000Z",
+      "creatorHandle": "ultrarankk",
+      "videoUrl": "https://www.tiktok.com/@ultrarankk/video/7638309208219258125",
+      "caption": "Ranking Jynxzi’s Best Haircuts #ranking #jynxzi",
+      "viewCount": 2600000,
+      "likeCount": 263100,
+      "commentCount": 887,
+      "shareCount": 21300,
+      "collectCount": 19100,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 439220
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7638406326564965662",
+      "createdAt": "2026-05-10T23:17:41.000Z",
+      "creatorHandle": "hxeclips",
+      "videoUrl": "https://www.tiktok.com/@hxeclips/video/7638406326564965662",
+      "caption": "dude genuinly got scared 😭 twitch: darhxe #discord #rizz #egirl",
+      "viewCount": 733700,
+      "likeCount": 94600,
+      "commentCount": 1127,
+      "shareCount": 33100,
+      "collectCount": 20300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 419244
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7639438468522757394",
+      "createdAt": "2026-05-13T18:02:55.000Z",
+      "creatorHandle": "magsdiary97",
+      "videoUrl": "https://www.tiktok.com/@magsdiary97/video/7639438468522757394",
+      "caption": "Unpopular opinion #fyp #magsdiary",
+      "viewCount": 2000000,
+      "likeCount": 298400,
+      "commentCount": 3095,
+      "shareCount": 15100,
+      "collectCount": 13200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 393750
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7624109602883292430",
+      "createdAt": "2026-04-02T10:39:06.000Z",
+      "creatorHandle": "guideewr92g",
+      "videoUrl": "https://www.tiktok.com/@guideewr92g/video/7624109602883292430",
+      "caption": "#fun #funny #prank 😅😅😂😂",
+      "viewCount": 6900000,
+      "likeCount": 222600,
+      "commentCount": 975,
+      "shareCount": 10100,
+      "collectCount": 11200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 384650
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7639870891664493855",
+      "createdAt": "2026-05-14T22:00:57.000Z",
+      "creatorHandle": "lindsiann",
+      "videoUrl": "https://www.tiktok.com/@lindsiann/video/7639870891664493855",
+      "caption": "the best dating advice I’ve ever received",
+      "viewCount": 762900,
+      "likeCount": 147500,
+      "commentCount": 348,
+      "shareCount": 11100,
+      "collectCount": 43800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 356488
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7627174932706872590",
+      "createdAt": "2026-04-10T16:54:08.000Z",
+      "creatorHandle": "teachermanhitting",
+      "videoUrl": "https://www.tiktok.com/@teachermanhitting/video/7627174932706872590",
+      "caption": "The Catcher’s Interference Path",
+      "viewCount": 2600000,
+      "likeCount": 96400,
+      "commentCount": 512,
+      "shareCount": 19400,
+      "collectCount": 17600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 330920
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7630800118303771917",
+      "createdAt": "2026-04-20T11:21:43.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7630800118303771917",
+      "caption": "POV you show up to work in the best mood possible 😂 Nothing but positive energy today Tell me I’m not the only one like this #CapCut #relateable #officehumor #workhumor #worktok",
+      "viewCount": 876500,
+      "likeCount": 15700,
+      "commentCount": 138,
+      "shareCount": 36200,
+      "collectCount": 2369,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 325836
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7639838481904160008",
+      "createdAt": "2026-05-14T19:55:11.000Z",
+      "creatorHandle": "rankzone00",
+      "videoUrl": "https://www.tiktok.com/@rankzone00/video/7639838481904160008",
+      "caption": "ranking the funniest duet ever 🤣🤣#foryou #viral #fyp",
+      "viewCount": 1600000,
+      "likeCount": 163400,
+      "commentCount": 327,
+      "shareCount": 15600,
+      "collectCount": 18900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 317370
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7636528496688385294",
+      "createdAt": "2026-05-05T21:50:45.000Z",
+      "creatorHandle": "winchoicecorp",
+      "videoUrl": "https://www.tiktok.com/@winchoicecorp/video/7636528496688385294",
+      "caption": "The audacity😒 #winchoice #corporate #corporatelife #officetok #worktok",
+      "viewCount": 816900,
+      "likeCount": 101700,
+      "commentCount": 253,
+      "shareCount": 29300,
+      "collectCount": 1734,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 311054
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7631598673343909133",
+      "createdAt": "2026-04-22T15:00:31.000Z",
+      "creatorHandle": "ohheyyjanae1",
+      "videoUrl": "https://www.tiktok.com/@ohheyyjanae1/video/7631598673343909133",
+      "caption": "Why did they do this to us? 😑 #dentist #trend #braces #90skid #teeth",
+      "viewCount": 4900000,
+      "likeCount": 103300,
+      "commentCount": 6506,
+      "shareCount": 5914,
+      "collectCount": 5952,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 285830
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7630591766101544206",
+      "createdAt": "2026-04-19T21:53:12.000Z",
+      "creatorHandle": "peyyveree",
+      "videoUrl": "https://www.tiktok.com/@peyyveree/video/7630591766101544206",
+      "caption": "like ohmy #fyp #real",
+      "viewCount": 603500,
+      "likeCount": 155400,
+      "commentCount": 224,
+      "shareCount": 11200,
+      "collectCount": 20400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 263210
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7625169617325002006",
+      "createdAt": "2026-04-05T07:12:29.000Z",
+      "creatorHandle": "dadlifewithriver",
+      "videoUrl": "https://www.tiktok.com/@dadlifewithriver/video/7625169617325002006",
+      "caption": "Parenting on a weekend be like… 🫠 Who can relate? #parent #dadlife #parenthumor #parenting #parents",
+      "viewCount": 635300,
+      "likeCount": 32300,
+      "commentCount": 93,
+      "shareCount": 27500,
+      "collectCount": 1946,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 257570
+    },
+    {
+      "term": "thingsididntknow",
+      "provider": "tag",
+      "videoId": "7636903244597366036",
+      "createdAt": "2026-05-06T22:04:57.000Z",
+      "creatorHandle": "dashvirall",
+      "videoUrl": "https://www.tiktok.com/@dashvirall/video/7636903244597366036",
+      "caption": "Wow the new it couple 🥹🤩 Kim Kardashian and Lewis Hamilton holding hands last night in NYC… they looked absolutely adorable together #kimkardashian #lewishamilton #foryou",
+      "viewCount": 3400000,
+      "likeCount": 180400,
+      "commentCount": 1337,
+      "shareCount": 7538,
+      "collectCount": 5961,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 255718
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7628573588416695566",
+      "createdAt": "2026-04-14T11:21:38.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7628573588416695566",
+      "caption": "POV this is literally every day at work 😂 Why am I explaining the same thing over and over Tell me I’m not the only one dealing with this #CapCut #worktok #relateable #officehumor #workhumor",
+      "viewCount": 642100,
+      "likeCount": 33300,
+      "commentCount": 92,
+      "shareCount": 24900,
+      "collectCount": 4031,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 245736
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7638599665646128398",
+      "createdAt": "2026-05-11T11:47:56.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7638599665646128398",
+      "caption": "POV they think you actually know what you’re doing at work 😂 I’m just showing up and figuring it out Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "viewCount": 437200,
+      "likeCount": 26700,
+      "commentCount": 69,
+      "shareCount": 25500,
+      "collectCount": 2967,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 238652
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627087390686973206",
+      "createdAt": "2026-04-10T11:14:26.000Z",
+      "creatorHandle": "bananaislandgehgeh",
+      "videoUrl": "https://www.tiktok.com/@bananaislandgehgeh/video/7627087390686973206",
+      "caption": "Replying to @BIGALIEN👽 I waka naked for garden of Eden ☹️ na bad character I go dey show una now 😂😂 #funnymemes #commentreply #character #gardenofeden #gehgeh",
+      "viewCount": 1600000,
+      "likeCount": 150300,
+      "commentCount": 3363,
+      "shareCount": 7082,
+      "collectCount": 7966,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 229300
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7637930187312663830",
+      "createdAt": "2026-05-09T16:30:01.000Z",
+      "creatorHandle": "bpottz",
+      "videoUrl": "https://www.tiktok.com/@bpottz/video/7637930187312663830",
+      "caption": "He just wants to give you a hug 😭😭 #johnsmiths #povs #customers #workproblems #customersbelike",
+      "viewCount": 622700,
+      "likeCount": 131200,
+      "commentCount": 375,
+      "shareCount": 14700,
+      "collectCount": 7038,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 227556
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7633980683693690142",
+      "createdAt": "2026-04-29T01:03:56.000Z",
+      "creatorHandle": "sillysquad77",
+      "videoUrl": "https://www.tiktok.com/@sillysquad77/video/7633980683693690142",
+      "caption": "Funny moments of animal moms #fyp #animal #farm #mom #viral",
+      "viewCount": 2200000,
+      "likeCount": 225900,
+      "commentCount": 107,
+      "shareCount": 3352,
+      "collectCount": 10300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 226036
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7638603857379069204",
+      "createdAt": "2026-05-11T12:04:12.000Z",
+      "creatorHandle": "pawsomeranks",
+      "videoUrl": "https://www.tiktok.com/@pawsomeranks/video/7638603857379069204",
+      "caption": "Ranking When Animals Get Wet #usa",
+      "viewCount": 1200000,
+      "likeCount": 46400,
+      "commentCount": 378,
+      "shareCount": 13800,
+      "collectCount": 9135,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 197920
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7635609517975162126",
+      "createdAt": "2026-05-03T10:24:38.000Z",
+      "creatorHandle": "irisrift",
+      "videoUrl": "https://www.tiktok.com/@irisrift/video/7635609517975162126",
+      "caption": "Celebrities watching “HOW IT’S DONE” live… and their reactions say it all. 🔥#celebrityreactions#liveperformance#viralvideo#fyp#howitsdone",
+      "viewCount": 1200000,
+      "likeCount": 90300,
+      "commentCount": 694,
+      "shareCount": 3873,
+      "collectCount": 16300,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 172274
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7628289064105413910",
+      "createdAt": "2026-04-13T16:57:32.000Z",
+      "creatorHandle": "bpottz",
+      "videoUrl": "https://www.tiktok.com/@bpottz/video/7628289064105413910",
+      "caption": "Transferring £1.14 at the till is so icky, come prepared I beg 🤣 #customersbelike #customers #workproblems #povs #relatable",
+      "viewCount": 966900,
+      "likeCount": 108100,
+      "commentCount": 651,
+      "shareCount": 6853,
+      "collectCount": 5728,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 157634
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7636864767029742862",
+      "createdAt": "2026-05-06T19:35:39.000Z",
+      "creatorHandle": "francesca__aagostinelli",
+      "videoUrl": "https://www.tiktok.com/@francesca__aagostinelli/video/7636864767029742862",
+      "caption": "Are with a good man or the right man? #relationshipgoals #relationships #couplegoals #datingadvice",
+      "viewCount": 457500,
+      "likeCount": 62400,
+      "commentCount": 531,
+      "shareCount": 6238,
+      "collectCount": 14400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 153164
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7636772478970334485",
+      "createdAt": "2026-05-06T13:37:31.000Z",
+      "creatorHandle": "anxiouslyalej",
+      "videoUrl": "https://www.tiktok.com/@anxiouslyalej/video/7636772478970334485",
+      "caption": "Men have egos. Every single one of them wants to one up the last guy for better or for worse. 🎟️ Hosting an event in London on May 8th. Link in bio for tickets. #feminineenergy #avoidantattachment #relationships #datingforwomen #datingadvice",
+      "viewCount": 488600,
+      "likeCount": 58300,
+      "commentCount": 630,
+      "shareCount": 6257,
+      "collectCount": 13600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 149678
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7636156800005442846",
+      "createdAt": "2026-05-04T21:48:22.000Z",
+      "creatorHandle": "valeriee.padillaa",
+      "videoUrl": "https://www.tiktok.com/@valeriee.padillaa/video/7636156800005442846",
+      "caption": "First time asking ‘most likely’ questions at work 😭 #worktok #fyp #officehumor #relateable #viral",
+      "viewCount": 441800,
+      "likeCount": 28400,
+      "commentCount": 44,
+      "shareCount": 9427,
+      "collectCount": 12000,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 146892
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7640136103944588557",
+      "createdAt": "2026-05-15T15:10:06.000Z",
+      "creatorHandle": "fiscooemo",
+      "videoUrl": "https://www.tiktok.com/@fiscooemo/video/7640136103944588557",
+      "caption": "Ranking EVERY Song on \"MAID OF HONOUR\" #drake #maidofhonour #whichone #iceman #ranking",
+      "viewCount": 898900,
+      "likeCount": 68700,
+      "commentCount": 889,
+      "shareCount": 7243,
+      "collectCount": 6066,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 143426
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7636776888094035222",
+      "createdAt": "2026-05-06T13:54:38.000Z",
+      "creatorHandle": "dadlifewithriver",
+      "videoUrl": "https://www.tiktok.com/@dadlifewithriver/video/7636776888094035222",
+      "caption": "The middle child though 😅🫠 #parents #parenting #parent #daughter #parenthumor",
+      "viewCount": 402800,
+      "likeCount": 13900,
+      "commentCount": 140,
+      "shareCount": 14500,
+      "collectCount": 1332,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 137734
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7632871240125959454",
+      "createdAt": "2026-04-26T01:18:43.000Z",
+      "creatorHandle": "babyitsjai",
+      "videoUrl": "https://www.tiktok.com/@babyitsjai/video/7632871240125959454",
+      "caption": "Target acquired.#pageforyou #foru #ig #fyp",
+      "viewCount": 411800,
+      "likeCount": 103400,
+      "commentCount": 330,
+      "shareCount": 3631,
+      "collectCount": 10100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 132684
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7623646245650828574",
+      "createdAt": "2026-04-01T04:41:02.000Z",
+      "creatorHandle": "juliecarstairs",
+      "videoUrl": "https://www.tiktok.com/@juliecarstairs/video/7623646245650828574",
+      "caption": "You will attract different and BETTER people when focus on self improvement and you are secure in all areas of your life. Then if you are dating to be chosen or to fill a void. Focus on self improvement and getting to where you want to be and then come back and tell me how much more confident you feel. #selfimprovement #datingadvice #dating #datingtips",
+      "viewCount": 365900,
+      "likeCount": 62900,
+      "commentCount": 202,
+      "shareCount": 4136,
+      "collectCount": 13000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 125876
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7638484621381963038",
+      "createdAt": "2026-05-11T04:21:30.000Z",
+      "creatorHandle": "trinssecretspam13",
+      "videoUrl": "https://www.tiktok.com/@trinssecretspam13/video/7638484621381963038",
+      "caption": "#boyfriend #replies #story #delete #compliment",
+      "viewCount": 433500,
+      "likeCount": 107800,
+      "commentCount": 94,
+      "shareCount": 3486,
+      "collectCount": 8528,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 125510
+    },
+    {
+      "term": "storyresponse",
+      "provider": "discover",
+      "videoId": "7629949536156273941",
+      "createdAt": "2026-04-18T04:21:01.000Z",
+      "creatorHandle": "joshuaellis_",
+      "videoUrl": "https://www.tiktok.com/@joshuaellis_/video/7629949536156273941",
+      "caption": "The gluttony is sickening.                                  #fyp #relateable #xyzbca #viral #trend",
+      "viewCount": 1800000,
+      "likeCount": 81000,
+      "commentCount": 73,
+      "shareCount": 4760,
+      "collectCount": 1839,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 122666
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7632410821108174093",
+      "createdAt": "2026-04-24T19:32:04.000Z",
+      "creatorHandle": "smashtoastfood",
+      "videoUrl": "https://www.tiktok.com/@smashtoastfood/video/7632410821108174093",
+      "caption": "Jk we are besties  #funny #relateable #worktok #trending #fyp",
+      "viewCount": 403700,
+      "likeCount": 41500,
+      "commentCount": 39,
+      "shareCount": 10500,
+      "collectCount": 1903,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 120826
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7639371189583973663",
+      "createdAt": "2026-05-13T13:41:51.000Z",
+      "creatorHandle": "myteacherface",
+      "videoUrl": "https://www.tiktok.com/@myteacherface/video/7639371189583973663",
+      "caption": "Didn’t realize how often I laughed at my own corny jokes until editing 🤦🏻‍♀️😂🫠 #Myteacherface #funnyteacher #teachers #teachersoftiktok #tiktokteacher",
+      "viewCount": 552600,
+      "likeCount": 88800,
+      "commentCount": 420,
+      "shareCount": 4343,
+      "collectCount": 6400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 119996
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7630202759903595789",
+      "createdAt": "2026-04-18T20:43:39.000Z",
+      "creatorHandle": "jiasecret1",
+      "videoUrl": "https://www.tiktok.com/@jiasecret1/video/7630202759903595789",
+      "caption": "#asian #dance #sister #xyzbca #fypシ",
+      "viewCount": 736800,
+      "likeCount": 90100,
+      "commentCount": 128,
+      "shareCount": 3229,
+      "collectCount": 8181,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 119622
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7638667512095214878",
+      "createdAt": "2026-05-11T16:11:13.000Z",
+      "creatorHandle": "sabrina.zohar",
+      "videoUrl": "https://www.tiktok.com/@sabrina.zohar/video/7638667512095214878",
+      "caption": "The right relationship will add to your life, not drain the fucking life out of you. You should feel more energized, more open, more creative, more like yourself. Not constantly anxious, overthinking, and stuck in survival mode trying to earn basic consistency. Love should have vitality to it. Growth to it. It should feel like two people building something together, not one person carrying the entire emotional weight of the relationship. #datingadvice #healthyrelationships #selfworth #youdeservebetter  #relationshipadvice",
+      "viewCount": 345400,
+      "likeCount": 49500,
+      "commentCount": 257,
+      "shareCount": 3565,
+      "collectCount": 12200,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 111548
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7634212785815211286",
+      "createdAt": "2026-04-29T16:04:36.000Z",
+      "creatorHandle": "adihoseki",
+      "videoUrl": "https://www.tiktok.com/@adihoseki/video/7634212785815211286",
+      "caption": "Réponse à @naomieandpoppy They think I serve coffee, I just serve looks at the office 😎☕️✨️ #BonjourHoney  #AltFashion  #GRWM  #CommentReply  #FYP",
+      "viewCount": 2200000,
+      "likeCount": 87900,
+      "commentCount": 401,
+      "shareCount": 1036,
+      "collectCount": 2077,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 108556
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7636720270262193428",
+      "createdAt": "2026-05-06T10:14:55.000Z",
+      "creatorHandle": "thilar_official",
+      "videoUrl": "https://www.tiktok.com/@thilar_official/video/7636720270262193428",
+      "caption": "ယောက်ျားလေးတွေ တကယ် ချစ်ရင် ဘယ်လို ပုံံစံမျိုးလဲ 🥰 #ယောက်ျား #commentreply #thilar #သိလား #ပုံစံ",
+      "viewCount": 550800,
+      "likeCount": 43000,
+      "commentCount": 348,
+      "shareCount": 6701,
+      "collectCount": 4425,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 107304
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7637570007571893517",
+      "createdAt": "2026-05-08T17:12:20.000Z",
+      "creatorHandle": "jorlala",
+      "videoUrl": "https://www.tiktok.com/@jorlala/video/7637570007571893517",
+      "caption": "def wasn’t getting a free drink w all that attitude  #baristalife #baristatok #worklife #customerstories #customersbelike",
+      "viewCount": 1100000,
+      "likeCount": 141100,
+      "commentCount": 161,
+      "shareCount": 332,
+      "collectCount": 2548,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 107008
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7635345967801290006",
+      "createdAt": "2026-05-02T17:21:56.000Z",
+      "creatorHandle": "zhwaves1",
+      "videoUrl": "https://www.tiktok.com/@zhwaves1/video/7635345967801290006",
+      "caption": "THE JAPANESE PARENTING HABIT THAT RAISES BABIES WITH EXTREMELY HIGH IQ PT.2 #mothertips #japanees #mother",
+      "viewCount": 342800,
+      "likeCount": 25500,
+      "commentCount": 86,
+      "shareCount": 6483,
+      "collectCount": 8348,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 105722
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7630504597873888534",
+      "createdAt": "2026-04-19T16:14:56.000Z",
+      "creatorHandle": "tobyfrombath",
+      "videoUrl": "https://www.tiktok.com/@tobyfrombath/video/7630504597873888534",
+      "caption": "What’s your unpopular opinion? 🙂 @alnashcomedy @Benedict Townsend  Can hull flex be the deciding variable if isolation mounting is doing that much work? Comment below 👇  #streetinterview #comedy #sketch",
+      "viewCount": 303600,
+      "likeCount": 52100,
+      "commentCount": 310,
+      "shareCount": 6931,
+      "collectCount": 3660,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 105310
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7620468446618307870",
+      "createdAt": "2026-03-23T15:09:33.000Z",
+      "creatorHandle": "ame_gingy",
+      "videoUrl": "https://www.tiktok.com/@ame_gingy/video/7620468446618307870",
+      "caption": "come back later PLEASE  #trending #tiktok #worklife #restaurant",
+      "viewCount": 552300,
+      "likeCount": 132700,
+      "commentCount": 233,
+      "shareCount": 1022,
+      "collectCount": 3839,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 103258
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7638974297742052622",
+      "createdAt": "2026-05-12T12:01:42.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7638974297742052622",
+      "caption": "POV you had to describe your workplace in one sentence 😂 This might be the most accurate thing ever Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "viewCount": 195500,
+      "likeCount": 3652,
+      "commentCount": 39,
+      "shareCount": 11700,
+      "collectCount": 805,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 102946
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7636784372284149023",
+      "createdAt": "2026-05-06T14:23:40.000Z",
+      "creatorHandle": "xaviercmiller",
+      "videoUrl": "https://www.tiktok.com/@xaviercmiller/video/7636784372284149023",
+      "caption": "People Tell On Themselves With This One Sentence…",
+      "viewCount": 248700,
+      "likeCount": 35900,
+      "commentCount": 916,
+      "shareCount": 5123,
+      "collectCount": 6631,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 99592
+    },
+    {
+      "term": "customertok",
+      "provider": "discover",
+      "videoId": "7618721202802035981",
+      "createdAt": "2026-03-18T22:09:21.000Z",
+      "creatorHandle": "mixedify",
+      "videoUrl": "https://www.tiktok.com/@mixedify/video/7618721202802035981",
+      "caption": "I DESTROYED this TOXIC Camper 😭 #robloxfyp #robloxrivals #rivals #roblox",
+      "viewCount": 1900000,
+      "likeCount": 52300,
+      "commentCount": 643,
+      "shareCount": 529,
+      "collectCount": 5376,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 96316
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7634142251916021005",
+      "createdAt": "2026-04-29T11:30:54.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7634142251916021005",
+      "caption": "POV you look around at your job and realize it’s chaos 😂 Like how is this even functioning Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "viewCount": 204200,
+      "likeCount": 6949,
+      "commentCount": 128,
+      "shareCount": 10200,
+      "collectCount": 1228,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 95351
+    },
+    {
+      "term": "greenscreen",
+      "provider": "tag",
+      "videoId": "7640217525766147359",
+      "createdAt": "2026-05-15T20:26:04.000Z",
+      "creatorHandle": "everythingethan",
+      "videoUrl": "https://www.tiktok.com/@everythingethan/video/7640217525766147359",
+      "caption": "#greenscreen #gta6 #gta #rockstargames",
+      "viewCount": 699600,
+      "likeCount": 60900,
+      "commentCount": 1175,
+      "shareCount": 2356,
+      "collectCount": 4903,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 94652
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7626149555909823774",
+      "createdAt": "2026-04-07T22:35:09.000Z",
+      "creatorHandle": "westcoastemployment",
+      "videoUrl": "https://www.tiktok.com/@westcoastemployment/video/7626149555909823774",
+      "caption": "There were definitely new comments 🫢 @Rob H #workhumor #officehumor #corporatetok #emails #workinghard",
+      "viewCount": 275300,
+      "likeCount": 43200,
+      "commentCount": 27,
+      "shareCount": 7622,
+      "collectCount": 1532,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 94480
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7639316213973421333",
+      "createdAt": "2026-05-13T10:08:31.000Z",
+      "creatorHandle": "redactedreality01",
+      "videoUrl": "https://www.tiktok.com/@redactedreality01/video/7639316213973421333",
+      "caption": "Once you understand the game, you’re not trapped anymore #corporatelife #corporatetiktok #corporatesurvival #workmemes #corporategirlies",
+      "viewCount": 619700,
+      "likeCount": 33600,
+      "commentCount": 174,
+      "shareCount": 6056,
+      "collectCount": 3695,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 94162
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627275101624438038",
+      "createdAt": "2026-04-10T23:22:51.000Z",
+      "creatorHandle": "bananaislandgehgeh",
+      "videoUrl": "https://www.tiktok.com/@bananaislandgehgeh/video/7627275101624438038",
+      "caption": "Replying to @OFIEN MARVIN🇩🇪🇩🇪🇩🇪🇩🇪 I’m active for problem 😂😂 #funnymemes #problems #commentreply #meme #gehgeh",
+      "viewCount": 662000,
+      "likeCount": 60000,
+      "commentCount": 682,
+      "shareCount": 3423,
+      "collectCount": 2750,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 88444
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7619718003071913230",
+      "createdAt": "2026-03-21T14:37:27.000Z",
+      "creatorHandle": "chillonprince",
+      "videoUrl": "https://www.tiktok.com/@chillonprince/video/7619718003071913230",
+      "caption": "",
+      "viewCount": 234700,
+      "likeCount": 34300,
+      "commentCount": 87,
+      "shareCount": 5979,
+      "collectCount": 4403,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 88158
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7638644993015450887",
+      "createdAt": "2026-05-11T14:43:50.000Z",
+      "creatorHandle": "tu_bb.504",
+      "videoUrl": "https://www.tiktok.com/@tu_bb.504/video/7638644993015450887",
+      "caption": "#humortiktok🤣😜😅😂🤪 #🤣🤣🤣 #ispanos🇬🇹🇭🇳🇳🇮🇲🇽🇸🇻🇵🇦🇪🇨 #vira_video #paratii",
+      "viewCount": 640100,
+      "likeCount": 4560,
+      "commentCount": 112,
+      "shareCount": 8296,
+      "collectCount": 1105,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 86990
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7639944719367294238",
+      "createdAt": "2026-05-15T02:47:26.000Z",
+      "creatorHandle": "trinity.blair",
+      "videoUrl": "https://www.tiktok.com/@trinity.blair/video/7639944719367294238",
+      "caption": "Be a prepared baddie🫣 #advice #relationships #dating #crush #kissing",
+      "viewCount": 513100,
+      "likeCount": 62000,
+      "commentCount": 210,
+      "shareCount": 1673,
+      "collectCount": 6694,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 83522
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7638289824578817293",
+      "createdAt": "2026-05-10T15:45:36.000Z",
+      "creatorHandle": "mikewestonofficial",
+      "videoUrl": "https://www.tiktok.com/@mikewestonofficial/video/7638289824578817293",
+      "caption": "Let’s look busy together #work #worklife #workhumor",
+      "viewCount": 452400,
+      "likeCount": 16500,
+      "commentCount": 191,
+      "shareCount": 7397,
+      "collectCount": 1261,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 83428
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7636843483453590815",
+      "createdAt": "2026-05-06T18:13:03.000Z",
+      "creatorHandle": "steve_ralph_official",
+      "videoUrl": "https://www.tiktok.com/@steve_ralph_official/video/7636843483453590815",
+      "caption": "She Stayed When Things Got Hard Thats Rare in Today's Dating.. #modernlove #relationshiptruths #loyalty #datingadvice #realconnection",
+      "viewCount": 304300,
+      "likeCount": 22000,
+      "commentCount": 231,
+      "shareCount": 4331,
+      "collectCount": 7284,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 83180
+    },
+    {
+      "term": "ranking",
+      "provider": "tag",
+      "videoId": "7640154614926429470",
+      "createdAt": "2026-05-15T16:21:56.000Z",
+      "creatorHandle": "loganconover_",
+      "videoUrl": "https://www.tiktok.com/@loganconover_/video/7640154614926429470",
+      "caption": "Trying and ranking every @Hidden Valley Ranch #ranch #tastetest #ranking",
+      "viewCount": 410500,
+      "likeCount": 76400,
+      "commentCount": 739,
+      "shareCount": 1557,
+      "collectCount": 2631,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 76780
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7638812356872604950",
+      "createdAt": "2026-05-12T01:33:17.000Z",
+      "creatorHandle": "topmania.20",
+      "videoUrl": "https://www.tiktok.com/@topmania.20/video/7638812356872604950",
+      "caption": "My Red Falgs Filter🚩😅😅#redflags #filter #usatiktok🇺🇸 #uktiktok #viral",
+      "viewCount": 923900,
+      "likeCount": 52700,
+      "commentCount": 96,
+      "shareCount": 1525,
+      "collectCount": 3511,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72032
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7639331944265764109",
+      "createdAt": "2026-05-13T11:09:33.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7639331944265764109",
+      "caption": "POV this is just a regular day at work for you and your coworkers 😂 HR would have a field day with us Tell me I’m not the only one #CapCut #workhumor #officehumor #relateable #worktok",
+      "viewCount": 162700,
+      "likeCount": 3487,
+      "commentCount": 35,
+      "shareCount": 7873,
+      "collectCount": 621,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 70816
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7639348339653250322",
+      "createdAt": "2026-05-13T12:13:11.000Z",
+      "creatorHandle": "king.rizzlerr",
+      "videoUrl": "https://www.tiktok.com/@king.rizzlerr/video/7639348339653250322",
+      "caption": "NA lobbies are too easy 😮‍💨@Plug AI #pickupline #viral #trending #rizz",
+      "viewCount": 457200,
+      "likeCount": 32900,
+      "commentCount": 333,
+      "shareCount": 2227,
+      "collectCount": 5947,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 70528
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7637218415601569038",
+      "createdAt": "2026-05-07T18:27:59.000Z",
+      "creatorHandle": "itsmasonharper",
+      "videoUrl": "https://www.tiktok.com/@itsmasonharper/video/7637218415601569038",
+      "caption": "Ask Him One Of These Two Questions And He'll Think About You All Night. #relationships #datingpsychology #attractiontips #darkpsychology #relationshipadvice",
+      "viewCount": 282800,
+      "likeCount": 14800,
+      "commentCount": 361,
+      "shareCount": 2051,
+      "collectCount": 9299,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 70270
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7637290147079261454",
+      "createdAt": "2026-05-07T23:06:20.000Z",
+      "creatorHandle": "mr_lindsay_sped",
+      "videoUrl": "https://www.tiktok.com/@mr_lindsay_sped/video/7637290147079261454",
+      "caption": "Middle Schoolers be wildin lately. 😅 #genalpha #middleschoolersbelike #teach #teachersoftiktok #middleschool",
+      "viewCount": 311100,
+      "likeCount": 27000,
+      "commentCount": 657,
+      "shareCount": 4638,
+      "collectCount": 1372,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 68884
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7638248483538930977",
+      "createdAt": "2026-05-10T13:05:10.000Z",
+      "creatorHandle": "connectwithgrowth",
+      "videoUrl": "https://www.tiktok.com/@connectwithgrowth/video/7638248483538930977",
+      "caption": "This is How Cardi B Parents Her Children As a Celebrity. A lot of celebrity parents talk about giving their kids “everything,” but Cardi B seems focused on giving her children something completely different. Structure. Expectations. Discipline. Even with millions of dollars and global fame, she still makes sure her kids have tutoring, activities, routines, and responsibilities because she doesn’t want them growing up believing the world automatically owes them something. What makes this interesting is that she openly connects it back to her own childhood and the fear of repeating cycles. She isn’t trying to raise kids who are famous by association. She wants them to become capable people outside of her success. In a culture where wealth often removes struggle entirely, this mindset stands out because it’s less about privilege and more about preparing children for reality before reality prepares them first. #parentingmindset #raisingkids #consciousparenting",
+      "viewCount": 989100,
+      "likeCount": 56400,
+      "commentCount": 339,
+      "shareCount": 658,
+      "collectCount": 2892,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 68204
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7638752250424347918",
+      "createdAt": "2026-05-11T21:40:03.000Z",
+      "creatorHandle": "voteforpedrop",
+      "videoUrl": "https://www.tiktok.com/@voteforpedrop/video/7638752250424347918",
+      "caption": "Most terrifying ad ever made‼️😱 #react #reactionvideo #scary #sad #emotional",
+      "viewCount": 332800,
+      "likeCount": 22100,
+      "commentCount": 214,
+      "shareCount": 3750,
+      "collectCount": 4328,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 67158
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7636356053218659592",
+      "createdAt": "2026-05-05T10:41:35.000Z",
+      "creatorHandle": "melsbookspace",
+      "videoUrl": "https://www.tiktok.com/@melsbookspace/video/7636356053218659592",
+      "caption": "👁👄👁  happy 1 year to this masterpiece 😂 #booktokfyp #bookhumor #bookgirlies #bookishhumour #readerlife lazy readers",
+      "viewCount": 362200,
+      "likeCount": 25100,
+      "commentCount": 146,
+      "shareCount": 4709,
+      "collectCount": 1082,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 63254
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7638651512289316127",
+      "createdAt": "2026-05-11T15:09:08.000Z",
+      "creatorHandle": "ask_the_np_mom",
+      "videoUrl": "https://www.tiktok.com/@ask_the_np_mom/video/7638651512289316127",
+      "caption": "Here are a few tips that make a BIG difference when your kid throws food  ➡️ Don’t preload the whole plate: give 2–3 pieces at a time ➡️ Watch for the early signs they’re done (slowing down, playing more than eating- throwing follows!) ➡️ Teach a “finished” cue early (sign)  ➡️ Keep your response boring and predictable every time ➡️ Avoid laughing even once because that’s all it takes to reinforce it ➡️Sit and eat with them when you can bc modeling matters more than you think throwing food is often a communication issue, not a behavior problem. We get to the root of it and the behavior eventually stops! Thanks for sharing your triggering moment 😂 @athomewithnatasha #toddler #infant #babies #motherhood #solids",
+      "viewCount": 171800,
+      "likeCount": 11200,
+      "commentCount": 151,
+      "shareCount": 4355,
+      "collectCount": 3959,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 61222
+    },
+    {
+      "term": "greenscreen",
+      "provider": "discover",
+      "videoId": "7640195004048231710",
+      "createdAt": "2026-05-15T18:58:40.000Z",
+      "creatorHandle": "rhibeats_didthat",
+      "videoUrl": "https://www.tiktok.com/@rhibeats_didthat/video/7640195004048231710",
+      "caption": "#greenscreenvideo #greenscreen have you seen “the crash” on Netflix yet? If so, what’s your opinion #thecrash #mackenzieshirilla #truecrime",
+      "viewCount": 730500,
+      "likeCount": 21700,
+      "commentCount": 688,
+      "shareCount": 1181,
+      "collectCount": 4468,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 59660
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7638772728580803870",
+      "createdAt": "2026-05-11T22:59:31.000Z",
+      "creatorHandle": ".carolgiselle",
+      "videoUrl": "https://www.tiktok.com/@.carolgiselle/video/7638772728580803870",
+      "caption": "I’m huge on communication in my classroom and I truly believe even our youngest learners are capable of learning how to express themselves in meaningful ways. Today I modeled exactly how I teach communication skills in my classroom and getting to hear the students’ live reactions and feedback was honestly my favorite part. Moments like this remind me how important it is to give kids the space to use their voice. I really wish I had experiences like this when I was in school 🤍 #TeacherTok #TeachersOfTikTok #ElementaryTeacher #ClassroomCommunity #LearnOnTikTok",
+      "viewCount": 227800,
+      "likeCount": 24800,
+      "commentCount": 322,
+      "shareCount": 1361,
+      "collectCount": 6979,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 58980
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7620843821709970718",
+      "createdAt": "2026-03-24T15:26:12.000Z",
+      "creatorHandle": "tara.raani2",
+      "videoUrl": "https://www.tiktok.com/@tara.raani2/video/7620843821709970718",
+      "caption": "literally 100p successs rate",
+      "viewCount": 197100,
+      "likeCount": 32800,
+      "commentCount": 69,
+      "shareCount": 1431,
+      "collectCount": 6469,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 58356
+    },
+    {
+      "term": "storyresponse",
+      "provider": "tag",
+      "videoId": "7635025411734342943",
+      "createdAt": "2026-05-01T20:38:00.000Z",
+      "creatorHandle": "therealyogiii",
+      "videoUrl": "https://www.tiktok.com/@therealyogiii/video/7635025411734342943",
+      "caption": "#girlfriend #replies #story #delete #compliment",
+      "viewCount": 234300,
+      "likeCount": 43100,
+      "commentCount": 53,
+      "shareCount": 1708,
+      "collectCount": 4198,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 57222
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7639743830719302926",
+      "createdAt": "2026-05-14T13:47:53.000Z",
+      "creatorHandle": "abefromanx",
+      "videoUrl": "https://www.tiktok.com/@abefromanx/video/7639743830719302926",
+      "caption": "if you get back with someone too soon nothing will be different #dating #datingadviceforwomen #heartbreak #datingtips #lifeadvice",
+      "viewCount": 419000,
+      "likeCount": 42300,
+      "commentCount": 209,
+      "shareCount": 836,
+      "collectCount": 4280,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 55428
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7639503572706594062",
+      "createdAt": "2026-05-13T22:15:34.000Z",
+      "creatorHandle": "g_unit24",
+      "videoUrl": "https://www.tiktok.com/@g_unit24/video/7639503572706594062",
+      "caption": "Inside the mind of a teacher in May #teacher #teachersoftiktok #teacherlife",
+      "viewCount": 139000,
+      "likeCount": 18700,
+      "commentCount": 391,
+      "shareCount": 4160,
+      "collectCount": 1267,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 54388
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7639778566170742047",
+      "createdAt": "2026-05-14T16:02:40.000Z",
+      "creatorHandle": "jayshettypodcast",
+      "videoUrl": "https://www.tiktok.com/@jayshettypodcast/video/7639778566170742047",
+      "caption": "It’s about openness more than it is “attractiveness” 🙌 clipped from my episode with @Vanessa Van Edwards  #dating #relationships #date #advice",
+      "viewCount": 429500,
+      "likeCount": 20400,
+      "commentCount": 325,
+      "shareCount": 2100,
+      "collectCount": 3810,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 54080
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7637319305574632734",
+      "createdAt": "2026-05-08T00:59:29.000Z",
+      "creatorHandle": "biancazov",
+      "videoUrl": "https://www.tiktok.com/@biancazov/video/7637319305574632734",
+      "caption": "My son is 5. He most of the time has no ill intentions, but things like this are so important to stop in their tracks before it become second nature. I will never put up with my child being the reason for someone else’s hurt. Before this conversation, there were lots of tears and things were taken away. I’m not perfect, but I’m trying every day to set his future up for success.  #motherhood #parenting #toughlove #parentsoftiktok #momsover30",
+      "viewCount": 266000,
+      "likeCount": 33100,
+      "commentCount": 501,
+      "shareCount": 1681,
+      "collectCount": 3338,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 53680
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627128071820152094",
+      "createdAt": "2026-04-10T13:52:18.000Z",
+      "creatorHandle": "anamikapunjaban",
+      "videoUrl": "https://www.tiktok.com/@anamikapunjaban/video/7627128071820152094",
+      "caption": "Replying to @1985@h-jattana #commentreply #punjabitiktoker #birdlovers #crow #desitiktoker",
+      "viewCount": 244100,
+      "likeCount": 23700,
+      "commentCount": 2968,
+      "shareCount": 126,
+      "collectCount": 1564,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 53676
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7639992520771898637",
+      "createdAt": "2026-05-15T05:52:56.000Z",
+      "creatorHandle": "calebhammercomposer",
+      "videoUrl": "https://www.tiktok.com/@calebhammercomposer/video/7639992520771898637",
+      "caption": "The Biggest Red Flag in Financial Audit History",
+      "viewCount": 458900,
+      "likeCount": 51400,
+      "commentCount": 147,
+      "shareCount": 527,
+      "collectCount": 2680,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 51284
+    },
+    {
+      "term": "unpopularopinion",
+      "provider": "tag",
+      "videoId": "7636430466890943774",
+      "createdAt": "2026-05-05T15:30:20.000Z",
+      "creatorHandle": "jessie.song",
+      "videoUrl": "https://www.tiktok.com/@jessie.song/video/7636430466890943774",
+      "caption": "The moment a woman let go the obsession of being loved is the moment she sets herself free",
+      "viewCount": 158700,
+      "likeCount": 28400,
+      "commentCount": 255,
+      "shareCount": 1414,
+      "collectCount": 4848,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 50628
+    },
+    {
+      "term": "ranking",
+      "provider": "discover",
+      "videoId": "7618732704263146774",
+      "createdAt": "2026-03-18T22:53:59.000Z",
+      "creatorHandle": "rank_pro_",
+      "videoUrl": "https://www.tiktok.com/@rank_pro_/video/7618732704263146774",
+      "caption": "Ranking The Funniest You Laugh You Go to Hell Videos  #tiktokviral #trend #ranking #moments #springbreak",
+      "viewCount": 353400,
+      "likeCount": 8092,
+      "commentCount": 341,
+      "shareCount": 3397,
+      "collectCount": 2161,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 50344
+    },
+    {
+      "term": "customertok",
+      "provider": "tag",
+      "videoId": "7631743897345068301",
+      "createdAt": "2026-04-23T00:24:03.000Z",
+      "creatorHandle": "jorlala",
+      "videoUrl": "https://www.tiktok.com/@jorlala/video/7631743897345068301",
+      "caption": "i never expected that of all things to be what came out of her mouth😀😀😀😀😀 #baristalife #baristatok #worklife #customerstories #customersbelike",
+      "viewCount": 299000,
+      "likeCount": 47000,
+      "commentCount": 418,
+      "shareCount": 712,
+      "collectCount": 2177,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 48064
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7626874616249666838",
+      "createdAt": "2026-04-09T21:28:45.000Z",
+      "creatorHandle": "bananaislandgehgeh",
+      "videoUrl": "https://www.tiktok.com/@bananaislandgehgeh/video/7626874616249666838",
+      "caption": "Replying to @ozioma wizkid vs burnaboy 😂😂 #commentreply #fightclub #wizkid #burnaboy #funnymemes",
+      "viewCount": 400200,
+      "likeCount": 35100,
+      "commentCount": 693,
+      "shareCount": 916,
+      "collectCount": 1807,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 47040
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7637738270956342548",
+      "createdAt": "2026-05-09T04:05:17.000Z",
+      "creatorHandle": "lucas.edu.vlogg",
+      "videoUrl": "https://www.tiktok.com/@lucas.edu.vlogg/video/7637738270956342548",
+      "caption": "Replying to @abhhh_24  #commentreply #g12bio #g12 #fyp",
+      "viewCount": 65000,
+      "likeCount": 3220,
+      "commentCount": 24,
+      "shareCount": 5427,
+      "collectCount": 85,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 46906
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7638322625869040926",
+      "createdAt": "2026-05-10T17:52:53.000Z",
+      "creatorHandle": "itsmasonharper",
+      "videoUrl": "https://www.tiktok.com/@itsmasonharper/video/7638322625869040926",
+      "caption": "Say This and He'll Chase You Without You Trying... #relationships #relationshipadvice #datingadvice #datingtips #datingpsychology",
+      "viewCount": 145700,
+      "likeCount": 6629,
+      "commentCount": 516,
+      "shareCount": 1357,
+      "collectCount": 4967,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 42113
+    },
+    {
+      "term": "teachersoftiktok",
+      "provider": "tag",
+      "videoId": "7640207754493250829",
+      "createdAt": "2026-05-15T19:48:09.000Z",
+      "creatorHandle": "keldricholmes",
+      "videoUrl": "https://www.tiktok.com/@keldricholmes/video/7640207754493250829",
+      "caption": "ONLY ONE MORE WEEK!!🥳🥳🥳  #fyp #teachersoftiktok #elementaryschool",
+      "viewCount": 131900,
+      "likeCount": 21700,
+      "commentCount": 561,
+      "shareCount": 1965,
+      "collectCount": 932,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 38546
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7631041545612840212",
+      "createdAt": "2026-04-21T02:58:34.000Z",
+      "creatorHandle": "thilar_official",
+      "videoUrl": "https://www.tiktok.com/@thilar_official/video/7631041545612840212",
+      "caption": "Official မချပြတာ တကယ် မချစ်လို့လား 🥰 #official #silence #thilar #သိလား #commentreply",
+      "viewCount": 310200,
+      "likeCount": 23400,
+      "commentCount": 110,
+      "shareCount": 1348,
+      "collectCount": 2152,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 38396
+    },
+    {
+      "term": "hot take",
+      "provider": "discover",
+      "videoId": "7638968229729160470",
+      "createdAt": "2026-05-12T11:38:09.000Z",
+      "creatorHandle": "_crusty_dih_cheese",
+      "videoUrl": "https://www.tiktok.com/@_crusty_dih_cheese/video/7638968229729160470",
+      "caption": "Dont be shy 😛😛#hottake #ootd #foryoupageofficiall❤️❤️tiktok #aesthetic",
+      "viewCount": 111000,
+      "likeCount": 6717,
+      "commentCount": 2966,
+      "shareCount": 105,
+      "collectCount": 548,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 38271
+    },
+    {
+      "term": "redflag",
+      "provider": "tag",
+      "videoId": "7640119737271258381",
+      "createdAt": "2026-05-15T14:06:36.000Z",
+      "creatorHandle": "loving_futbol03",
+      "videoUrl": "https://www.tiktok.com/@loving_futbol03/video/7640119737271258381",
+      "caption": "CINCO RED  FLAG #eltemach #contenido #motivation #consejos #reflexion",
+      "viewCount": 298900,
+      "likeCount": 18400,
+      "commentCount": 106,
+      "shareCount": 515,
+      "collectCount": 4187,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 37106
+    },
+    {
+      "term": "datingadvice",
+      "provider": "tag",
+      "videoId": "7639439471238188318",
+      "createdAt": "2026-05-13T18:06:49.000Z",
+      "creatorHandle": "itsmasonharper",
+      "videoUrl": "https://www.tiktok.com/@itsmasonharper/video/7639439471238188318",
+      "caption": "3 signs you're more attractive to men than you realize. #relationships #datingadvice #datingtips #darkpsychology #relationshipadvice",
+      "viewCount": 138500,
+      "likeCount": 3957,
+      "commentCount": 195,
+      "shareCount": 3243,
+      "collectCount": 731,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 35567
+    },
+    {
+      "term": "parenting",
+      "provider": "tag",
+      "videoId": "7632033071226719510",
+      "createdAt": "2026-04-23T19:06:12.000Z",
+      "creatorHandle": "positivityasparents",
+      "videoUrl": "https://www.tiktok.com/@positivityasparents/video/7632033071226719510",
+      "caption": "The day I became a parent, was the best day of my life.. Share this with another parent who feels this way ❤️ Becoming a parent changes how you measure life. 🤍 The day your child is born, parenting begins — and everything changes.. Fatherhood and motherhood teach a deeper kind of love: protective, overwhelming, life-altering. 💝 Since that moment, life isn’t about milestones for me — it’s about theirs. ✨ Share this with another parent who feels this way ❤️ • • • • • #inspiration #parenting #parentinglife",
+      "viewCount": 122000,
+      "likeCount": 5793,
+      "commentCount": 69,
+      "shareCount": 2558,
+      "collectCount": 1714,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 33347
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7633125469939879190",
+      "createdAt": "2026-04-26T17:45:16.000Z",
+      "creatorHandle": "maazfaisal60",
+      "videoUrl": "https://www.tiktok.com/@maazfaisal60/video/7633125469939879190",
+      "caption": "comment reply 😎💪 #3dartist #blender3d #aivideos #commentreply",
+      "viewCount": 378100,
+      "likeCount": 18600,
+      "commentCount": 402,
+      "shareCount": 815,
+      "collectCount": 1292,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 32570
+    }
+  ]
+}

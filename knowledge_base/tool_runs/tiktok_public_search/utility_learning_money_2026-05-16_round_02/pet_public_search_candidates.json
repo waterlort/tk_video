@@ -1,0 +1,1761 @@
+{
+  "generatedAt": "2026-05-16T04:19:04.100Z",
+  "days": 60,
+  "terms": [
+    "learnontiktok",
+    "lifehack",
+    "productivitytips",
+    "aitools",
+    "chatgpttips",
+    "careeradvice",
+    "sidehustle",
+    "moneytok",
+    "smallbusiness",
+    "marketingtips",
+    "studytok",
+    "booktok",
+    "explained",
+    "howto"
+  ],
+  "warnings": [
+    "moneytok/discover failed: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.tiktok.com/discover/moneytok\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  ],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7634667301081582862",
+      "createdAt": "2026-04-30T21:28:21.000Z",
+      "creatorHandle": "exe_neuro",
+      "videoUrl": "https://www.tiktok.com/@exe_neuro/video/7634667301081582862",
+      "caption": "this ended exactly how you think",
+      "viewCount": 120900000,
+      "likeCount": 21600000,
+      "commentCount": 136800,
+      "shareCount": 5200000,
+      "collectCount": 1600000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 62586000
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7631787016769899806",
+      "createdAt": "2026-04-23T03:11:23.000Z",
+      "creatorHandle": "uknome_quadieb",
+      "videoUrl": "https://www.tiktok.com/@uknome_quadieb/video/7631787016769899806",
+      "caption": "The 3 year old Kambri was horrible😂😂😭 #terrible3s  #mickeymouse #toddlersoftiktok  #throwback",
+      "viewCount": 76600000,
+      "likeCount": 13300000,
+      "commentCount": 113900,
+      "shareCount": 4000000,
+      "collectCount": 1100000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 45721000
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7628108599549496589",
+      "createdAt": "2026-04-13T05:17:15.000Z",
+      "creatorHandle": "tierneygoodnight",
+      "videoUrl": "https://www.tiktok.com/@tierneygoodnight/video/7628108599549496589",
+      "caption": "I wasn’t sure if this would work on her…the best part was her brother at the end  . . https://www.facebook.com/share/r/15mqZzQXm3j/?mibextid=wwXIfr . . https://www.instagram.com/reel/DXFnowdiZvF/?igsh=MTQ1dXQwcm9rZnVq . . https://youtube.com/shorts/QvsRn9ocBMk?si=6xUvEhwFZMtFvXja",
+      "viewCount": 54200000,
+      "likeCount": 9700000,
+      "commentCount": 42100,
+      "shareCount": 2700000,
+      "collectCount": 622100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 30443400
+    },
+    {
+      "term": "aitools",
+      "provider": "tag",
+      "videoId": "7625260876962008350",
+      "createdAt": "2026-04-05T13:06:38.000Z",
+      "creatorHandle": "ssht014",
+      "videoUrl": "https://www.tiktok.com/@ssht014/video/7625260876962008350",
+      "caption": "#movies #tvshow #edit #fyp #fouryou",
+      "viewCount": 65800000,
+      "likeCount": 7500000,
+      "commentCount": 48400,
+      "shareCount": 332900,
+      "collectCount": 771000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 11297200
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7627326443021700382",
+      "createdAt": "2026-04-11T02:42:05.000Z",
+      "creatorHandle": "toreesecret",
+      "videoUrl": "https://www.tiktok.com/@toreesecret/video/7627326443021700382",
+      "caption": "ik there’s others out there like me",
+      "viewCount": 36600000,
+      "likeCount": 6700000,
+      "commentCount": 21400,
+      "shareCount": 108200,
+      "collectCount": 286500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6307600
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7631649684364348690",
+      "createdAt": "2026-04-22T18:18:28.000Z",
+      "creatorHandle": "juliancoolians",
+      "videoUrl": "https://www.tiktok.com/@juliancoolians/video/7631649684364348690",
+      "caption": "",
+      "viewCount": 17400000,
+      "likeCount": 4200000,
+      "commentCount": 20800,
+      "shareCount": 123100,
+      "collectCount": 134000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4176800
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7636654642520165646",
+      "createdAt": "2026-05-06T06:00:15.000Z",
+      "creatorHandle": "jasonchungg",
+      "videoUrl": "https://www.tiktok.com/@jasonchungg/video/7636654642520165646",
+      "caption": "bye bye stranger 👋  #fyp #finals #studytok #library #timelapse",
+      "viewCount": 12900000,
+      "likeCount": 1800000,
+      "commentCount": 2188,
+      "shareCount": 14000,
+      "collectCount": 58221,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1524764
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "discover",
+      "videoId": "7636552104823311623",
+      "createdAt": "2026-05-05T23:22:21.000Z",
+      "creatorHandle": "sazdena",
+      "videoUrl": "https://www.tiktok.com/@sazdena/video/7636552104823311623",
+      "caption": "No Karen’s around here",
+      "viewCount": 23500000,
+      "likeCount": 856800,
+      "commentCount": 2308,
+      "shareCount": 48100,
+      "collectCount": 19300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1383480
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7637180490256010510",
+      "createdAt": "2026-05-07T16:00:49.000Z",
+      "creatorHandle": "elly.watso",
+      "videoUrl": "https://www.tiktok.com/@elly.watso/video/7637180490256010510",
+      "caption": "Last month was actually insane! 😭❤️🫶 #makemoneyonline #sahmjob #workfromhome #sahmjobs #sidehustle",
+      "viewCount": 1800000,
+      "likeCount": 187500,
+      "commentCount": 46600,
+      "shareCount": 41300,
+      "collectCount": 56941,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1153914
+    },
+    {
+      "term": "lifehack",
+      "provider": "tag",
+      "videoId": "7632562625326402824",
+      "createdAt": "2026-04-25T05:21:08.000Z",
+      "creatorHandle": "joygriesel",
+      "videoUrl": "https://www.tiktok.com/@joygriesel/video/7632562625326402824",
+      "caption": "Lockjaw halfway through a flight 😭😭 #lockjaw #tmj #fail #nz",
+      "viewCount": 15200000,
+      "likeCount": 891400,
+      "commentCount": 2789,
+      "shareCount": 30300,
+      "collectCount": 24200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1116790
+    },
+    {
+      "term": "marketingtips",
+      "provider": "discover",
+      "videoId": "7629518975713414420",
+      "createdAt": "2026-04-17T00:30:13.000Z",
+      "creatorHandle": "hannacarder",
+      "videoUrl": "https://www.tiktok.com/@hannacarder/video/7629518975713414420",
+      "caption": "Los hashtag ya no son suficientes en pleno 2026, intenten este hack para salir de las 200 vistas y me dicen si les funciona! #crecerentiktok #apoyo #marketingdigital #algoritmotiktok #fyp",
+      "viewCount": 3500000,
+      "likeCount": 222200,
+      "commentCount": 10400,
+      "shareCount": 22000,
+      "collectCount": 124249,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 958096
+    },
+    {
+      "term": "lifehack",
+      "provider": "tag",
+      "videoId": "7638655655909346591",
+      "createdAt": "2026-05-11T15:25:13.000Z",
+      "creatorHandle": "cozybryant8",
+      "videoUrl": "https://www.tiktok.com/@cozybryant8/video/7638655655909346591",
+      "caption": "Gotta go back down 😭 #gymtok #gymhumor #fitnessjourney #fyp #funnymemes",
+      "viewCount": 2700000,
+      "likeCount": 437100,
+      "commentCount": 8178,
+      "shareCount": 65400,
+      "collectCount": 19600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 955930
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7638285491934170399",
+      "createdAt": "2026-05-10T15:28:47.000Z",
+      "creatorHandle": "tacy1094",
+      "videoUrl": "https://www.tiktok.com/@tacy1094/video/7638285491934170399",
+      "caption": "Baseball ai prompt baseball ai prompt tutorial chatgpt  baseball  Korean baseball ⚾ broadcast spectator trend When the baseball game gets intense this video is AI generated!Apprentley korean Viral baseball spectator trend AI baseball fan trend MLB AI video trend Baseball stadium AI trend Kling AI baseball trend Viral Kling AI trend How to make AI baseball videos MLB broadcast AI trend AI-generated MLB fan video Fake MLB broadcast trend Stadium spectator AI tutorial Kling AI 3.0 baseball tutorial MLB live broadcast AI hack ESPN-style baseball AI video Baseball AI trend tutorial  korean baseball player baseball korean drama baseball cap korean baseball ai video prompt baseball ai prompt tutorial baseball ai prompt gemini baseball ai prompt men baseball stadium ai prompt baseball ai prompt photo baseball ai prompt korea baseball ai prompt man baseball ai prompt korean baseball ai prompt english baseball ai prompt baseball ai prompt text gemini ai photo prompt trend 야구 ai 프롬포트 영상 🎬 프롬포트 명령어 ✨ 야구장 ai 프롬포트 하는법 ⚾️ 남자 baseball stadium ai korea chatgpt 🧢 야구장 프롬프트 공유 💙 야구장 ai 프롬포트 하는법  #KLingCreators #KlingAI #baseball #MLBTrend #KBO",
+      "viewCount": 3500000,
+      "likeCount": 81400,
+      "commentCount": 2764,
+      "shareCount": 81700,
+      "collectCount": 35554,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 934156
+    },
+    {
+      "term": "productivitytips",
+      "provider": "discover",
+      "videoId": "7628254234764528918",
+      "createdAt": "2026-04-13T14:42:23.000Z",
+      "creatorHandle": "hadimanii",
+      "videoUrl": "https://www.tiktok.com/@hadimanii/video/7628254234764528918",
+      "caption": "Столько слов достаточно, если есть вопросы в ком. И не забудь подписаться 📓🤍🥥 почему я сплю на обложке  | idea @parkerdixonnn I couldn't wait for your answer, thank you for such a cool idea for my Russian audience, I hope you don't mind | #мотивация #продуктивность #учеба #советы #влог",
+      "viewCount": 2000000,
+      "likeCount": 263900,
+      "commentCount": 943,
+      "shareCount": 10800,
+      "collectCount": 120244,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 748756
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7625319977293286677",
+      "createdAt": "2026-04-05T16:55:58.000Z",
+      "creatorHandle": "studytok077",
+      "videoUrl": "https://www.tiktok.com/@studytok077/video/7625319977293286677",
+      "caption": "#study #will #studytok #studyaesthetic #motivation",
+      "viewCount": 2300000,
+      "likeCount": 505800,
+      "commentCount": 1206,
+      "shareCount": 14300,
+      "collectCount": 77883,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 736892
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7622073288080002334",
+      "createdAt": "2026-03-27T22:57:09.000Z",
+      "creatorHandle": "cammed_chvy2011",
+      "videoUrl": "https://www.tiktok.com/@cammed_chvy2011/video/7622073288080002334",
+      "caption": "#fyp #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #soundsystem #tooloud #nnbs 💃💃🕺🏻🕺🏻No va a chocar 🔊",
+      "viewCount": 3400000,
+      "likeCount": 425800,
+      "commentCount": 1173,
+      "shareCount": 26500,
+      "collectCount": 35400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 646230
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7622675185858055431",
+      "createdAt": "2026-03-29T13:52:49.000Z",
+      "creatorHandle": "_stdwmeichan_",
+      "videoUrl": "https://www.tiktok.com/@_stdwmeichan_/video/7622675185858055431",
+      "caption": "My favorite motivation is when someone underestimates my capabilities. You think i can't do it? Watch me....🫵📚📖 #studytok #FocusDown #studywithme #studyaesthetic #studytimelapse",
+      "viewCount": 2200000,
+      "likeCount": 360000,
+      "commentCount": 2181,
+      "shareCount": 11800,
+      "collectCount": 59629,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 578726
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7632598990541950228",
+      "createdAt": "2026-04-25T07:42:15.000Z",
+      "creatorHandle": "getmommyy",
+      "videoUrl": "https://www.tiktok.com/@getmommyy/video/7632598990541950228",
+      "caption": "Wow ini cukup akurat bgt di aku buat improv makeup juga thanks gpt love u🫰🏻🫰🏻 #personalcoloranalysis #chatgpttips",
+      "viewCount": 1400000,
+      "likeCount": 106900,
+      "commentCount": 595,
+      "shareCount": 18500,
+      "collectCount": 74000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 531400
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7636136599343992087",
+      "createdAt": "2026-05-04T20:29:59.000Z",
+      "creatorHandle": "lj.rae",
+      "videoUrl": "https://www.tiktok.com/@lj.rae/video/7636136599343992087",
+      "caption": "The longest I’ve gone for is 8hrs in a day😭 #study #studymotivaton #studytok #focus #latenightstudy",
+      "viewCount": 1700000,
+      "likeCount": 217400,
+      "commentCount": 18500,
+      "shareCount": 7852,
+      "collectCount": 16349,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 455912
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7636659364723461398",
+      "createdAt": "2026-05-06T06:18:35.000Z",
+      "creatorHandle": "evaimastudent",
+      "videoUrl": "https://www.tiktok.com/@evaimastudent/video/7636659364723461398",
+      "caption": "Send help #evaimastudent #fyp #studytok #revision #relatablevideos",
+      "viewCount": 1200000,
+      "likeCount": 222700,
+      "commentCount": 227,
+      "shareCount": 23100,
+      "collectCount": 15718,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 385292
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7630147624087096594",
+      "createdAt": "2026-04-18T17:09:42.000Z",
+      "creatorHandle": "yjae.x",
+      "videoUrl": "https://www.tiktok.com/@yjae.x/video/7630147624087096594",
+      "caption": "불가능이란 노력하지 않는 자의 변명이다. #study #studytok #勉強 #15hours #timelapse",
+      "viewCount": 1100000,
+      "likeCount": 195500,
+      "commentCount": 1694,
+      "shareCount": 5850,
+      "collectCount": 32267,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 312558
+    },
+    {
+      "term": "explained",
+      "provider": "discover",
+      "videoId": "7639613486447791374",
+      "createdAt": "2026-05-14T05:22:05.000Z",
+      "creatorHandle": "messi10.era",
+      "videoUrl": "https://www.tiktok.com/@messi10.era/video/7639613486447791374",
+      "caption": "Pogba explained to Speed why Messi is better than Ronaldo 😭 #shafieosman #messi #ronaldo #ishowspeed #Soccer",
+      "viewCount": 1800000,
+      "likeCount": 194300,
+      "commentCount": 1731,
+      "shareCount": 11200,
+      "collectCount": 12262,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 289108
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7636611366660345118",
+      "createdAt": "2026-05-06T03:12:19.000Z",
+      "creatorHandle": "strwbrrymilki",
+      "videoUrl": "https://www.tiktok.com/@strwbrrymilki/video/7636611366660345118",
+      "caption": "Yeah so uh uh what now 😭💀#foryou #fyp #drunk #cutwaterchallenge #situationship",
+      "viewCount": 2400000,
+      "likeCount": 342900,
+      "commentCount": 597,
+      "shareCount": 2397,
+      "collectCount": 9279,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 281712
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7623064263313214738",
+      "createdAt": "2026-03-30T15:02:39.000Z",
+      "creatorHandle": "danvmartell",
+      "videoUrl": "https://www.tiktok.com/@danvmartell/video/7623064263313214738",
+      "caption": "What are the best AI tools right now?",
+      "viewCount": 941100,
+      "likeCount": 59600,
+      "commentCount": 623,
+      "shareCount": 6631,
+      "collectCount": 39739,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 266856
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7624893100183276822",
+      "createdAt": "2026-04-04T13:19:28.000Z",
+      "creatorHandle": "inthemoodformore",
+      "videoUrl": "https://www.tiktok.com/@inthemoodformore/video/7624893100183276822",
+      "caption": "you don’t need to “fix your life” you just need a system that actually works #productivitytips #thatgirlroutine #selfimprovement #mindsetreset #organizationaltips",
+      "viewCount": 443700,
+      "likeCount": 101300,
+      "commentCount": 96,
+      "shareCount": 3484,
+      "collectCount": 43200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 261156
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7627221593583799574",
+      "createdAt": "2026-04-10T19:55:12.000Z",
+      "creatorHandle": "hyorinskrrrr",
+      "videoUrl": "https://www.tiktok.com/@hyorinskrrrr/video/7627221593583799574",
+      "caption": "next will be the ice one.. #studytok #studying #alevels #trend #fyp",
+      "viewCount": 1900000,
+      "likeCount": 257000,
+      "commentCount": 344,
+      "shareCount": 1675,
+      "collectCount": 9109,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 219776
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7634868991747542286",
+      "createdAt": "2026-05-01T10:31:01.000Z",
+      "creatorHandle": "koppressing",
+      "videoUrl": "https://www.tiktok.com/@koppressing/video/7634868991747542286",
+      "caption": "Press the RESET Button & Consider this your scheduled maintenance✨️ We’ve all been there. You start the day with a solid plan, and then life happens. An emergency, a sudden bill, or a \"fiery dart\" stops your progress cold. Hours vanish, and your to-do list remains untouched. Don't get discouraged. Just reset. 🔄 Jack Kerouac, famous for the frantic energy of his novel 'On the Road', actually spent much of his life searching for stillness. In a world moving at 100mph—where stress is the default and overwhelm is constant—his words are a perfect reminder to breathe. \"When life goes too fast, you don’t need all the answers—just your next step.\" — Jack Kerouac. Here is your roadmap for when the day feels like too much: 1️⃣ Stop Looking at the Mountain 🏔️When you stare at everything you have to do, the climb feels impossible. Stop. Lower your gaze to the single step right in front of you. Focus only on the \"now.\" 2️⃣ Play the Hand You're Dealt🃏 If \"putting out fires\" stole your morning, don't write off the day. Do what you can with the hours left. Prioritize non-negotiable deadlines, but keep your expectations realistic. 3️⃣ The \"Shut Down\" Rule 🛑Finding the still moment in the midst of chaos.This is the most important part: know when to shut it down. There comes a time every evening when you must stop. Even if the list isn't finished, capture your notes, move the tasks to tomorrow, and give yourself permission to unwind. The Bottom Line: Productivity isn’t perfection. If you only got one thing done because life got in the way, that is still progress. Unfinished plans aren't failures; they are just tomorrow’s starting line. You’ve done your best in a high-pressure world—now, find stillness in the quiet of the evening. ✨ Which step do you need to focus on today? Meet me in the comments 👇 #ProductivityTips #JackKerouac #Reset #selfimprovementmindset #ForYouPage",
+      "viewCount": 643100,
+      "likeCount": 267300,
+      "commentCount": 613,
+      "shareCount": 2364,
+      "collectCount": 12000,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 219554
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7625073602630651156",
+      "createdAt": "2026-04-05T00:59:54.000Z",
+      "creatorHandle": "jadablue.designs",
+      "videoUrl": "https://www.tiktok.com/@jadablue.designs/video/7625073602630651156",
+      "caption": "If you’re unemployed, it’s your lucky day 🫣😅 #sidehusstle #genz #kidscontent #contentcreator #youtubeshorts",
+      "viewCount": 509900,
+      "likeCount": 34700,
+      "commentCount": 369,
+      "shareCount": 6178,
+      "collectCount": 31904,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 208278
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7636370117261151520",
+      "createdAt": "2026-05-05T11:36:09.000Z",
+      "creatorHandle": "lunaris.cwqe",
+      "videoUrl": "https://www.tiktok.com/@lunaris.cwqe/video/7636370117261151520",
+      "caption": "#discepline #studytok #study #motivation #fyp",
+      "viewCount": 540800,
+      "likeCount": 144200,
+      "commentCount": 416,
+      "shareCount": 3230,
+      "collectCount": 23082,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 205244
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7622825738357460254",
+      "createdAt": "2026-03-29T23:37:03.000Z",
+      "creatorHandle": "wowo0828",
+      "videoUrl": "https://www.tiktok.com/@wowo0828/video/7622825738357460254",
+      "caption": "Meow, I'm coming to catch you.",
+      "viewCount": 219300,
+      "likeCount": 45300,
+      "commentCount": 155,
+      "shareCount": 19400,
+      "collectCount": 4511,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 201830
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7633486765138906398",
+      "createdAt": "2026-04-27T17:07:16.000Z",
+      "creatorHandle": "tenebrix.mn",
+      "videoUrl": "https://www.tiktok.com/@tenebrix.mn/video/7633486765138906398",
+      "caption": "This is How you beat 99% of people. #successhabits  #selfimprovement  #discipline  #growthmindset  #productivitytips",
+      "viewCount": 627700,
+      "likeCount": 32500,
+      "commentCount": 219,
+      "shareCount": 12000,
+      "collectCount": 11800,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 174194
+    },
+    {
+      "term": "productivitytips",
+      "provider": "discover",
+      "videoId": "7622511055574469919",
+      "createdAt": "2026-03-29T03:15:55.000Z",
+      "creatorHandle": "hannahleepalomino",
+      "videoUrl": "https://www.tiktok.com/@hannahleepalomino/video/7622511055574469919",
+      "caption": "Structuring your days and understanding how time is allocated will make you a more productive person #productivity #neuroscience #dopamine #brainrot #fyp",
+      "viewCount": 394000,
+      "likeCount": 50000,
+      "commentCount": 111,
+      "shareCount": 2104,
+      "collectCount": 28697,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 165610
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7627918522357763341",
+      "createdAt": "2026-04-12T16:59:39.000Z",
+      "creatorHandle": "sabrina_ramonov",
+      "videoUrl": "https://www.tiktok.com/@sabrina_ramonov/video/7627918522357763341",
+      "caption": "Follow and comment \"CODES\" and I'll send you hundreds more 👇 5 secret codes making ChatGPT 10x better: Paste these before any prompt: TRUTHMODE - Stops ChatGPT from glazing and forces honest feedback /human - Makes your output sound like a real human wrote it REDTEAM - Plays devil's advocate and makes your thinking sharper ELI10 - Explains anything like you're 10 years old FUTUREYOU - Answers like your future self would Save this and try them all. #chatgpt #ai #chatgptprompts #chatgpttips #chatgpthacks",
+      "viewCount": 258800,
+      "likeCount": 14600,
+      "commentCount": 3042,
+      "shareCount": 7371,
+      "collectCount": 15000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 161864
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7631874500602121475",
+      "createdAt": "2026-04-23T08:50:52.000Z",
+      "creatorHandle": "sebintel",
+      "videoUrl": "https://www.tiktok.com/@sebintel/video/7631874500602121475",
+      "caption": "Access the most powerful AI tools for free—Arena, Pinokio, and Design Arena offer models like Cloud Opus 4.6, Gemini, and more for image, video, and text generation. #AITools #ArenaAI #AIGeneration #AIModels #GeminiAI #AIWorkflow #AIVideoTools",
+      "viewCount": 377000,
+      "likeCount": 21900,
+      "commentCount": 1168,
+      "shareCount": 4022,
+      "collectCount": 23875,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 157846
+    },
+    {
+      "term": "lifehack",
+      "provider": "discover",
+      "videoId": "7623459684325854472",
+      "createdAt": "2026-03-31T16:37:05.000Z",
+      "creatorHandle": "navas_navajaz",
+      "videoUrl": "https://www.tiktok.com/@navas_navajaz/video/7623459684325854472",
+      "caption": "Parte 4 | me envolvieron en vinipel 😱😂#humor",
+      "viewCount": 1700000,
+      "likeCount": 102800,
+      "commentCount": 373,
+      "shareCount": 4333,
+      "collectCount": 6753,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 150806
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7623082203286637837",
+      "createdAt": "2026-03-30T16:12:16.000Z",
+      "creatorHandle": "juliakcrist",
+      "videoUrl": "https://www.tiktok.com/@juliakcrist/video/7623082203286637837",
+      "caption": "get your life together with  calendar!!! 💗📆 here is my simple but aesthetic apple calendar setup that actually keeps you organized + productive!!!   #applecalendar #productivitytips #digitalplanning #macbooktips #iphone17promax",
+      "viewCount": 431800,
+      "likeCount": 43500,
+      "commentCount": 82,
+      "shareCount": 1510,
+      "collectCount": 22100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 131686
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7630635476734561543",
+      "createdAt": "2026-04-20T00:42:49.000Z",
+      "creatorHandle": "anti.begadang",
+      "videoUrl": "https://www.tiktok.com/@anti.begadang/video/7630635476734561543",
+      "caption": "Ternyata rahasia bangun seger jam 4 pagi itu bukan soal \"NIAT\" doang, tapi soal \"STRATEGI\" 🧠✨ Banyak yang pusing pas bangun Subuh karena bangunnya di tengah-tengah siklus tidur yang dalam. Akibatnya, seharian jadi lemot dan bad mood. Coba pakai Teknik 90 Menit ini biar badan kamu otomatis \"on\" begitu denger adzan! Cek slide 3 buat jadwal tidurnya, jangan lupa di-SAVE biar nggak hilang pas mau praktek nanti malam! 📌 Udah siap jadi Pejuang Subuh yang anti lemes? Coba absen di kolom komentar, biasanya kamu tidur jam berapa? 👇 #AntiBegadang #PejuangSubuh #TipsKesehatan #ProductivityTips #SelfDevelopment",
+      "viewCount": 357700,
+      "likeCount": 16100,
+      "commentCount": 219,
+      "shareCount": 3579,
+      "collectCount": 9379,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 83542
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7632574660479159559",
+      "createdAt": "2026-04-25T06:07:50.000Z",
+      "creatorHandle": "technologysureya",
+      "videoUrl": "https://www.tiktok.com/@technologysureya/video/7632574660479159559",
+      "caption": "මූණ වෙනස් වෙන්නෙ නැතුව ,Ai ෆොටෝ හදන්නෙ මෙහෙමයි 😱  #aigenerate #geminiai #chatgpttips #technology",
+      "viewCount": 409600,
+      "likeCount": 18700,
+      "commentCount": 202,
+      "shareCount": 1747,
+      "collectCount": 12000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 81538
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7634750025632894238",
+      "createdAt": "2026-05-01T02:49:22.000Z",
+      "creatorHandle": "pjbae",
+      "videoUrl": "https://www.tiktok.com/@pjbae/video/7634750025632894238",
+      "caption": "Casual 38 hour day in the life @Bloom Nutrition Shirley temple thank me later xx #studytok #studywithme #studytimelapse #studychallenge #studymotivation",
+      "viewCount": 531500,
+      "likeCount": 63200,
+      "commentCount": 149,
+      "shareCount": 1520,
+      "collectCount": 4503,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 73892
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7632899262677781768",
+      "createdAt": "2026-04-26T03:07:28.000Z",
+      "creatorHandle": "silsilbalkis",
+      "videoUrl": "https://www.tiktok.com/@silsilbalkis/video/7632899262677781768",
+      "caption": "Ini sangat membantu dan kayanya harus mulai cobain warna2 nyaa🌝 #personalcolor #coloranalysis #chatgpttips #foryou #malaysia",
+      "viewCount": 306000,
+      "likeCount": 10200,
+      "commentCount": 129,
+      "shareCount": 2712,
+      "collectCount": 9640,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72766
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7631378782468787487",
+      "createdAt": "2026-04-22T00:47:13.000Z",
+      "creatorHandle": "createwithfar",
+      "videoUrl": "https://www.tiktok.com/@createwithfar/video/7631378782468787487",
+      "caption": "Ai is the method is 2026 🙌🏽 #internetmoney #sidehustlesuccess #brokecollegestudent #aiautomation",
+      "viewCount": 194500,
+      "likeCount": 13300,
+      "commentCount": 725,
+      "shareCount": 1130,
+      "collectCount": 11476,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72734
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7628433343218027784",
+      "createdAt": "2026-04-14T02:17:25.000Z",
+      "creatorHandle": "nicolevictoriia_",
+      "videoUrl": "https://www.tiktok.com/@nicolevictoriia_/video/7628433343218027784",
+      "caption": "Learnings of the week🧠  #personalcurriculum #monthlycurriculum #personaldevelopment #learnings #productivitytips",
+      "viewCount": 169400,
+      "likeCount": 29900,
+      "commentCount": 86,
+      "shareCount": 939,
+      "collectCount": 11500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72710
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7627416170898918686",
+      "createdAt": "2026-04-11T08:30:16.000Z",
+      "creatorHandle": "shortcut.ninja",
+      "videoUrl": "https://www.tiktok.com/@shortcut.ninja/video/7627416170898918686",
+      "caption": "Stop wasting time on lines in MS Word 😳📄 Manual lines adjust karne ki zarurat nahi — simple line hacks se document clean aur professional banao 💻⚡ Perfect for students, teachers aur office work. Try it once aur aap manual lines bhool jaoge 🚀 Follow karo aur daily MS Word tips aur shortcuts ke liye 👍 Hashtags: #msword #wordtips #productivitytips #officetips #keyboardshortcuts",
+      "viewCount": 626900,
+      "likeCount": 14400,
+      "commentCount": 67,
+      "shareCount": 2399,
+      "collectCount": 8001,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 71604
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7639912692030950687",
+      "createdAt": "2026-05-15T00:43:09.000Z",
+      "creatorHandle": "maverickgpt",
+      "videoUrl": "https://www.tiktok.com/@maverickgpt/video/7639912692030950687",
+      "caption": "Comment “AI” and I’ll send you my full list of AI tools 👇 The best AI tools for every task in 2026: Writing emails: Claude Brainstorming ideas: ChatGPT Deep research: Perplexity Computer Real-time trends: Grok Image & video generation: Higgsfield Understanding podcasts: Notebook LM Planning your day: ChatGPT Cinematic content: Higgsfield Sales pages: Claude Product photos: Higgsfield Learning AI: Follow @mavgpt for daily tips #ai #aitools #claude #chatgpt #higgsfield",
+      "viewCount": 235900,
+      "likeCount": 10400,
+      "commentCount": 94,
+      "shareCount": 2451,
+      "collectCount": 9574,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 68762
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7623037621974879508",
+      "createdAt": "2026-03-30T13:19:16.000Z",
+      "creatorHandle": "lovedream_02",
+      "videoUrl": "https://www.tiktok.com/@lovedream_02/video/7623037621974879508",
+      "caption": "My Ai App at the moment 💋#characterai #recommendations #cai #4u #Fyp",
+      "viewCount": 309500,
+      "likeCount": 25600,
+      "commentCount": 425,
+      "shareCount": 1692,
+      "collectCount": 6959,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 64612
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7627179556490743062",
+      "createdAt": "2026-04-10T17:12:05.000Z",
+      "creatorHandle": "top.tips5",
+      "videoUrl": "https://www.tiktok.com/@top.tips5/video/7627179556490743062",
+      "caption": "#TipTopHacks #ProductivityTips #HacksForLife #EasyFix #LifeHacks",
+      "viewCount": 1400000,
+      "likeCount": 23900,
+      "commentCount": 57,
+      "shareCount": 1402,
+      "collectCount": 3008,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 63768
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7633478585839389965",
+      "createdAt": "2026-04-27T16:35:32.000Z",
+      "creatorHandle": "kyle.meets.ai",
+      "videoUrl": "https://www.tiktok.com/@kyle.meets.ai/video/7633478585839389965",
+      "caption": "Create your first Instagram carousel in 60 seconds or less 🤯 I jumped into Claude Design, dropped in a prompt for four matching travel tip images sized for Instagram, and watched Claude build the entire carousel ready to export and post. Imagine using this for your business tips, your travel content, or any series you want to look polished and on brand. Take this one step further by editing each image directly in Claude until the design is exactly what you want. Comment PROMPT if you'd like the prompt instructions 📧  #aimadeeasy #productivity #claude #learnai #productivitytips #design #ai",
+      "viewCount": 198100,
+      "likeCount": 7111,
+      "commentCount": 434,
+      "shareCount": 1306,
+      "collectCount": 9542,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 60474
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7638287573609106718",
+      "createdAt": "2026-05-10T15:36:52.000Z",
+      "creatorHandle": "maverickgpt",
+      "videoUrl": "https://www.tiktok.com/@maverickgpt/video/7638287573609106718",
+      "caption": "Comment \"List\" and I'll send you 100 more 👇 7 secret codes that make ChatGPT 10x better. Just paste these before or after any prompt: 5WHY — Asks \"why\" 5 times in a row, digging deeper each time until it hits the real root cause /sources — Goes back through every claim it made and attaches a real source so you can verify it was telling the truth /reverse — Starts with the worst case scenario where everything failed and works backward to show you what went wrong TLDR — Compresses any massive wall of text into the shortest possible version without losing important details /debate — Splits ChatGPT into two opposing sides and argues both perspectives against each other /fingerprint — Scans your writing, tells you which parts sound like AI, and rewrites them to sound human score — Rates its own answer from 1 to 10 and rewrites the weak parts until it hits a 10 Follow me for more.  #chatgpt #ai #chatgptprompts #chatgpttips #chatgpthacks",
+      "viewCount": 169000,
+      "likeCount": 6106,
+      "commentCount": 502,
+      "shareCount": 2787,
+      "collectCount": 6449,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 59545
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7637508458375335198",
+      "createdAt": "2026-05-08T13:13:30.000Z",
+      "creatorHandle": "simplykelsi1",
+      "videoUrl": "https://www.tiktok.com/@simplykelsi1/video/7637508458375335198",
+      "caption": "Comment START! From always wondering how we would make it to the next month to making my first 7 figures online in a year and a half. SWC and digital marketing has changed my (not so) little families life.  #sahmsidehustle #workingmom #bluecollarwife #wfhmom #sidehustles",
+      "viewCount": 497000,
+      "likeCount": 27700,
+      "commentCount": 2753,
+      "shareCount": 150,
+      "collectCount": 685,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 55260
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7623545935674527007",
+      "createdAt": "2026-03-31T22:11:47.000Z",
+      "creatorHandle": "jeena_study_tips",
+      "videoUrl": "https://www.tiktok.com/@jeena_study_tips/video/7623545935674527007",
+      "caption": "Unlock your study potential with these simple yet powerful methods! 💡📚  #StudyHacks #AceYourExams #ProductivityTips #StudyMotivation #studytips",
+      "viewCount": 210000,
+      "likeCount": 20100,
+      "commentCount": 50,
+      "shareCount": 849,
+      "collectCount": 8331,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 54866
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7635998340303424789",
+      "createdAt": "2026-05-04T11:33:28.000Z",
+      "creatorHandle": "aigenacademy",
+      "videoUrl": "https://www.tiktok.com/@aigenacademy/video/7635998340303424789",
+      "caption": "Cara buat slide estetik menggunakan NotebookLM #presentationtips #aitools #productivitytips",
+      "viewCount": 178400,
+      "likeCount": 3534,
+      "commentCount": 79,
+      "shareCount": 2495,
+      "collectCount": 5360,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 47525
+    },
+    {
+      "term": "productivitytips",
+      "provider": "discover",
+      "videoId": "7618586469820599582",
+      "createdAt": "2026-03-18T13:26:31.000Z",
+      "creatorHandle": "nanadelbiz",
+      "videoUrl": "https://www.tiktok.com/@nanadelbiz/video/7618586469820599582",
+      "caption": "My 30 min sunday system for time management 🧚‍♀️ sometimes I do take a full hour because properly planning your tasks in advance keep you from wasting precious energy during the week *thinking* about what to do .. I’d rather use that energy for deep work 🙇🏼‍♀️  Join a group of female entrepreneurs and I in transforming our ambition into intentional productivity in 90 days.. Comment “SPRINT” 🏃🏼‍♀️ #mindsetshift #goaloriented #femaleentrepeneur #productivitytips #nanadelrey",
+      "viewCount": 100400,
+      "likeCount": 13200,
+      "commentCount": 537,
+      "shareCount": 558,
+      "collectCount": 5129,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 38958
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7631420274377821454",
+      "createdAt": "2026-04-22T03:28:14.000Z",
+      "creatorHandle": "kyle.meets.ai",
+      "videoUrl": "https://www.tiktok.com/@kyle.meets.ai/video/7631420274377821454",
+      "caption": "Design your first Brand Kit in 60 seconds or less 🤯 I just used Claude's new Design feature to create a full brand kit for a made up creator, complete with a monogram logo, social banners, and mockups in cream and sage. Imagine launching a side hustle, podcast, or personal brand without ever hiring a designer. Take this one step further by iterating right from chat. I asked for a matching podcast cover and newsletter header, then exported the whole kit as a zip 📥 What would you DESIGN first? #aimadeeasy #productivity #claude #learnai #design #ai #productivitytips",
+      "viewCount": 132100,
+      "likeCount": 4485,
+      "commentCount": 62,
+      "shareCount": 774,
+      "collectCount": 6624,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 38193
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7628995241114127646",
+      "createdAt": "2026-04-15T14:37:52.000Z",
+      "creatorHandle": "shortcut.ninja",
+      "videoUrl": "https://www.tiktok.com/@shortcut.ninja/video/7628995241114127646",
+      "caption": "Create QR codes in MS Word in 10 seconds 🤯📱 Ab website ki zarurat nahi — directly Word me QR code generate karo 💻✨ Perfect for students, teachers aur small business use 🚀 Follow karo aur daily smart MS Word tricks ke liye 👍 Hashtags: #msword #qrcode #wordtips #productivitytips #officetips",
+      "viewCount": 251500,
+      "likeCount": 7306,
+      "commentCount": 56,
+      "shareCount": 937,
+      "collectCount": 5156,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 37363
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7631889631105060114",
+      "createdAt": "2026-04-23T09:49:35.000Z",
+      "creatorHandle": "guruadi_",
+      "videoUrl": "https://www.tiktok.com/@guruadi_/video/7631889631105060114",
+      "caption": "Bikin animasi SPMB ternyata nggak serumit yang kamu kira! 🎬✨ Cuma pakai ChatGPT buat bikin konsep & script, lanjut ke Canva untuk desain dan animasinya—jadi deh konten yang keren dan informatif! 🔥 Langkah simpel: Tentukan ide & tujuan animasi Generate script pakai ChatGPT Desain visual di Canva Tambahkan animasi & musik Export & siap upload 🚀 Yuk, upgrade konten kamu biar makin profesional tanpa ribet! 💡 #SPMB #CanvaDesign #ChatGPTTips #KontenKreator #belajardigital",
+      "viewCount": 125200,
+      "likeCount": 3035,
+      "commentCount": 102,
+      "shareCount": 1222,
+      "collectCount": 4051,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 31022
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7625972724191530271",
+      "createdAt": "2026-04-07T11:08:57.000Z",
+      "creatorHandle": "digitalwork01",
+      "videoUrl": "https://www.tiktok.com/@digitalwork01/video/7625972724191530271",
+      "caption": "Still using a mouse? 😳 Stop wasting time ❌ Use shortcuts 💻🔥 #laptoptricks #shortcutkeys #windowshacks #techreels #productivitytips reelitfeelit techhacks viralreels 🚀",
+      "viewCount": 152500,
+      "likeCount": 6670,
+      "commentCount": 58,
+      "shareCount": 1442,
+      "collectCount": 3103,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 30913
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7634935623618415892",
+      "createdAt": "2026-05-01T14:49:35.000Z",
+      "creatorHandle": "abubekr_jemal",
+      "videoUrl": "https://www.tiktok.com/@abubekr_jemal/video/7634935623618415892",
+      "caption": "How to learn graphic design, coding, video editing, or SMMA using ChatGPT. Create a step-by-step 30-day learning roadmap instantly. Comment SKILL to get the detailed prompt. #ChatGPTTips #LearnWithAI #SkillLearning #AIforStudents #abubekr_jemal",
+      "viewCount": 50000,
+      "likeCount": 2961,
+      "commentCount": 1544,
+      "shareCount": 543,
+      "collectCount": 1584,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 28601
+    },
+    {
+      "term": "explained",
+      "provider": "discover",
+      "videoId": "7628677521843784982",
+      "createdAt": "2026-04-14T18:04:57.000Z",
+      "creatorHandle": "actuallyexplained",
+      "videoUrl": "https://www.tiktok.com/@actuallyexplained/video/7628677521843784982",
+      "caption": "Are North Africans really Arab? The answer isn’t as simple as yes or no. From Morocco to Syria, Roy Casagranda explains people often share a language, but their origins, cultures, and histories are far more diverse than most realise. So is “Arab” an ethnicity… or something else? Comment your thoughts below. #Arab #NorthAfrica #Morocco #Algeria #Syria",
+      "viewCount": 231300,
+      "likeCount": 9222,
+      "commentCount": 200,
+      "shareCount": 849,
+      "collectCount": 1642,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 24597
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7633470950054399252",
+      "createdAt": "2026-04-27T16:05:54.000Z",
+      "creatorHandle": "justyn.ai",
+      "videoUrl": "https://www.tiktok.com/@justyn.ai/video/7633470950054399252",
+      "caption": "The secret hidden ChatGPT image generator 🤫 #ai #chatgpt #chatgpttips #chatgpthacks #fyp",
+      "viewCount": 63200,
+      "likeCount": 2309,
+      "commentCount": 500,
+      "shareCount": 507,
+      "collectCount": 2867,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 22943
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7633459274533899540",
+      "createdAt": "2026-04-27T15:20:36.000Z",
+      "creatorHandle": "abubekr_jemal",
+      "videoUrl": "https://www.tiktok.com/@abubekr_jemal/video/7633459274533899540",
+      "caption": "How to turn ChatGPT into your personal tutor step by step. Use AI to learn graphic design, coding, video editing, or any skill faster. Comment TUTOR to get the full tutor prompt. #ChatGPTTips #LearnWithAI #AITutor #SkillLearning #abubekr_jemal",
+      "viewCount": 45000,
+      "likeCount": 2603,
+      "commentCount": 1061,
+      "shareCount": 316,
+      "collectCount": 866,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 18804
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7636882634928426253",
+      "createdAt": "2026-05-06T20:44:59.000Z",
+      "creatorHandle": "pham.mp4",
+      "videoUrl": "https://www.tiktok.com/@pham.mp4/video/7636882634928426253",
+      "caption": "Crazy side hustle method…",
+      "viewCount": 49800,
+      "likeCount": 3302,
+      "commentCount": 199,
+      "shareCount": 253,
+      "collectCount": 2831,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 17985
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7623821591201500436",
+      "createdAt": "2026-04-01T16:01:28.000Z",
+      "creatorHandle": "techsavvyyuktii",
+      "videoUrl": "https://www.tiktok.com/@techsavvyyuktii/video/7623821591201500436",
+      "caption": "3 ChatGPT Cheat Codes🙌🏻 #chatgpttricks #chatgptprompts #chatgpttips #aihacks #techtips",
+      "viewCount": 107800,
+      "likeCount": 3116,
+      "commentCount": 21,
+      "shareCount": 521,
+      "collectCount": 2100,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 16492
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7621965134763756818",
+      "createdAt": "2026-03-27T15:57:28.000Z",
+      "creatorHandle": "this_is_ayb",
+      "videoUrl": "https://www.tiktok.com/@this_is_ayb/video/7621965134763756818",
+      "caption": "Stop guessing… type THIS before any question in ChatGPT and watch it blow your mind! #chatgpt #chatgpttips #learnai #aitools #abrineaimarketing",
+      "viewCount": 39400,
+      "likeCount": 1367,
+      "commentCount": 298,
+      "shareCount": 927,
+      "collectCount": 851,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 15272
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7631426740384091395",
+      "createdAt": "2026-04-22T03:53:19.000Z",
+      "creatorHandle": "top.tips5",
+      "videoUrl": "https://www.tiktok.com/@top.tips5/video/7631426740384091395",
+      "caption": "#TipTopHacks #ProductivityTips #HacksForLife #EasyFix #LifeHacks",
+      "viewCount": 422600,
+      "likeCount": 7717,
+      "commentCount": 27,
+      "shareCount": 77,
+      "collectCount": 480,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 15117
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7637193296439250197",
+      "createdAt": "2026-05-07T16:50:30.000Z",
+      "creatorHandle": "aigenacademy",
+      "videoUrl": "https://www.tiktok.com/@aigenacademy/video/7637193296439250197",
+      "caption": "Teknik Prompting AI Paling Mudah Nak Buat #aitools #productivitytips",
+      "viewCount": 40900,
+      "likeCount": 1047,
+      "commentCount": 17,
+      "shareCount": 624,
+      "collectCount": 1341,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 11868
+    },
+    {
+      "term": "aitools",
+      "provider": "discover",
+      "videoId": "7633066956538563870",
+      "createdAt": "2026-04-26T13:58:12.000Z",
+      "creatorHandle": "kallaway.marketing",
+      "videoUrl": "https://www.tiktok.com/@kallaway.marketing/video/7633066956538563870",
+      "caption": "This are all the top AI tools for content creation #ai #marketing #socialmedia #socialstrategy #contentcreator",
+      "viewCount": 19500,
+      "likeCount": 1239,
+      "commentCount": 142,
+      "shareCount": 165,
+      "collectCount": 1468,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 9622
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7636596364939496724",
+      "createdAt": "2026-05-06T02:14:06.000Z",
+      "creatorHandle": "jazzdigital.ia",
+      "videoUrl": "https://www.tiktok.com/@jazzdigital.ia/video/7636596364939496724",
+      "caption": "5 códigos secretos que mejoran ChatGPT x10 veces. Solo tienes que pegarlos antes de cualquier pregunta: /human — Hace que tu respuesta suene como si la hubiera escrito una persona real. EL10 — Explica todo como si tuvieras 10 años. X10THINK — Obliga a ChatGPT a pensar más antes de responder. KILLCRITIC — Impide que ChatGPT esté de acuerdo con todo y te obliga a decir la verdad. ALT3 — Te da 3 variaciones diferentes de cualquier respuesta. Guarda esto y pruébalas todas. #inteligenciaartificial  #ai #chatgptprompts #chatgpttips #chatgpthacks",
+      "viewCount": 16300,
+      "likeCount": 683,
+      "commentCount": 20,
+      "shareCount": 758,
+      "collectCount": 501,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 8936
+    },
+    {
+      "term": "explained",
+      "provider": "discover",
+      "videoId": "7639634763782901010",
+      "createdAt": "2026-05-14T06:44:39.000Z",
+      "creatorHandle": "minutewithzena",
+      "videoUrl": "https://www.tiktok.com/@minutewithzena/video/7639634763782901010",
+      "caption": "Explaining can get a little exhausting and frustrating. You explain - but they still don’t get it. You explain it again - and now you’re getting upset about it. The harder you try to make it make sense to others, the less focused you are on yourself. Others can have their opinions, it’s got nothing to do with you.",
+      "viewCount": 28500,
+      "likeCount": 3286,
+      "commentCount": 63,
+      "shareCount": 416,
+      "collectCount": 486,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 8115
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7638275424358845718",
+      "createdAt": "2026-05-10T14:49:43.000Z",
+      "creatorHandle": "rubygrifiths",
+      "videoUrl": "https://www.tiktok.com/@rubygrifiths/video/7638275424358845718",
+      "caption": "This advice is my bible #productivitytips #productivitymotivation #howtobesuccessful #girltalkadvice #successfulwomen",
+      "viewCount": 53900,
+      "likeCount": 6200,
+      "commentCount": 47,
+      "shareCount": 43,
+      "collectCount": 763,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 8044
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7636799323547766049",
+      "createdAt": "2026-05-06T15:21:41.000Z",
+      "creatorHandle": "qready_",
+      "videoUrl": "https://www.tiktok.com/@qready_/video/7636799323547766049",
+      "caption": "Unlock your full potential through these methods #studyhacks #aceyourexams #productivitytips #studymotivation #studytips",
+      "viewCount": 8425,
+      "likeCount": 2642,
+      "commentCount": 119,
+      "shareCount": 302,
+      "collectCount": 651,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7700
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7630838758555929864",
+      "createdAt": "2026-04-20T13:51:39.000Z",
+      "creatorHandle": "pretty._.salsabil",
+      "videoUrl": "https://www.tiktok.com/@pretty._.salsabil/video/7630838758555929864",
+      "caption": "تحفيز دراسة #studymotivation #studytok #دراسة #تحفيز #explore",
+      "viewCount": 37700,
+      "likeCount": 2161,
+      "commentCount": 451,
+      "shareCount": 62,
+      "collectCount": 198,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7633
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7629059590608391446",
+      "createdAt": "2026-04-15T18:47:34.000Z",
+      "creatorHandle": "learnwithlolaa",
+      "videoUrl": "https://www.tiktok.com/@learnwithlolaa/video/7629059590608391446",
+      "caption": "Most people are asking ChatGPT weak questions… then wondering why nothing changes. The tool is not the problem. Your prompts are. These 3 prompts can help you: • uncover skills you’ve ignored • turn your experience into an offer • create content that builds visibility Some people use AI for entertainment. Others use it for progress. Same tool. Different outcomes. Comment PROMPTS if you want part 2. #c#chatgpttipsw#womeninbusinessd#digitalincomec#contentstrategymakemoneyonline",
+      "viewCount": 12100,
+      "likeCount": 665,
+      "commentCount": 147,
+      "shareCount": 404,
+      "collectCount": 447,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 7065
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7624345401860033812",
+      "createdAt": "2026-04-03T01:54:07.000Z",
+      "creatorHandle": "ryedz.id",
+      "videoUrl": "https://www.tiktok.com/@ryedz.id/video/7624345401860033812",
+      "caption": "Dulu gue kira AI itu terbatas… Ternyata gue aja yang belum tau cara ‘ngepromt ai nya’. Sekarang? bisa ngomong tanpa batas keamanan #ryedzprompt #ryedzid #aibyryedz #deepseekryedz #jailbreakai #aiunlocked #freeyourai #promptengineering #aihacks #aiassistant #chatgpttips #aiprompt #unlockai",
+      "viewCount": 64800,
+      "likeCount": 1839,
+      "commentCount": 54,
+      "shareCount": 79,
+      "collectCount": 693,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6160
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7637528745519222047",
+      "createdAt": "2026-05-08T14:32:13.000Z",
+      "creatorHandle": "executivesecret",
+      "videoUrl": "https://www.tiktok.com/@executivesecret/video/7637528745519222047",
+      "caption": "#productivityhacks #worksmarternotharder #productivitytips #corporatehacks #worksmart",
+      "viewCount": 62100,
+      "likeCount": 1330,
+      "commentCount": 6,
+      "shareCount": 66,
+      "collectCount": 897,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6083
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7639200984886971679",
+      "createdAt": "2026-05-13T02:41:22.000Z",
+      "creatorHandle": "u_can_bfree2",
+      "videoUrl": "https://www.tiktok.com/@u_can_bfree2/video/7639200984886971679",
+      "caption": "This is the best side job from home in 2026! If you think you’ve tried every side hustle, you haven’t tried this one! It’s a complete game changer. Once you see it, you won’t be able to see it!🙌🏻🎉💃🏻 #sidehustles #sidejob #sidehustlefromhome #workfromhomejobs #waystomakemoneyonline",
+      "viewCount": 9329,
+      "likeCount": 256,
+      "commentCount": 434,
+      "shareCount": 46,
+      "collectCount": 133,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 5555
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7637498984088702228",
+      "createdAt": "2026-05-08T12:36:44.000Z",
+      "creatorHandle": "movietranslationclass",
+      "videoUrl": "https://www.tiktok.com/@movietranslationclass/video/7637498984088702228",
+      "caption": "Translator တစ်ယောက်အတွက် Typing Speed က ဝင်ငွေနဲ့ တိုက်ရိုက်အချိုးကျတယ်ဆိုတာသိပြီးကြပြီလား? \"Translator တစ်ယောက်ရဲ့ အဓိကလက်နက်က ဘာသာစကားကျွမ်းကျင်ပြီး ဘာသာပြန်ရတာကို ဝါသနာပါတာဆိုရင် Typing Speed ကတော့ အဲဒီ့လက်နက်ကို အရှိန်အဟုန်မြှင့်ပေးတဲ့ အင်ဂျင်ပုံစံမျိုးပါပဲ\" ဘာသာပြန်လုပ်ငန်းမှာ သေချာလေး ဘာသာပြန်ပေးတယ်ဆိုတဲ့ Quality ကောင်းဖို့လိုသလို Quantity (အလုပ်ပြီးမြောက်မှုနှုန်း) ကလည်း အရေးကြီးပါတယ်။ စဉ်းစားသလောက် လက်ကမလိုက်နိုင်ရင် စိတ်ကူးတွေ ထောက်သွားတတ်သလို၊ Deadline တွေကြားမှာလည်း အမြဲရုန်းကန်နေရပါလိမ့်မယ်။ ကိုယ့်ရဲ့ Part time job ကို နောက်တစ်ဆင့်တက်လှမ်းဖို့ မရှိမဖြစ်လိုအပ်တဲ့ Typing Practice Websites လေးတွေကို ပြောပြပေးထားပါတယ်... ၁။ Monkeytype Link: monkeytype.com - အမြင်ရှင်းပြီး စာလုံးတွေကိုပဲ အာရုံစိုက်နိုင်အောင် လုပ်ပေးထားတာပါ။ - စာရိုက်နှုန်းတင်မကဘဲ ကိုယ့်ရဲ့ အမှားအယွင်း (Accuracy) ဘယ်လောက်ရှိလဲဆိုတာကိုပါ ဇယားနဲ့ သေချာပြပေးလို့ အမှားနည်းနည်းနဲ့ မြန်မြန်ရိုက်နိုင်အောင် လေ့ကျင့်ပေးပါတယ်။ ၂။ Myan Myan Type Link: myanmyantype.com - မြန်မာစာကို လက်ကွက်မကြည့်ဘဲ ရိုက်တတ်စေဖို့ (Touch Typing) အခြေခံကစ သင်ပေးတာပါ။ - မြန်မာဘာသာပြန်သမားတွေအတွက် အဓိကအခက်အခဲဖြစ်တဲ့ \"စာလုံးဆင့်\" တွေနဲ့ \"လက်ကွက်နေရာ\" တွေကို စနစ်တကျ ကျွမ်းကျင်သွားစေပါတယ်။ ၃။  Learn Type MM (LT) Link: learntypemm.com - Lesson တစ်ခုချင်းစီအလိုက် တည်ဆောက်ထားတဲ့ Platform ပါ။ - အခြေခံမရှိသေးတဲ့သူတွေအတွက် လက်ကွက်ကို မျက်စိထဲမြင်ယောင်လာအောင် လေ့ကျင့်ပေးတဲ့နေရာမှာ အထိရောက်ဆုံးပါပဲ။ ကဲ... ဒါဆိုရင်တော့ ကျန်တာ လေ့ကျင့်ဖို့က ဘာသာပြန်ရတာကို ဝါသနာပါတဲ့ ယူတို့တာဝန်ပဲနော်။  ဘာသာပြန်အတတ်သင်တန်းနှင့် Short video class ကို စိတ်ဝင်စားပါက @goodtranslatorr telegram account or TikTok cb ကိုဆက်သွယ်ပေးပါရှင့်။ #fyp  #MyanmarTranslator #TypingSkills #ProductivityTips  #creatorsearchinsights",
+      "viewCount": 13800,
+      "likeCount": 984,
+      "commentCount": 4,
+      "shareCount": 94,
+      "collectCount": 639,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 4116
+    },
+    {
+      "term": "productivitytips",
+      "provider": "discover",
+      "videoId": "7637589578508930336",
+      "createdAt": "2026-05-08T18:28:17.000Z",
+      "creatorHandle": "leve1upmind",
+      "videoUrl": "https://www.tiktok.com/@leve1upmind/video/7637589578508930336",
+      "caption": "Wake up #fyp #motivation #mindsetmotivation #selfimprovement #productivity",
+      "viewCount": 68100,
+      "likeCount": 802,
+      "commentCount": 17,
+      "shareCount": 83,
+      "collectCount": 118,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3069
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7638200919112322325",
+      "createdAt": "2026-05-10T10:00:36.000Z",
+      "creatorHandle": "brainpopid",
+      "videoUrl": "https://www.tiktok.com/@brainpopid/video/7638200919112322325",
+      "caption": "Capek ngerasa stuck gitu-gitu aja? 🧠✨ Kadang bukan kurang pinter, cuma hobi kita aja yang kurang \"ngelatih\" otak. ​Coba cek list di video ini, mana yang udah jadi kebiasaan kamu? Save dulu buat pengingat, lakuin nanti! 📌 #SelfImprovement #ProductivityTips #HobiPintar #PersonalDevelopment #fyp",
+      "viewCount": 14900,
+      "likeCount": 1158,
+      "commentCount": 5,
+      "shareCount": 32,
+      "collectCount": 394,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2759
+    },
+    {
+      "term": "studytok",
+      "provider": "discover",
+      "videoId": "7640102549349076245",
+      "createdAt": "2026-05-15T12:59:54.000Z",
+      "creatorHandle": "cerulean.naa",
+      "videoUrl": "https://www.tiktok.com/@cerulean.naa/video/7640102549349076245",
+      "caption": "any recs on apps to study? 📖💬 #studytok #studytips #studyapp #fabric_so #studymotivation",
+      "viewCount": 9517,
+      "likeCount": 2121,
+      "commentCount": 19,
+      "shareCount": 41,
+      "collectCount": 239,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2725
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7637238740632538376",
+      "createdAt": "2026-05-07T19:46:51.000Z",
+      "creatorHandle": "user670151681",
+      "videoUrl": "https://www.tiktok.com/@user670151681/video/7637238740632538376",
+      "caption": "#productivitytips #workhacks #focusboost #timemanagement #creatorsearchinsights",
+      "viewCount": 22800,
+      "likeCount": 1542,
+      "commentCount": 12,
+      "shareCount": 8,
+      "collectCount": 67,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 1679
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7638350561372392726",
+      "createdAt": "2026-05-10T19:41:17.000Z",
+      "creatorHandle": "lara.firstearned",
+      "videoUrl": "https://www.tiktok.com/@lara.firstearned/video/7638350561372392726",
+      "caption": "",
+      "viewCount": 29200,
+      "likeCount": 340,
+      "commentCount": 17,
+      "shareCount": 14,
+      "collectCount": 160,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1676
+    },
+    {
+      "term": "smallbusiness",
+      "provider": "discover",
+      "videoId": "7635332271448345870",
+      "createdAt": "2026-05-02T16:28:47.000Z",
+      "creatorHandle": "emilycromwelldesigns",
+      "videoUrl": "https://www.tiktok.com/@emilycromwelldesigns/video/7635332271448345870",
+      "caption": "One of my favorite weeks is here!! It’s packing week for the April Emily Cromwell Designs box! 🎉 Since this box is quarterly I only get to pack it 4 times a year and I always have so much fun everytime packing week comes around. 🥰 But what’s special about this box, is you guys went and made it my best selling box that I’ve ever had, so THANK YOU from the bottom of my heart!!! 😭 I’ve loved seeing all your unboxings and photos and messages as you’ve started receiving the boxes so thank you for your excitement and love! 🥹🩷 #stationerylover #smallbusiness #packingorders #booktok",
+      "viewCount": 21500,
+      "likeCount": 941,
+      "commentCount": 13,
+      "shareCount": 24,
+      "collectCount": 109,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 1659
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7621580529971907848",
+      "createdAt": "2026-03-26T15:05:00.000Z",
+      "creatorHandle": "dailyprompter",
+      "videoUrl": "https://www.tiktok.com/@dailyprompter/video/7621580529971907848",
+      "caption": "#stockmarkettips  #chatgpttips #promptengineering #gptprompts",
+      "viewCount": 9273,
+      "likeCount": 159,
+      "commentCount": 0,
+      "shareCount": 53,
+      "collectCount": 239,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1645
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7636885777539960086",
+      "createdAt": "2026-05-06T20:57:11.000Z",
+      "creatorHandle": "marcomakesit1",
+      "videoUrl": "https://www.tiktok.com/@marcomakesit1/video/7636885777539960086",
+      "caption": "how to make money in the uk for a teen 💀 #waystomakemoneyonline #teen #moneyhacks #broke #sidehustle",
+      "viewCount": 18800,
+      "likeCount": 307,
+      "commentCount": 18,
+      "shareCount": 18,
+      "collectCount": 193,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1626
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7638307634197581077",
+      "createdAt": "2026-05-10T16:54:42.000Z",
+      "creatorHandle": "sarainescherrak",
+      "videoUrl": "https://www.tiktok.com/@sarainescherrak/video/7638307634197581077",
+      "caption": "Tu ne manque pas de motivation tu manque de discipline. #productivitytips #fitnesshacks #motivation #inspofashion",
+      "viewCount": 9839,
+      "likeCount": 532,
+      "commentCount": 34,
+      "shareCount": 16,
+      "collectCount": 50,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1131
+    },
+    {
+      "term": "sidehustle",
+      "provider": "discover",
+      "videoId": "7639601591787474207",
+      "createdAt": "2026-05-14T04:35:55.000Z",
+      "creatorHandle": "officialrachelpowellback",
+      "videoUrl": "https://www.tiktok.com/@officialrachelpowellback/video/7639601591787474207",
+      "caption": "As a stay at home mom, I wish that you had to sell something or be all over the Internet to make money online and then I started learning about simple ways to make money even without your face even without selling something! Moms are making doing this very thing!  #sahm #sidehustles #sidehustleideas",
+      "viewCount": 1887,
+      "likeCount": 74,
+      "commentCount": 73,
+      "shareCount": 22,
+      "collectCount": 29,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1097
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7637771416707943688",
+      "createdAt": "2026-05-09T06:13:55.000Z",
+      "creatorHandle": "cyaaalexandraa03",
+      "videoUrl": "https://www.tiktok.com/@cyaaalexandraa03/video/7637771416707943688",
+      "caption": "Cara Membuat Kukis (Cookies) Sederhana dan Enak 🍪👩🏻‍🍳 Bahan: - 100gr mentega - 100gr gula pasir - 1 butir telur - 1/2 sendok teh vanila - 150gr tepung terigu - 1/2 sendok teh baking powder - 1/4 sendok teh garam - Choco chips atau kacang (opsional) Cara membuat: 1. Kream mentega dan gula pasir hingga lembut. 2. Tambahkan telur dan vanila. Aduk rata. 3. Campur tepung terigu, baking powder, dan garam. Tambahkan ke campuran mentega. Aduk rata. 4. Tambahkan choco chips atau kacang (jika menggunakan). Aduk rata. 5. Sendokkan adonan ke loyang yang telah disiapkan. 6. Panggang selama 15-20 menit atau hingga kecoklatan. 7. Angkat dari oven dan biarkan dingin. Tips: - Pastikan adonan tidak terlalu lembek atau terlalu keras. - Gunakan mentega yang berkualitas untuk hasil kukis yang lebih enak. - Jangan lupa untuk memanaskan oven sebelum memanggang. Selamat mencoba! 🍪👩🏻‍🍳 #masukberanda #michiejkt48 #teamlove #fyp #chatgpttips",
+      "viewCount": 1713,
+      "likeCount": 236,
+      "commentCount": 3,
+      "shareCount": 13,
+      "collectCount": 44,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 462
+    },
+    {
+      "term": "productivitytips",
+      "provider": "discover",
+      "videoId": "7639152835124268295",
+      "createdAt": "2026-05-12T23:34:31.000Z",
+      "creatorHandle": "itsangelicageorges",
+      "videoUrl": "https://www.tiktok.com/@itsangelicageorges/video/7639152835124268295",
+      "caption": "I plan EVERYTHING - my week, my day, my goals, my habits everythinggg #planning #googlecal #notion",
+      "viewCount": 3208,
+      "likeCount": 235,
+      "commentCount": 7,
+      "shareCount": 4,
+      "collectCount": 36,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 428
+    },
+    {
+      "term": "lifehack",
+      "provider": "discover",
+      "videoId": "7634793031891193118",
+      "createdAt": "2026-05-01T05:36:15.000Z",
+      "creatorHandle": "tiktokdance9003",
+      "videoUrl": "https://www.tiktok.com/@tiktokdance9003/video/7634793031891193118",
+      "caption": "#CapCut #BritishCelebrities #PrinceHarry #MeghanMarkle #RoyalFamily",
+      "viewCount": 11600,
+      "likeCount": 128,
+      "commentCount": 2,
+      "shareCount": 3,
+      "collectCount": 13,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 392
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7638240564881788168",
+      "createdAt": "2026-05-10T12:34:27.000Z",
+      "creatorHandle": "juni_hello",
+      "videoUrl": "https://www.tiktok.com/@juni_hello/video/7638240564881788168",
+      "caption": "저장>< #lingolooper #studyhack #collegehacks #productivitytips #studytips",
+      "viewCount": 4392,
+      "likeCount": 198,
+      "commentCount": 0,
+      "shareCount": 0,
+      "collectCount": 32,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 315
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7638241957159914766",
+      "createdAt": "2026-05-10T12:39:51.000Z",
+      "creatorHandle": "studyw.ithemma",
+      "videoUrl": "https://www.tiktok.com/@studyw.ithemma/video/7638241957159914766",
+      "caption": "like chill teacher I’m literally studying on my phone bro😭 #studleyai #phone #productivitytips #academicsuccess #studyapp",
+      "viewCount": 3214,
+      "likeCount": 155,
+      "commentCount": 1,
+      "shareCount": 4,
+      "collectCount": 17,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 252
+    },
+    {
+      "term": "explained",
+      "provider": "discover",
+      "videoId": "7620218950869191950",
+      "createdAt": "2026-03-22T23:01:23.000Z",
+      "creatorHandle": "hypurrralt",
+      "videoUrl": "https://www.tiktok.com/@hypurrralt/video/7620218950869191950",
+      "caption": "My dad abandoned me when I was little, but 20 years later he wants to live with me? #storytime #fyp #lukedavidson #foryou #letterpfp",
+      "viewCount": 881,
+      "likeCount": 48,
+      "commentCount": 3,
+      "shareCount": 13,
+      "collectCount": 3,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 188
+    },
+    {
+      "term": "aitools",
+      "provider": "tag",
+      "videoId": "7638370228619070728",
+      "createdAt": "2026-05-10T20:57:36.000Z",
+      "creatorHandle": "rachellrh",
+      "videoUrl": "https://www.tiktok.com/@rachellrh/video/7638370228619070728",
+      "caption": "#teamchoclitos🌽💛🌽💛🌽 #viraltiktok #cañita #PARAti #ypfッ",
+      "viewCount": 3406,
+      "likeCount": 79,
+      "commentCount": 2,
+      "shareCount": 0,
+      "collectCount": 0,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 128
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7638073359984610576",
+      "createdAt": "2026-05-10T01:45:36.000Z",
+      "creatorHandle": "abdullahsahib095",
+      "videoUrl": "https://www.tiktok.com/@abdullahsahib095/video/7638073359984610576",
+      "caption": "mamoo jan#chatgpttips #aiworkflow #plzzzgrowaccount #emotionaltiktok #griefjourney",
+      "viewCount": 424,
+      "likeCount": 71,
+      "commentCount": 7,
+      "shareCount": 0,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 122
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7638077867024338184",
+      "createdAt": "2026-05-10T02:03:06.000Z",
+      "creatorHandle": "adryortega98",
+      "videoUrl": "https://www.tiktok.com/@adryortega98/video/7638077867024338184",
+      "caption": "#chatgpttips #eldiablonomealcanzo #seguidores #flypp",
+      "viewCount": 1052,
+      "likeCount": 55,
+      "commentCount": 4,
+      "shareCount": 1,
+      "collectCount": 3,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 109
+    },
+    {
+      "term": "chatgpttips",
+      "provider": "tag",
+      "videoId": "7638245241224514836",
+      "createdAt": "2026-05-10T12:52:35.000Z",
+      "creatorHandle": "reginamuyanga6",
+      "videoUrl": "https://www.tiktok.com/@reginamuyanga6/video/7638245241224514836",
+      "caption": "#fypシ゚ #chatgpttips #fyppppppppppppppppppppppp #fypシ゚viral",
+      "viewCount": 353,
+      "likeCount": 30,
+      "commentCount": 2,
+      "shareCount": 0,
+      "collectCount": 0,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 42
+    }
+  ]
+}

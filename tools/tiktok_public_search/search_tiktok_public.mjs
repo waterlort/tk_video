@@ -81,6 +81,7 @@ function walkItems(node, provider, term, out = []) {
   const videoId = node.id ?? node.itemId ?? node.aweme_id
   const author = node.author ?? node.authorInfo ?? node.author_info
   const stats = node.stats ?? node.statistics ?? node.statsV2
+  const video = node.video ?? node.videoInfo ?? node.video_info
 
   if (typeof videoId === 'string' && /^\d{18,22}$/.test(videoId) && stats) {
     const creatorHandle = String(author?.uniqueId ?? author?.unique_id ?? author?.nickname ?? 'creator').trim()
@@ -94,6 +95,7 @@ function walkItems(node, provider, term, out = []) {
       creatorHandle,
       videoUrl: `https://www.tiktok.com/@${creatorHandle}/video/${videoId}`,
       caption,
+      durationSeconds: parseMetric(video?.duration ?? video?.durationSeconds ?? node.duration),
       viewCount: parseMetric(stats.playCount ?? stats.play_count),
       likeCount: parseMetric(stats.diggCount ?? stats.digg_count),
       commentCount: parseMetric(stats.commentCount ?? stats.comment_count),
@@ -227,6 +229,7 @@ async function main() {
           item.term,
           item.petShapeLabels.join(','),
           item.viewCount,
+          item.durationSeconds,
           item.likeCount,
           item.commentCount,
           item.shareCount,

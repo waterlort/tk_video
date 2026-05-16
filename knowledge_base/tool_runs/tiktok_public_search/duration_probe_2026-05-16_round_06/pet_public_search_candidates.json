@@ -1,0 +1,1546 @@
+{
+  "generatedAt": "2026-05-16T13:31:11.006Z",
+  "days": 60,
+  "terms": [
+    "commentreply",
+    "worktok",
+    "amazonfinds",
+    "recipehack",
+    "reactionvideo",
+    "productivitytips",
+    "skit"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7631569719442689310",
+      "createdAt": "2026-04-22T13:08:09.000Z",
+      "creatorHandle": "andrew.salk",
+      "videoUrl": "https://www.tiktok.com/@andrew.salk/video/7631569719442689310",
+      "caption": "Funny Street pranks🤣🤣#funnyvideo #amazing #prank #reaction #fyp",
+      "durationSeconds": 95,
+      "viewCount": 149200000,
+      "likeCount": 2900000,
+      "commentCount": 28900,
+      "shareCount": 305300,
+      "collectCount": 197800,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 7956600
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7637882838397832449",
+      "createdAt": "2026-05-09T13:26:17.000Z",
+      "creatorHandle": "astrospaceq",
+      "videoUrl": "https://www.tiktok.com/@astrospaceq/video/7637882838397832449",
+      "caption": "360 FPS <3 #space #universe #120fps",
+      "durationSeconds": 17,
+      "viewCount": 29400000,
+      "likeCount": 1800000,
+      "commentCount": 23900,
+      "shareCount": 276100,
+      "collectCount": 206400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4761400
+    },
+    {
+      "term": "skit",
+      "provider": "tag",
+      "videoId": "7636130642887019798",
+      "createdAt": "2026-05-04T20:06:52.000Z",
+      "creatorHandle": "waterlillu",
+      "videoUrl": "https://www.tiktok.com/@waterlillu/video/7636130642887019798",
+      "caption": "#malcolmtodd #moodboard #pinterest #core #foryou",
+      "durationSeconds": 14,
+      "viewCount": 4800000,
+      "likeCount": 1200000,
+      "commentCount": 1569,
+      "shareCount": 199500,
+      "collectCount": 139000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2863690
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7620517963346709762",
+      "createdAt": "2026-03-23T18:21:42.000Z",
+      "creatorHandle": "flowerknowsbest1",
+      "videoUrl": "https://www.tiktok.com/@flowerknowsbest1/video/7620517963346709762",
+      "caption": "Testing an easy Japanese recipe🍳🥚#lifehack #cooking #japanesefood #diy #omlette",
+      "durationSeconds": 60,
+      "viewCount": 40700000,
+      "likeCount": 767500,
+      "commentCount": 5347,
+      "shareCount": 54200,
+      "collectCount": 181400,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 2410420
+    },
+    {
+      "term": "recipehack",
+      "provider": "discover",
+      "videoId": "7636721765032480013",
+      "createdAt": "2026-05-06T10:20:43.000Z",
+      "creatorHandle": "funnypuppy001",
+      "videoUrl": "https://www.tiktok.com/@funnypuppy001/video/7636721765032480013",
+      "caption": "Owing a German Shepherd is really fun!#dog #funny #foryou #funnydog #fyp",
+      "durationSeconds": 122,
+      "viewCount": 8200000,
+      "likeCount": 1500000,
+      "commentCount": 2633,
+      "shareCount": 118200,
+      "collectCount": 122900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2377530
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7632631013763468558",
+      "createdAt": "2026-04-25T09:46:31.000Z",
+      "creatorHandle": "funnything.554",
+      "videoUrl": "https://www.tiktok.com/@funnything.554/video/7632631013763468558",
+      "caption": "Funny laughter 😂 #funnyvideo #reaction #fyp #viral #funny",
+      "durationSeconds": 94,
+      "viewCount": 8600000,
+      "likeCount": 589100,
+      "commentCount": 9213,
+      "shareCount": 160300,
+      "collectCount": 65500,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 2103080
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "discover",
+      "videoId": "7635690286680706335",
+      "createdAt": "2026-05-03T15:38:04.000Z",
+      "creatorHandle": "funnydogs059",
+      "videoUrl": "https://www.tiktok.com/@funnydogs059/video/7635690286680706335",
+      "caption": "Repeating kids joke after no one laughs prank see their reaction 😂😂😂#prank #kids #joke #funnyvideos #fyp #funnykids #kidsoftiktok #toddler #reaction #fun",
+      "durationSeconds": 176,
+      "viewCount": 6800000,
+      "likeCount": 997900,
+      "commentCount": 4682,
+      "shareCount": 115900,
+      "collectCount": 57838,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1840322
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627965160178699537",
+      "createdAt": "2026-04-12T20:00:38.000Z",
+      "creatorHandle": "primevideoca",
+      "videoUrl": "https://www.tiktok.com/@primevideoca/video/7627965160178699537",
+      "caption": "a goated episode fr 😭 #TheOffice",
+      "durationSeconds": 265,
+      "viewCount": 10000000,
+      "likeCount": 872400,
+      "commentCount": 5768,
+      "shareCount": 94000,
+      "collectCount": 54900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1665480
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7623562130700258574",
+      "createdAt": "2026-03-31T23:14:37.000Z",
+      "creatorHandle": "work_humor",
+      "videoUrl": "https://www.tiktok.com/@work_humor/video/7623562130700258574",
+      "caption": "POV: I just walked into work and my coworkers already got me mentally buffering 😭😂 #WorkHumor #WorkTok #OfficeLife #CoworkerProblems #fyp",
+      "durationSeconds": 11,
+      "viewCount": 3100000,
+      "likeCount": 157900,
+      "commentCount": 1195,
+      "shareCount": 164400,
+      "collectCount": 26700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1574900
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7629981181550841102",
+      "createdAt": "2026-04-18T06:23:49.000Z",
+      "creatorHandle": "itsyagirl.saratonin",
+      "videoUrl": "https://www.tiktok.com/@itsyagirl.saratonin/video/7629981181550841102",
+      "caption": "Replying to @ACE I think I’ve gotten good at this #creepy #scary #selfdefensetechniques #bigeyes #wtf",
+      "durationSeconds": 13,
+      "viewCount": 6300000,
+      "likeCount": 739100,
+      "commentCount": 11400,
+      "shareCount": 96000,
+      "collectCount": 31600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1503950
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7622412808424033538",
+      "createdAt": "2026-03-28T20:54:40.000Z",
+      "creatorHandle": "in_spiring",
+      "videoUrl": "https://www.tiktok.com/@in_spiring/video/7622412808424033538",
+      "caption": "Tom Holland Funniest Viral Video Reaction | Part 8 #viral  #tomholland #funnyvideo #newyorkcity  #fyp",
+      "durationSeconds": 66,
+      "viewCount": 12100000,
+      "likeCount": 824300,
+      "commentCount": 13000,
+      "shareCount": 37700,
+      "collectCount": 71200,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1370550
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7629033945446796575",
+      "createdAt": "2026-04-15T17:08:03.000Z",
+      "creatorHandle": "motofmx",
+      "videoUrl": "https://www.tiktok.com/@motofmx/video/7629033945446796575",
+      "caption": "Motocross FMX Auraaa freestyle 999%🏍️🥶💪🔥 #USA #motorcycle #stunt #FMX #fyp",
+      "durationSeconds": 60,
+      "viewCount": 13400000,
+      "likeCount": 770700,
+      "commentCount": 4357,
+      "shareCount": 37600,
+      "collectCount": 44400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1175320
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7638145962896018719",
+      "createdAt": "2026-05-10T06:27:20.000Z",
+      "creatorHandle": "easycookingrecipes4",
+      "videoUrl": "https://www.tiktok.com/@easycookingrecipes4/video/7638145962896018719",
+      "caption": "Stop paying for overpriced cafe treats! 🛑 You can make these 3 legendary viral snacks at home right now: • 🍓 Strawberry Refresher Bites: Sprite + Fresh Strawberries (Freeze for 2 hours for that Starbucks vibe!) • ☕ Viral Espresso Cookies: Oreos + Coffee (Dip for 3 seconds for the ultimate TikTok hack!) • 🍫 Ferrero Rocher Mousse: Nutella + Heavy Cream (Whip it up for a $15 fancy dessert at home!) 🔗 Want the exact measurements? Check the link in my bio! 👇 Save this video for your next sweet craving! 📌 Follow to join his journey and never eat boring food again!  #EasyRecipes #cooking #food #tips",
+      "durationSeconds": 66,
+      "viewCount": 1600000,
+      "likeCount": 104500,
+      "commentCount": 523,
+      "shareCount": 77100,
+      "collectCount": 75900,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 1009880
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7627370625195265300",
+      "createdAt": "2026-04-11T05:33:32.000Z",
+      "creatorHandle": "hungrysammyy",
+      "videoUrl": "https://www.tiktok.com/@hungrysammyy/video/7627370625195265300",
+      "caption": "my life = changed  #cheflife #homecooking #recipehack",
+      "durationSeconds": 16,
+      "viewCount": 7300000,
+      "likeCount": 98300,
+      "commentCount": 504,
+      "shareCount": 71800,
+      "collectCount": 17300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 843790
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7627403307346087189",
+      "createdAt": "2026-04-11T07:40:21.000Z",
+      "creatorHandle": "user071221484",
+      "videoUrl": "https://www.tiktok.com/@user071221484/video/7627403307346087189",
+      "caption": "#love",
+      "durationSeconds": 6,
+      "viewCount": 15600000,
+      "likeCount": 776700,
+      "commentCount": 913,
+      "shareCount": 4511,
+      "collectCount": 14300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 802768
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7623561435750206742",
+      "createdAt": "2026-03-31T23:11:56.000Z",
+      "creatorHandle": "top10findshub",
+      "videoUrl": "https://www.tiktok.com/@top10findshub/video/7623561435750206742",
+      "caption": "AMAZON PRODUCTS You’ve Never Seen BEFORE! #amazonfavorites #amazongadgets #amazonmusthaves #amazonproducts #amazondeals",
+      "durationSeconds": 133,
+      "viewCount": 3000000,
+      "likeCount": 159900,
+      "commentCount": 789,
+      "shareCount": 29200,
+      "collectCount": 60400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 623040
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7624288663337241869",
+      "createdAt": "2026-04-02T22:13:56.000Z",
+      "creatorHandle": "heresyourbite",
+      "videoUrl": "https://www.tiktok.com/@heresyourbite/video/7624288663337241869",
+      "caption": "One-Pan Crispy Pork Dumplings 😛 Original creator: @Aila  I didn’t think it could get better than the dumpling lasagna … but now we have a new hack that makes crispy bottom dumplings in one pan.  You mix everything right in the pan, form the filling, press a wrapper on top, and let it cook in stages until the bottoms get crispy.  Ingredients below, full recipe is in my bio!  20 dumpling wrappers or wonton wrappers 1 lb ground pork 1 1/2 tbsp oil (neutral is preferred, olive works) 2 tbsp soy sauce 1 to 2 tsp sesame oil (to taste) 2 to 3 cloves garlic, grated 2 tsp fresh ginger, grated 1/4 cup green onions, finely chopped (whites and greens), plus more for garnish 1 tbsp cornstarch 1/4 tsp salt 1/2 tsp pepper (white or black) 2–3 tbsp chicken broth (added gradually) Low-sodium soy sauce, for garnish Chili crunch, for garnish Sesame seeds, for garnish #dumplings #dumpling #easyrecipes #potstickers #wonton",
+      "durationSeconds": 60,
+      "viewCount": 1500000,
+      "likeCount": 128400,
+      "commentCount": 500,
+      "shareCount": 19200,
+      "collectCount": 60600,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 495200
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7639836529346481421",
+      "createdAt": "2026-05-14T19:47:36.000Z",
+      "creatorHandle": "ehfea",
+      "videoUrl": "https://www.tiktok.com/@ehfea/video/7639836529346481421",
+      "caption": "Interesting baby reactions 😂 #babyreaction #funnybaby #cute #fyp #vrialvideo",
+      "durationSeconds": 88,
+      "viewCount": 2000000,
+      "likeCount": 296700,
+      "commentCount": 811,
+      "shareCount": 29700,
+      "collectCount": 14400,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 491660
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7618278164803882254",
+      "createdAt": "2026-03-17T17:30:08.000Z",
+      "creatorHandle": "allrecipes",
+      "videoUrl": "https://www.tiktok.com/@allrecipes/video/7618278164803882254",
+      "caption": "The key to this viral Doner Kebab Hack is parchment paper. 😉🍖 Roll out your kebab meat onto the parchment paper, fold it up, and watch the magic happen as it mimics meat sliced from a whole lamb—but in half the time! 🐑 Get the full recipe details in the @allrecipes bio! ✨ Inspiration: @mezemike 🧑‍🍳: Nicole #kebab #cookinghack #lamb #easydinner easyrecipes",
+      "durationSeconds": 57,
+      "viewCount": 1400000,
+      "likeCount": 50800,
+      "commentCount": 522,
+      "shareCount": 27100,
+      "collectCount": 35200,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 416220
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7638297511970508046",
+      "createdAt": "2026-05-10T16:15:26.000Z",
+      "creatorHandle": "lastcampreactions",
+      "videoUrl": "https://www.tiktok.com/@lastcampreactions/video/7638297511970508046",
+      "caption": "THE YT BOYS DONE GOT ONE 😅 #rap #whiteboys #anthem #firesongs #reactionvideo | ARTIST: @iamBuckleDown Ft. @Kidd G - Get it white boy",
+      "durationSeconds": 47,
+      "viewCount": 617900,
+      "likeCount": 93400,
+      "commentCount": 2002,
+      "shareCount": 26300,
+      "collectCount": 11800,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 336678
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7633816595088805122",
+      "createdAt": "2026-04-28T14:27:11.000Z",
+      "creatorHandle": "neilcousins",
+      "videoUrl": "https://www.tiktok.com/@neilcousins/video/7633816595088805122",
+      "caption": "How to become disgustingly productive using neuroscience pt. 5",
+      "durationSeconds": 148,
+      "viewCount": 671100,
+      "likeCount": 93500,
+      "commentCount": 161,
+      "shareCount": 4662,
+      "collectCount": 57800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 330278
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7629620902140874006",
+      "createdAt": "2026-04-17T07:05:45.000Z",
+      "creatorHandle": "cookedbysammyy",
+      "videoUrl": "https://www.tiktok.com/@cookedbysammyy/video/7629620902140874006",
+      "caption": "Life = changed #cheflife #recipehack #cookofthehouse",
+      "durationSeconds": 14,
+      "viewCount": 1300000,
+      "likeCount": 20600,
+      "commentCount": 103,
+      "shareCount": 33800,
+      "collectCount": 5386,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 329274
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7630800118303771917",
+      "createdAt": "2026-04-20T11:21:43.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7630800118303771917",
+      "caption": "POV you show up to work in the best mood possible 😂 Nothing but positive energy today Tell me I’m not the only one like this #CapCut #relateable #officehumor #workhumor #worktok",
+      "durationSeconds": 5,
+      "viewCount": 876500,
+      "likeCount": 15700,
+      "commentCount": 138,
+      "shareCount": 36200,
+      "collectCount": 2370,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 325840
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7625097211428359455",
+      "createdAt": "2026-04-05T02:31:31.000Z",
+      "creatorHandle": "no_filter_sarah",
+      "videoUrl": "https://www.tiktok.com/@no_filter_sarah/video/7625097211428359455",
+      "caption": "Women having the ick has gone too far. #ick #dating #relationshiptok #reactionvideo #fyp",
+      "durationSeconds": 77,
+      "viewCount": 1500000,
+      "likeCount": 207000,
+      "commentCount": 1567,
+      "shareCount": 11900,
+      "collectCount": 16700,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 311170
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7636528496688385294",
+      "createdAt": "2026-05-05T21:50:45.000Z",
+      "creatorHandle": "winchoicecorp",
+      "videoUrl": "https://www.tiktok.com/@winchoicecorp/video/7636528496688385294",
+      "caption": "The audacity😒 #winchoice #corporate #corporatelife #officetok #worktok",
+      "durationSeconds": 7,
+      "viewCount": 816900,
+      "likeCount": 101700,
+      "commentCount": 253,
+      "shareCount": 29300,
+      "collectCount": 1734,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 311054
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7636747850168192270",
+      "createdAt": "2026-05-06T12:01:57.000Z",
+      "creatorHandle": "repprovisions",
+      "videoUrl": "https://www.tiktok.com/@repprovisions/video/7636747850168192270",
+      "caption": "Beef isn’t cheap, you might as well get all the flavor you’re paying for. 10x the flavor of your ground beef dishes with this simple cooking hack.  Deliver anywhere in the 48 states. #eatrep #repprovisions #regenerativeagriculture #cookingtips",
+      "durationSeconds": 85,
+      "viewCount": 1100000,
+      "likeCount": 39500,
+      "commentCount": 869,
+      "shareCount": 26800,
+      "collectCount": 9912,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 304488
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7636844090734169362",
+      "createdAt": "2026-05-06T18:15:25.000Z",
+      "creatorHandle": "thesamfindz",
+      "videoUrl": "https://www.tiktok.com/@thesamfindz/video/7636844090734169362",
+      "caption": "Num 07 tho 😂👌 #amazon #amazonfinds #amazonmusthaves #founditonamazon #kitchen #home #gadgets #products",
+      "durationSeconds": 148,
+      "viewCount": 1900000,
+      "likeCount": 86000,
+      "commentCount": 369,
+      "shareCount": 12300,
+      "collectCount": 27539,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 293246
+    },
+    {
+      "term": "recipehack",
+      "provider": "discover",
+      "videoId": "7636190837784759573",
+      "createdAt": "2026-05-05T00:00:27.000Z",
+      "creatorHandle": "yaicerconstruyendo1",
+      "videoUrl": "https://www.tiktok.com/@yaicerconstruyendo1/video/7636190837784759573",
+      "caption": "#puno #juliaca #lotespuno #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "durationSeconds": 12,
+      "viewCount": 7700000,
+      "likeCount": 81400,
+      "commentCount": 2839,
+      "shareCount": 5594,
+      "collectCount": 6289,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 292998
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7624523416774790413",
+      "createdAt": "2026-04-03T13:24:54.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7624523416774790413",
+      "caption": "At this point… I’m convinced there’s no hiring process 😂 just vibes and bad decisions Tell me your job isn’t like this #CapCut #relateable #workhumor #officehumor #worktok",
+      "durationSeconds": 9,
+      "viewCount": 687200,
+      "likeCount": 44800,
+      "commentCount": 246,
+      "shareCount": 29400,
+      "collectCount": 4393,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 291376
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7624893100183276822",
+      "createdAt": "2026-04-04T13:19:28.000Z",
+      "creatorHandle": "inthemoodformore",
+      "videoUrl": "https://www.tiktok.com/@inthemoodformore/video/7624893100183276822",
+      "caption": "you don’t need to “fix your life” you just need a system that actually works #productivitytips #thatgirlroutine #selfimprovement #mindsetreset #organizationaltips",
+      "durationSeconds": 0,
+      "viewCount": 444400,
+      "likeCount": 101400,
+      "commentCount": 96,
+      "shareCount": 3492,
+      "collectCount": 43300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 261684
+    },
+    {
+      "term": "worktok",
+      "provider": "discover",
+      "videoId": "7634721756850212109",
+      "createdAt": "2026-05-01T00:59:40.000Z",
+      "creatorHandle": "kimberi0",
+      "videoUrl": "https://www.tiktok.com/@kimberi0/video/7634721756850212109",
+      "caption": "The Answer is... | YOU! 🤦🏽‍♀️ 💖 Don't forget to comment , follow, and like! #workhumor  #quitting  #officehumor #officelife #comedyskits",
+      "durationSeconds": 6,
+      "viewCount": 690000,
+      "likeCount": 60300,
+      "commentCount": 144,
+      "shareCount": 22600,
+      "collectCount": 5635,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 248730
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7628573588416695566",
+      "createdAt": "2026-04-14T11:21:38.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7628573588416695566",
+      "caption": "POV this is literally every day at work 😂 Why am I explaining the same thing over and over Tell me I’m not the only one dealing with this #CapCut #worktok #relateable #officehumor #workhumor",
+      "durationSeconds": 5,
+      "viewCount": 642100,
+      "likeCount": 33300,
+      "commentCount": 92,
+      "shareCount": 24900,
+      "collectCount": 4031,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 245736
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7638599665646128398",
+      "createdAt": "2026-05-11T11:47:56.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7638599665646128398",
+      "caption": "POV they think you actually know what you’re doing at work 😂 I’m just showing up and figuring it out Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "durationSeconds": 8,
+      "viewCount": 437400,
+      "likeCount": 26700,
+      "commentCount": 69,
+      "shareCount": 25600,
+      "collectCount": 2969,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 239464
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627087390686973206",
+      "createdAt": "2026-04-10T11:14:26.000Z",
+      "creatorHandle": "bananaislandgehgeh",
+      "videoUrl": "https://www.tiktok.com/@bananaislandgehgeh/video/7627087390686973206",
+      "caption": "Replying to @BIGALIEN👽 I waka naked for garden of Eden ☹️ na bad character I go dey show una now 😂😂 #funnymemes #commentreply #character #gardenofeden #gehgeh",
+      "durationSeconds": 18,
+      "viewCount": 1600000,
+      "likeCount": 150300,
+      "commentCount": 3363,
+      "shareCount": 7083,
+      "collectCount": 7966,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 229308
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7630065402663521549",
+      "createdAt": "2026-04-18T11:50:38.000Z",
+      "creatorHandle": "easykitchen123",
+      "videoUrl": "https://www.tiktok.com/@easykitchen123/video/7630065402663521549",
+      "caption": "Did you know if you combine cream of mushroom & Chicken  #foodtok #easyrecipe #cookinghacks #kitchentips #quickmeals",
+      "durationSeconds": 60,
+      "viewCount": 869000,
+      "likeCount": 22300,
+      "commentCount": 629,
+      "shareCount": 18200,
+      "collectCount": 10900,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 224020
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7634868991747542286",
+      "createdAt": "2026-05-01T10:31:01.000Z",
+      "creatorHandle": "koppressing",
+      "videoUrl": "https://www.tiktok.com/@koppressing/video/7634868991747542286",
+      "caption": "Press the RESET Button & Consider this your scheduled maintenance✨️ We’ve all been there. You start the day with a solid plan, and then life happens. An emergency, a sudden bill, or a \"fiery dart\" stops your progress cold. Hours vanish, and your to-do list remains untouched. Don't get discouraged. Just reset. 🔄 Jack Kerouac, famous for the frantic energy of his novel 'On the Road', actually spent much of his life searching for stillness. In a world moving at 100mph—where stress is the default and overwhelm is constant—his words are a perfect reminder to breathe. \"When life goes too fast, you don’t need all the answers—just your next step.\" — Jack Kerouac. Here is your roadmap for when the day feels like too much: 1️⃣ Stop Looking at the Mountain 🏔️When you stare at everything you have to do, the climb feels impossible. Stop. Lower your gaze to the single step right in front of you. Focus only on the \"now.\" 2️⃣ Play the Hand You're Dealt🃏 If \"putting out fires\" stole your morning, don't write off the day. Do what you can with the hours left. Prioritize non-negotiable deadlines, but keep your expectations realistic. 3️⃣ The \"Shut Down\" Rule 🛑Finding the still moment in the midst of chaos.This is the most important part: know when to shut it down. There comes a time every evening when you must stop. Even if the list isn't finished, capture your notes, move the tasks to tomorrow, and give yourself permission to unwind. The Bottom Line: Productivity isn’t perfection. If you only got one thing done because life got in the way, that is still progress. Unfinished plans aren't failures; they are just tomorrow’s starting line. You’ve done your best in a high-pressure world—now, find stillness in the quiet of the evening. ✨ Which step do you need to focus on today? Meet me in the comments 👇 #ProductivityTips #JackKerouac #Reset #selfimprovementmindset #ForYouPage",
+      "durationSeconds": 19,
+      "viewCount": 643600,
+      "likeCount": 267300,
+      "commentCount": 613,
+      "shareCount": 2364,
+      "collectCount": 12000,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 219564
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7628648256972705027",
+      "createdAt": "2026-04-14T16:11:23.000Z",
+      "creatorHandle": "aurelifun",
+      "videoUrl": "https://www.tiktok.com/@aurelifun/video/7628648256972705027",
+      "caption": "This got funnier every second😂 #funnyvideo #funnyclips #reactionvideo #englishpractice #humorvideo",
+      "durationSeconds": 24,
+      "viewCount": 421500,
+      "likeCount": 34900,
+      "commentCount": 687,
+      "shareCount": 21600,
+      "collectCount": 2408,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 215182
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7632290561923370253",
+      "createdAt": "2026-04-24T11:45:24.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7632290561923370253",
+      "caption": "POV someone raises their voice at your work bestie 😂 Now it’s personal Tell me you got that ONE coworker you’ll always defend #CapCut #officehumor #workhumor #worktok #relateable",
+      "durationSeconds": 7,
+      "viewCount": 373700,
+      "likeCount": 26900,
+      "commentCount": 55,
+      "shareCount": 22300,
+      "collectCount": 3381,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 213398
+    },
+    {
+      "term": "commentreply",
+      "provider": "discover",
+      "videoId": "7621248863369776398",
+      "createdAt": "2026-03-25T17:37:58.000Z",
+      "creatorHandle": "vincentjust_spams",
+      "videoUrl": "https://www.tiktok.com/@vincentjust_spams/video/7621248863369776398",
+      "caption": "Time to break another record",
+      "durationSeconds": 46,
+      "viewCount": 101300,
+      "likeCount": 5221,
+      "commentCount": 18200,
+      "shareCount": 60,
+      "collectCount": 409,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 188753
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7633993057733446942",
+      "createdAt": "2026-04-29T01:51:57.000Z",
+      "creatorHandle": "5.minute.recipes",
+      "videoUrl": "https://www.tiktok.com/@5.minute.recipes/video/7633993057733446942",
+      "caption": "Level Up Every Bite with cheese tricks 🧀💡#yummy #cheesy #hacks #foodie #chef",
+      "durationSeconds": 212,
+      "viewCount": 2600000,
+      "likeCount": 64700,
+      "commentCount": 195,
+      "shareCount": 4308,
+      "collectCount": 15600,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 183164
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7633486765138906398",
+      "createdAt": "2026-04-27T17:07:16.000Z",
+      "creatorHandle": "tenebrix.mn",
+      "videoUrl": "https://www.tiktok.com/@tenebrix.mn/video/7633486765138906398",
+      "caption": "This is How you beat 99% of people. #successhabits  #selfimprovement  #discipline  #growthmindset  #productivitytips",
+      "durationSeconds": 126,
+      "viewCount": 638700,
+      "likeCount": 33000,
+      "commentCount": 224,
+      "shareCount": 12300,
+      "collectCount": 12000,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 177914
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7635609517975162126",
+      "createdAt": "2026-05-03T10:24:38.000Z",
+      "creatorHandle": "irisrift",
+      "videoUrl": "https://www.tiktok.com/@irisrift/video/7635609517975162126",
+      "caption": "Celebrities watching “HOW IT’S DONE” live… and their reactions say it all. 🔥#celebrityreactions#liveperformance#viralvideo#fyp#howitsdone",
+      "durationSeconds": 60,
+      "viewCount": 1200000,
+      "likeCount": 90500,
+      "commentCount": 694,
+      "shareCount": 3876,
+      "collectCount": 16400,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 172798
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7635334080942361874",
+      "createdAt": "2026-05-02T16:35:48.000Z",
+      "creatorHandle": "thesamfindz",
+      "videoUrl": "https://www.tiktok.com/@thesamfindz/video/7635334080942361874",
+      "caption": "Num 02 is game changer 🙌 😮 #amazon #amazonfinds #amazonmusthaves #founditonamazon #kitchen #home #gadgets #products",
+      "durationSeconds": 94,
+      "viewCount": 1200000,
+      "likeCount": 69400,
+      "commentCount": 199,
+      "shareCount": 5927,
+      "collectCount": 15900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 171706
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7629353868136140063",
+      "createdAt": "2026-04-16T13:49:31.000Z",
+      "creatorHandle": "emelylovelykitchen",
+      "videoUrl": "https://www.tiktok.com/@emelylovelykitchen/video/7629353868136140063",
+      "caption": "Ep. 2: Basic Breakfast Potatoes 🥔✨ If your mom didn’t teach you, I will.  Ingredients: 2 Potatoes (diced) 1/2 tbsp Oil + light spray 1 tsp Salt & 1/2 tsp Pepper 1 tsp Garlic powder & 1/2 tsp Oregano 1 tsp paprika  Fresh parsley Steps: Boil: Diced potatoes for 5 mins. Drain. Sear: Toss in a hot pan with oil. Season: Light spray, shake, and add spices. Crisp: Add parsley and brown until golden. Enjoy, and remember: you CAN cook <3 #breakfastrecipes #crispypotatoes #CookingHacks #EasyRecipes #cookingtips",
+      "durationSeconds": 16,
+      "viewCount": 687300,
+      "likeCount": 44900,
+      "commentCount": 104,
+      "shareCount": 2227,
+      "collectCount": 26800,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 162252
+    },
+    {
+      "term": "skit",
+      "provider": "discover",
+      "videoId": "7640250940460715278",
+      "createdAt": "2026-05-15T22:35:44.000Z",
+      "creatorHandle": "itsmattperry",
+      "videoUrl": "https://www.tiktok.com/@itsmattperry/video/7640250940460715278",
+      "caption": "All cause they having a bad day 😭 #funny #skit #relatable #nostalgia #mattperry",
+      "durationSeconds": 179,
+      "viewCount": 489500,
+      "likeCount": 96200,
+      "commentCount": 581,
+      "shareCount": 6264,
+      "collectCount": 11909,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 161448
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7637695999577820424",
+      "createdAt": "2026-05-09T01:21:15.000Z",
+      "creatorHandle": "yk_william_",
+      "videoUrl": "https://www.tiktok.com/@yk_william_/video/7637695999577820424",
+      "caption": "Cop your clothes frm: @17best-Lulu",
+      "durationSeconds": 8,
+      "viewCount": 565100,
+      "likeCount": 117800,
+      "commentCount": 795,
+      "shareCount": 6056,
+      "collectCount": 5754,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 149616
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7635058337351994637",
+      "createdAt": "2026-05-01T22:45:47.000Z",
+      "creatorHandle": "kitchiqueofficial",
+      "videoUrl": "https://www.tiktok.com/@kitchiqueofficial/video/7635058337351994637",
+      "caption": "How a professional diner chef upgrades basic bread and eggs. 👨‍🍳🔥 #bread #eggs #Recipe #kitchen #kitchenhack",
+      "durationSeconds": 81,
+      "viewCount": 650300,
+      "likeCount": 14400,
+      "commentCount": 132,
+      "shareCount": 10500,
+      "collectCount": 9347,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 142914
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7628009911821061389",
+      "createdAt": "2026-04-12T22:54:17.000Z",
+      "creatorHandle": "ashley.hoskins",
+      "videoUrl": "https://www.tiktok.com/@ashley.hoskins/video/7628009911821061389",
+      "caption": "1000/10 this is a new family favorite. Thank you  @𝚊𝚞𝚋𝚛𝚎𝚢 𝚋𝚛𝚒𝚊𝚗𝚗𝚊 ⚡︎  for the inspiration!  #homecooking #easyrecipes #dinnerideas #familymeals #cookinghacks",
+      "durationSeconds": 96,
+      "viewCount": 655100,
+      "likeCount": 14000,
+      "commentCount": 138,
+      "shareCount": 8104,
+      "collectCount": 14000,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 142314
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7623082203286637837",
+      "createdAt": "2026-03-30T16:12:16.000Z",
+      "creatorHandle": "juliakcrist",
+      "videoUrl": "https://www.tiktok.com/@juliakcrist/video/7623082203286637837",
+      "caption": "get your life together with  calendar!!! 💗📆 here is my simple but aesthetic apple calendar setup that actually keeps you organized + productive!!!   #applecalendar #productivitytips #digitalplanning #macbooktips #iphone17promax",
+      "durationSeconds": 159,
+      "viewCount": 433100,
+      "likeCount": 43600,
+      "commentCount": 83,
+      "shareCount": 1517,
+      "collectCount": 22200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 132228
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7635500563282660622",
+      "createdAt": "2026-05-03T03:21:50.000Z",
+      "creatorHandle": "tastyframe07",
+      "videoUrl": "https://www.tiktok.com/@tastyframe07/video/7635500563282660622",
+      "caption": "A genius trick with chocolate, that everyone should know  #ChocolateLovers #EasyDessert #ViralRecipe #FoodTok #DessertTok",
+      "durationSeconds": 64,
+      "viewCount": 2400000,
+      "likeCount": 20800,
+      "commentCount": 739,
+      "shareCount": 4604,
+      "collectCount": 6688,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 129374
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7624874061142756621",
+      "createdAt": "2026-04-04T12:05:35.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7624874061142756621",
+      "caption": "Short staffed but still expected to do everything 😂 “just do your best” is CRAZY Anyone else dealing with this? #CapCut #workhumor #relateable #officehumor #worktok",
+      "durationSeconds": 7,
+      "viewCount": 219300,
+      "likeCount": 13300,
+      "commentCount": 39,
+      "shareCount": 13300,
+      "collectCount": 1935,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 125566
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7639906397097954574",
+      "createdAt": "2026-05-15T00:18:43.000Z",
+      "creatorHandle": "easycookingrecipes4",
+      "videoUrl": "https://www.tiktok.com/@easycookingrecipes4/video/7639906397097954574",
+      "caption": "Stop paying restaurant prices for the basics! 🛑 These 3 \"pantry-to-table\" hacks will save you a fortune: 🍄 Steakhouse Gravy: Mushroom Soup + Cornstarch + Soy Sauce (Rich and savory!) 🔥 Authentic Buffalo Sauce: Hot Sauce + Melted Butter + Garlic Powder (The ultimate wing dip!) 🥜 Thai Peanut Sauce: Peanut Butter + Coconut Milk + Soy Sauce (Creamy restaurant quality!) Most people have these in their kitchen right now! 🛒 Save this for your next meal and Follow for more viral kitchen secrets! ✨ #cooking #easyrecipe #ViralRecipes #tips",
+      "durationSeconds": 61,
+      "viewCount": 241300,
+      "likeCount": 10900,
+      "commentCount": 84,
+      "shareCount": 9594,
+      "collectCount": 8748,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 122860
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7627077640897187093",
+      "createdAt": "2026-04-10T10:36:36.000Z",
+      "creatorHandle": "lesleystestkitchen",
+      "videoUrl": "https://www.tiktok.com/@lesleystestkitchen/video/7627077640897187093",
+      "caption": "Tinapay ang isa sa pinaka-profitable at pinaka-stable na pwedeng ibenta ng isang homebaker so take advantage of this very detailed recipe video tutorial para ma-start mo na ang pangarap mong side hustle 😊 DM me so I can send the link to get a copy of the recipe + costing ✅️ CHEESE ROLLS A LA MARY GRACE INGREDIENTS:  1/2 cup (120g) water 1 1/4 cup (156g) all-purpose flour 1 large (20g) egg yolk 1/2 cup (25g) potato flakes 1 tsp instant yeast 1/2 tsp fine salt 1 1/2 tsps milk powder 1/4 cup (56g) unsalted butter + 60g (5g/roll for topping) 2 tbsps (25g) white sugar + 36g (3/4 tsp or 3g/roll for topping) #breadmaking #breadsforbusiness #bread #cheeseroll #recipehack",
+      "durationSeconds": 634,
+      "viewCount": 443900,
+      "likeCount": 19600,
+      "commentCount": 358,
+      "shareCount": 5098,
+      "collectCount": 14600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 121442
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7632410821108174093",
+      "createdAt": "2026-04-24T19:32:04.000Z",
+      "creatorHandle": "smashtoastfood",
+      "videoUrl": "https://www.tiktok.com/@smashtoastfood/video/7632410821108174093",
+      "caption": "Jk we are besties  #funny #relateable #worktok #trending #fyp",
+      "durationSeconds": 8,
+      "viewCount": 403700,
+      "likeCount": 41500,
+      "commentCount": 39,
+      "shareCount": 10500,
+      "collectCount": 1905,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 120834
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7630254617716083982",
+      "createdAt": "2026-04-19T00:04:53.000Z",
+      "creatorHandle": "kykybak90",
+      "videoUrl": "https://www.tiktok.com/@kykybak90/video/7630254617716083982",
+      "caption": "#body #fup #fyp #rec #рек #f #wonyoung #liz #winter #рекомендаци",
+      "durationSeconds": 16,
+      "viewCount": 492000,
+      "likeCount": 75200,
+      "commentCount": 401,
+      "shareCount": 2550,
+      "collectCount": 9183,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 108582
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7634212785815211286",
+      "createdAt": "2026-04-29T16:04:36.000Z",
+      "creatorHandle": "adihoseki",
+      "videoUrl": "https://www.tiktok.com/@adihoseki/video/7634212785815211286",
+      "caption": "Réponse à @naomieandpoppy They think I serve coffee, I just serve looks at the office 😎☕️✨️ #BonjourHoney  #AltFashion  #GRWM  #CommentReply  #FYP",
+      "durationSeconds": 23,
+      "viewCount": 2200000,
+      "likeCount": 87900,
+      "commentCount": 401,
+      "shareCount": 1036,
+      "collectCount": 2077,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 108556
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7636720270262193428",
+      "createdAt": "2026-05-06T10:14:55.000Z",
+      "creatorHandle": "thilar_official",
+      "videoUrl": "https://www.tiktok.com/@thilar_official/video/7636720270262193428",
+      "caption": "ယောက်ျားလေးတွေ တကယ် ချစ်ရင် ဘယ်လို ပုံံစံမျိုးလဲ 🥰 #ယောက်ျား #commentreply #thilar #သိလား #ပုံစံ",
+      "durationSeconds": 117,
+      "viewCount": 550900,
+      "likeCount": 43000,
+      "commentCount": 348,
+      "shareCount": 6702,
+      "collectCount": 4426,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 107318
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7624154250435677453",
+      "createdAt": "2026-04-02T13:32:21.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7624154250435677453",
+      "caption": "I try to stay professional… I really do 😂 but the real personality always finds a way out Who else struggles with this? #CapCut #relateable #officehumor #workhumor #worktok",
+      "durationSeconds": 19,
+      "viewCount": 129800,
+      "likeCount": 6916,
+      "commentCount": 46,
+      "shareCount": 11700,
+      "collectCount": 1060,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 104354
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7638974297742052622",
+      "createdAt": "2026-05-12T12:01:42.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7638974297742052622",
+      "caption": "POV you had to describe your workplace in one sentence 😂 This might be the most accurate thing ever Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "durationSeconds": 8,
+      "viewCount": 195500,
+      "likeCount": 3651,
+      "commentCount": 39,
+      "shareCount": 11700,
+      "collectCount": 805,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 102946
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7625364656525167885",
+      "createdAt": "2026-04-05T19:49:21.000Z",
+      "creatorHandle": "apieceofmyhaven",
+      "videoUrl": "https://www.tiktok.com/@apieceofmyhaven/video/7625364656525167885",
+      "caption": "Amazon zero regret aesthetic kitchen finds✨ everything is linked in my bio",
+      "durationSeconds": 59,
+      "viewCount": 447400,
+      "likeCount": 26400,
+      "commentCount": 110,
+      "shareCount": 2621,
+      "collectCount": 13500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 98216
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7634142251916021005",
+      "createdAt": "2026-04-29T11:30:54.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7634142251916021005",
+      "caption": "POV you look around at your job and realize it’s chaos 😂 Like how is this even functioning Tell me I’m not the only one #CapCut #officehumor #workhumor #relateable #worktok",
+      "durationSeconds": 7,
+      "viewCount": 204200,
+      "likeCount": 6949,
+      "commentCount": 128,
+      "shareCount": 10200,
+      "collectCount": 1228,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 95351
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7637274163081792799",
+      "createdAt": "2026-05-07T22:04:19.000Z",
+      "creatorHandle": "wilmingtondonatos041",
+      "videoUrl": "https://www.tiktok.com/@wilmingtondonatos041/video/7637274163081792799",
+      "caption": "stop crying and take my dang order #fyp #worktok #funny #foryou #workhumor",
+      "durationSeconds": 6,
+      "viewCount": 282900,
+      "likeCount": 60900,
+      "commentCount": 135,
+      "shareCount": 5375,
+      "collectCount": 2180,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 89178
+    },
+    {
+      "term": "commentreply",
+      "provider": "tag",
+      "videoId": "7627275101624438038",
+      "createdAt": "2026-04-10T23:22:51.000Z",
+      "creatorHandle": "bananaislandgehgeh",
+      "videoUrl": "https://www.tiktok.com/@bananaislandgehgeh/video/7627275101624438038",
+      "caption": "Replying to @OFIEN MARVIN🇩🇪🇩🇪🇩🇪🇩🇪 I’m active for problem 😂😂 #funnymemes #problems #commentreply #meme #gehgeh",
+      "durationSeconds": 14,
+      "viewCount": 662100,
+      "likeCount": 60000,
+      "commentCount": 682,
+      "shareCount": 3423,
+      "collectCount": 2750,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 88446
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7630635476734561543",
+      "createdAt": "2026-04-20T00:42:49.000Z",
+      "creatorHandle": "anti.begadang",
+      "videoUrl": "https://www.tiktok.com/@anti.begadang/video/7630635476734561543",
+      "caption": "Ternyata rahasia bangun seger jam 4 pagi itu bukan soal \"NIAT\" doang, tapi soal \"STRATEGI\" 🧠✨ Banyak yang pusing pas bangun Subuh karena bangunnya di tengah-tengah siklus tidur yang dalam. Akibatnya, seharian jadi lemot dan bad mood. Coba pakai Teknik 90 Menit ini biar badan kamu otomatis \"on\" begitu denger adzan! Cek slide 3 buat jadwal tidurnya, jangan lupa di-SAVE biar nggak hilang pas mau praktek nanti malam! 📌 Udah siap jadi Pejuang Subuh yang anti lemes? Coba absen di kolom komentar, biasanya kamu tidur jam berapa? 👇 #AntiBegadang #PejuangSubuh #TipsKesehatan #ProductivityTips #SelfDevelopment",
+      "durationSeconds": 0,
+      "viewCount": 358100,
+      "likeCount": 16100,
+      "commentCount": 219,
+      "shareCount": 3585,
+      "collectCount": 9387,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 83630
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7632359047169051912",
+      "createdAt": "2026-04-24T16:11:09.000Z",
+      "creatorHandle": "jazzy.fun2",
+      "videoUrl": "https://www.tiktok.com/@jazzy.fun2/video/7632359047169051912",
+      "caption": "Reacting to viewers screen time#reaction #viralvideo #reaction",
+      "durationSeconds": 40,
+      "viewCount": 489400,
+      "likeCount": 34500,
+      "commentCount": 630,
+      "shareCount": 3256,
+      "collectCount": 5267,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 80454
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7621151111747095821",
+      "createdAt": "2026-03-25T11:18:38.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7621151111747095821",
+      "caption": "Management: “we’ve had complaints…” Me: say what you gotta say… I will too 😭 At some point you just stop holding back 😂 Tag the coworker who would NOT stay quiet. #CapCut #relateable #worktok #officehumor #workhumor",
+      "durationSeconds": 12,
+      "viewCount": 153700,
+      "likeCount": 13800,
+      "commentCount": 64,
+      "shareCount": 7507,
+      "collectCount": 2203,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 79482
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7638366929442409742",
+      "createdAt": "2026-05-10T20:44:48.000Z",
+      "creatorHandle": "holistic.habits.health",
+      "videoUrl": "https://www.tiktok.com/@holistic.habits.health/video/7638366929442409742",
+      "caption": "Stop Throwing Away Lemon Peels… They’re the Best Part 🍋🔥 You’re throwing away the most powerful part of the lemon 🍋⚠️   Most people use the juice… and toss the peel without realizing that’s where a huge amount of the flavor and aromatic oils actually live.   And restaurants know this.   That leftover lemon peel you keep throwing away? It can be turned into a homemade lemon pepper seasoning that tastes fresher, stronger, and cleaner than almost anything store-bought.   All you do is remove the peel, dry it completely, then air fry or bake it until crisp. Blend it with black pepper, salt, and a little turmeric—and suddenly you’ve got a bold seasoning that upgrades almost everything.   Salmon. Chicken. Veggies. Potatoes. Even popcorn.   The difference is huge because fresh lemon peel has intense citrus oils and flavor compounds that disappear in prepackaged seasonings sitting on shelves for months.   This is the kind of simple kitchen trick that makes homemade food taste restaurant-level without spending extra money or buying more ingredients.   And once you start doing this, you’ll never look at lemon peels as “waste” again.   Save this before your next grocery run ✔️   Send it to someone who throws lemon peels away 👀   Comment “PEEL” if you want more hidden food hacks like this 👇   —————— lemon pepper seasoning, homemade seasoning, lemon peel benefits, kitchen hacks, homemade spice blend, air fryer recipes, cooking hacks, lemon seasoning, food waste hacks, gourmet cooking #lemon #lemonpepper #seasoning #kitchenhacks #cookinghacks",
+      "durationSeconds": 66,
+      "viewCount": 134600,
+      "likeCount": 9995,
+      "commentCount": 422,
+      "shareCount": 4613,
+      "collectCount": 6556,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 75038
+    },
+    {
+      "term": "skit",
+      "provider": "tag",
+      "videoId": "7623734198641184032",
+      "createdAt": "2026-04-01T10:22:20.000Z",
+      "creatorHandle": "meowmeowai96",
+      "videoUrl": "https://www.tiktok.com/@meowmeowai96/video/7623734198641184032",
+      "caption": "Das Erdbeerjunge entlarvt das wahre Gesicht der Stiefmutter. #aivideo #fyp #fruits #brainrot #shortstory",
+      "durationSeconds": 60,
+      "viewCount": 1800000,
+      "likeCount": 20500,
+      "commentCount": 445,
+      "shareCount": 1175,
+      "collectCount": 3298,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 73292
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7628433343218027784",
+      "createdAt": "2026-04-14T02:17:25.000Z",
+      "creatorHandle": "nicolevictoriia_",
+      "videoUrl": "https://www.tiktok.com/@nicolevictoriia_/video/7628433343218027784",
+      "caption": "Learnings of the week🧠  #personalcurriculum #monthlycurriculum #personaldevelopment #learnings #productivitytips",
+      "durationSeconds": 86,
+      "viewCount": 170100,
+      "likeCount": 30000,
+      "commentCount": 87,
+      "shareCount": 941,
+      "collectCount": 11600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 73200
+    },
+    {
+      "term": "skit",
+      "provider": "discover",
+      "videoId": "7640237726356311310",
+      "createdAt": "2026-05-15T21:44:27.000Z",
+      "creatorHandle": "drefiggysmalls",
+      "videoUrl": "https://www.tiktok.com/@drefiggysmalls/video/7640237726356311310",
+      "caption": "When being too nice to your regulars comes with a price 👀 #skit #actress #drama #scene #series",
+      "durationSeconds": 104,
+      "viewCount": 484500,
+      "likeCount": 97500,
+      "commentCount": 121,
+      "shareCount": 121,
+      "collectCount": 3097,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 73006
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7627416170898918686",
+      "createdAt": "2026-04-11T08:30:16.000Z",
+      "creatorHandle": "shortcut.ninja",
+      "videoUrl": "https://www.tiktok.com/@shortcut.ninja/video/7627416170898918686",
+      "caption": "Stop wasting time on lines in MS Word 😳📄 Manual lines adjust karne ki zarurat nahi — simple line hacks se document clean aur professional banao 💻⚡ Perfect for students, teachers aur office work. Try it once aur aap manual lines bhool jaoge 🚀 Follow karo aur daily MS Word tips aur shortcuts ke liye 👍 Hashtags: #msword #wordtips #productivitytips #officetips #keyboardshortcuts",
+      "durationSeconds": 20,
+      "viewCount": 629400,
+      "likeCount": 14500,
+      "commentCount": 67,
+      "shareCount": 2404,
+      "collectCount": 8029,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 71856
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7639095757844352287",
+      "createdAt": "2026-05-12T19:53:02.000Z",
+      "creatorHandle": "chefelliott",
+      "videoUrl": "https://www.tiktok.com/@chefelliott/video/7639095757844352287",
+      "caption": "Finally a way to save all my recipes 🙏 #CookingHacks #viralrecipe #bakingrecipe #cookingtips #recipeideas",
+      "durationSeconds": 15,
+      "viewCount": 833000,
+      "likeCount": 3795,
+      "commentCount": 81,
+      "shareCount": 5906,
+      "collectCount": 1119,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 71092
+    },
+    {
+      "term": "worktok",
+      "provider": "tag",
+      "videoId": "7639331944265764109",
+      "createdAt": "2026-05-13T11:09:33.000Z",
+      "creatorHandle": "itsiamross",
+      "videoUrl": "https://www.tiktok.com/@itsiamross/video/7639331944265764109",
+      "caption": "POV this is just a regular day at work for you and your coworkers 😂 HR would have a field day with us Tell me I’m not the only one #CapCut #workhumor #officehumor #relateable #worktok",
+      "durationSeconds": 9,
+      "viewCount": 162800,
+      "likeCount": 3491,
+      "commentCount": 35,
+      "shareCount": 7875,
+      "collectCount": 621,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 70836
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7638685073973300493",
+      "createdAt": "2026-05-11T17:19:22.000Z",
+      "creatorHandle": "asmr.restockin",
+      "videoUrl": "https://www.tiktok.com/@asmr.restockin/video/7638685073973300493",
+      "caption": "Amazon Home Finds | All Finds Are Linked on my Amazon Storefront — Link in bio #asmr #amazonfinds #kitchen #organization #satisfying",
+      "durationSeconds": 92,
+      "viewCount": 327400,
+      "likeCount": 35000,
+      "commentCount": 44,
+      "shareCount": 1989,
+      "collectCount": 7035,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 68540
+    },
+    {
+      "term": "reactionvideo",
+      "provider": "tag",
+      "videoId": "7638752250424347918",
+      "createdAt": "2026-05-11T21:40:03.000Z",
+      "creatorHandle": "voteforpedrop",
+      "videoUrl": "https://www.tiktok.com/@voteforpedrop/video/7638752250424347918",
+      "caption": "Most terrifying ad ever made‼️😱 #react #reactionvideo #scary #sad #emotional",
+      "durationSeconds": 49,
+      "viewCount": 332800,
+      "likeCount": 22100,
+      "commentCount": 214,
+      "shareCount": 3751,
+      "collectCount": 4329,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 67170
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7627179556490743062",
+      "createdAt": "2026-04-10T17:12:05.000Z",
+      "creatorHandle": "top.tips5",
+      "videoUrl": "https://www.tiktok.com/@top.tips5/video/7627179556490743062",
+      "caption": "#TipTopHacks #ProductivityTips #HacksForLife #EasyFix #LifeHacks",
+      "durationSeconds": 30,
+      "viewCount": 1400000,
+      "likeCount": 23900,
+      "commentCount": 57,
+      "shareCount": 1406,
+      "collectCount": 3009,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 63804
+    },
+    {
+      "term": "skit",
+      "provider": "discover",
+      "videoId": "7640186775285042445",
+      "createdAt": "2026-05-15T18:26:44.000Z",
+      "creatorHandle": "mattwillpost",
+      "videoUrl": "https://www.tiktok.com/@mattwillpost/video/7640186775285042445",
+      "caption": "taking breaks in the car from now on #skit",
+      "durationSeconds": 61,
+      "viewCount": 116800,
+      "likeCount": 30400,
+      "commentCount": 88,
+      "shareCount": 4248,
+      "collectCount": 2759,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 63436
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7633478585839389965",
+      "createdAt": "2026-04-27T16:35:32.000Z",
+      "creatorHandle": "kyle.meets.ai",
+      "videoUrl": "https://www.tiktok.com/@kyle.meets.ai/video/7633478585839389965",
+      "caption": "Create your first Instagram carousel in 60 seconds or less 🤯 I jumped into Claude Design, dropped in a prompt for four matching travel tip images sized for Instagram, and watched Claude build the entire carousel ready to export and post. Imagine using this for your business tips, your travel content, or any series you want to look polished and on brand. Take this one step further by editing each image directly in Claude until the design is exactly what you want. Comment PROMPT if you'd like the prompt instructions 📧  #aimadeeasy #productivity #claude #learnai #productivitytips #design #ai",
+      "durationSeconds": 41,
+      "viewCount": 199000,
+      "likeCount": 7138,
+      "commentCount": 434,
+      "shareCount": 1308,
+      "collectCount": 9581,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 60677
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7623545935674527007",
+      "createdAt": "2026-03-31T22:11:47.000Z",
+      "creatorHandle": "jeena_study_tips",
+      "videoUrl": "https://www.tiktok.com/@jeena_study_tips/video/7623545935674527007",
+      "caption": "Unlock your study potential with these simple yet powerful methods! 💡📚  #StudyHacks #AceYourExams #ProductivityTips #StudyMotivation #studytips",
+      "durationSeconds": 0,
+      "viewCount": 212500,
+      "likeCount": 20400,
+      "commentCount": 51,
+      "shareCount": 854,
+      "collectCount": 8460,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 55632
+    },
+    {
+      "term": "productivitytips",
+      "provider": "tag",
+      "videoId": "7639391253917912334",
+      "createdAt": "2026-05-13T14:59:42.000Z",
+      "creatorHandle": "thinkfasttalksmart",
+      "videoUrl": "https://www.tiktok.com/@thinkfasttalksmart/video/7639391253917912334",
+      "caption": "Drink coffee… then go to sleep. No, seriously. It’s called a “nappuccino,” and it might be the smartest energy hack you’re not using. Caffeine takes ~15–20 minutes to kick in… so by the time you wake up, you’re locked in. Try it once. Full episode with @drcherimah at fastersmarter.io. #ProductivityHacks #FocusTips #BrainHealth #WellnessTips #ThinkFastTalkSmart",
+      "durationSeconds": 40,
+      "viewCount": 155300,
+      "likeCount": 12400,
+      "commentCount": 121,
+      "shareCount": 4996,
+      "collectCount": 1243,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 55456
+    }
+  ]
+}

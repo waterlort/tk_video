@@ -1,0 +1,1109 @@
+{
+  "generatedAt": "2026-05-16T04:22:46.631Z",
+  "days": 60,
+  "terms": [
+    "tiktokmademebuyit",
+    "amazonfinds",
+    "gadgettok",
+    "beautyhacks",
+    "skincare",
+    "makeuptutorial",
+    "grwm",
+    "cleantok",
+    "homeorganization",
+    "roommakeover",
+    "kitchenhacks",
+    "productreview",
+    "unboxing",
+    "beforeandafter"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7634667301081582862",
+      "createdAt": "2026-04-30T21:28:21.000Z",
+      "creatorHandle": "exe_neuro",
+      "videoUrl": "https://www.tiktok.com/@exe_neuro/video/7634667301081582862",
+      "caption": "this ended exactly how you think",
+      "viewCount": 120900000,
+      "likeCount": 21600000,
+      "commentCount": 136800,
+      "shareCount": 5200000,
+      "collectCount": 1600000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 62586000
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7631787016769899806",
+      "createdAt": "2026-04-23T03:11:23.000Z",
+      "creatorHandle": "uknome_quadieb",
+      "videoUrl": "https://www.tiktok.com/@uknome_quadieb/video/7631787016769899806",
+      "caption": "The 3 year old Kambri was horrible😂😂😭 #terrible3s  #mickeymouse #toddlersoftiktok  #throwback",
+      "viewCount": 76600000,
+      "likeCount": 13300000,
+      "commentCount": 113900,
+      "shareCount": 4000000,
+      "collectCount": 1100000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 45721000
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7628108599549496589",
+      "createdAt": "2026-04-13T05:17:15.000Z",
+      "creatorHandle": "tierneygoodnight",
+      "videoUrl": "https://www.tiktok.com/@tierneygoodnight/video/7628108599549496589",
+      "caption": "I wasn’t sure if this would work on her…the best part was her brother at the end  . . https://www.facebook.com/share/r/15mqZzQXm3j/?mibextid=wwXIfr . . https://www.instagram.com/reel/DXFnowdiZvF/?igsh=MTQ1dXQwcm9rZnVq . . https://youtube.com/shorts/QvsRn9ocBMk?si=6xUvEhwFZMtFvXja",
+      "viewCount": 54200000,
+      "likeCount": 9700000,
+      "commentCount": 42100,
+      "shareCount": 2700000,
+      "collectCount": 622100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 30443400
+    },
+    {
+      "term": "skincare",
+      "provider": "discover",
+      "videoId": "7634497841905388821",
+      "createdAt": "2026-04-30T10:30:46.000Z",
+      "creatorHandle": "cuocsongmaemoi",
+      "videoUrl": "https://www.tiktok.com/@cuocsongmaemoi/video/7634497841905388821",
+      "caption": "Điều kỳ diệu của cuộc sống #gạo  #lua #bấtngờ #xuhuong",
+      "viewCount": 46800000,
+      "likeCount": 1300000,
+      "commentCount": 11400,
+      "shareCount": 1600000,
+      "collectCount": 90700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 14862800
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7627326443021700382",
+      "createdAt": "2026-04-11T02:42:05.000Z",
+      "creatorHandle": "toreesecret",
+      "videoUrl": "https://www.tiktok.com/@toreesecret/video/7627326443021700382",
+      "caption": "ik there’s others out there like me",
+      "viewCount": 36600000,
+      "likeCount": 6700000,
+      "commentCount": 21400,
+      "shareCount": 108200,
+      "collectCount": 286500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6307600
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7631649684364348690",
+      "createdAt": "2026-04-22T18:18:28.000Z",
+      "creatorHandle": "juliancoolians",
+      "videoUrl": "https://www.tiktok.com/@juliancoolians/video/7631649684364348690",
+      "caption": "",
+      "viewCount": 17400000,
+      "likeCount": 4200000,
+      "commentCount": 20800,
+      "shareCount": 123100,
+      "collectCount": 134100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4177200
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7631706673488399636",
+      "createdAt": "2026-04-22T21:59:36.000Z",
+      "creatorHandle": "sam.shan.shops",
+      "videoUrl": "https://www.tiktok.com/@sam.shan.shops/video/7631706673488399636",
+      "caption": "best find of the summer ☀️ I love that this outdoor tanning pool has a built in cooler and pocket for all your tanning needs 👙🌴💦 #tanningpool #outdoortanningbed #amazonsummerfinds #tanningtime #summeressentials tips to get the best tan",
+      "viewCount": 13900000,
+      "likeCount": 1100000,
+      "commentCount": 1779,
+      "shareCount": 199600,
+      "collectCount": 118970,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2918470
+    },
+    {
+      "term": "skincare",
+      "provider": "discover",
+      "videoId": "7635974647221161223",
+      "createdAt": "2026-05-04T10:01:32.000Z",
+      "creatorHandle": "luluyaofdc",
+      "videoUrl": "https://www.tiktok.com/@luluyaofdc/video/7635974647221161223",
+      "caption": "You're good at hiding! #Fishing Interaction #Lure Fishing",
+      "viewCount": 61100000,
+      "likeCount": 1100000,
+      "commentCount": 8948,
+      "shareCount": 97400,
+      "collectCount": 44700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2819480
+    },
+    {
+      "term": "gadgettok",
+      "provider": "discover",
+      "videoId": "7619716897449217302",
+      "createdAt": "2026-03-21T14:33:09.000Z",
+      "creatorHandle": "fcbarcelona",
+      "videoUrl": "https://www.tiktok.com/@fcbarcelona/video/7619716897449217302",
+      "caption": "Skiller 🎮 #fcbarcelona #barçaontiktok #championsleague #lamineyamal #deportesentiktok",
+      "viewCount": 10700000,
+      "likeCount": 1300000,
+      "commentCount": 4943,
+      "shareCount": 30800,
+      "collectCount": 70300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1441030
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "discover",
+      "videoId": "7636552104823311623",
+      "createdAt": "2026-05-05T23:22:21.000Z",
+      "creatorHandle": "sazdena",
+      "videoUrl": "https://www.tiktok.com/@sazdena/video/7636552104823311623",
+      "caption": "No Karen’s around here",
+      "viewCount": 23500000,
+      "likeCount": 856900,
+      "commentCount": 2308,
+      "shareCount": 48100,
+      "collectCount": 19300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1383530
+    },
+    {
+      "term": "makeuptutorial",
+      "provider": "discover",
+      "videoId": "7639313414275353874",
+      "createdAt": "2026-05-13T09:57:39.000Z",
+      "creatorHandle": "ltfamily_",
+      "videoUrl": "https://www.tiktok.com/@ltfamily_/video/7639313414275353874",
+      "caption": "🫠 Unpacking all the videos from when I gave birth to my daughter & came across this #mumlife #samoan #fyp #childbirth",
+      "viewCount": 8700000,
+      "likeCount": 1200000,
+      "commentCount": 1103,
+      "shareCount": 15200,
+      "collectCount": 29800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1025830
+    },
+    {
+      "term": "makeuptutorial",
+      "provider": "discover",
+      "videoId": "7636536286878125330",
+      "createdAt": "2026-05-05T22:20:58.000Z",
+      "creatorHandle": "netflixsports",
+      "videoUrl": "https://www.tiktok.com/@netflixsports/video/7636536286878125330",
+      "caption": "When Ryan Goins caught Todd Fraizer with a perfect hidden ball trick 😮‍💨 Credit to the umpire who stayed locked in on this play too 👏  #MLBonNetflix #mlb #baseball #yankees",
+      "viewCount": 9100000,
+      "likeCount": 237700,
+      "commentCount": 2166,
+      "shareCount": 15000,
+      "collectCount": 6576,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 468814
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7637358672393358622",
+      "createdAt": "2026-05-08T03:32:15.000Z",
+      "creatorHandle": "itschelseahope",
+      "videoUrl": "https://www.tiktok.com/@itschelseahope/video/7637358672393358622",
+      "caption": "Sleeping here instead of my bed for the next few days #amazonfinds #amazonhome",
+      "viewCount": 2300000,
+      "likeCount": 145800,
+      "commentCount": 164,
+      "shareCount": 24800,
+      "collectCount": 33991,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 454904
+    },
+    {
+      "term": "tiktokmademebuyit",
+      "provider": "discover",
+      "videoId": "7636784929728154910",
+      "createdAt": "2026-05-06T14:25:50.000Z",
+      "creatorHandle": "goodstuffdiary",
+      "videoUrl": "https://www.tiktok.com/@goodstuffdiary/video/7636784929728154910",
+      "caption": "Comfortable fit, rugged use. 🏔️ Durable dog backpack with reflective strips & top handle. #dogbackpack #petgear #walkessentials #tiktokmademebuyit#fyp",
+      "viewCount": 2500000,
+      "likeCount": 20400,
+      "commentCount": 392,
+      "shareCount": 39400,
+      "collectCount": 4589,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 397676
+    },
+    {
+      "term": "cleantok",
+      "provider": "discover",
+      "videoId": "7626665341283781896",
+      "createdAt": "2026-04-09T07:56:40.000Z",
+      "creatorHandle": "clean.with.me.maria",
+      "videoUrl": "https://www.tiktok.com/@clean.with.me.maria/video/7626665341283781896",
+      "caption": "deep cleaning asmr housewife lifestyle bathroom scrubbing clean with me #creatorsearchinsights #girlscleaning #cleantok",
+      "viewCount": 3200000,
+      "likeCount": 117600,
+      "commentCount": 1114,
+      "shareCount": 18600,
+      "collectCount": 22700,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 373540
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7639100430664109335",
+      "createdAt": "2026-05-12T20:11:10.000Z",
+      "creatorHandle": "lvova48",
+      "videoUrl": "https://www.tiktok.com/@lvova48/video/7639100430664109335",
+      "caption": "Thailand 🧘🏻‍♀️🫶🏻 #thailandtiktok #selfie",
+      "viewCount": 1800000,
+      "likeCount": 143800,
+      "commentCount": 1609,
+      "shareCount": 10900,
+      "collectCount": 15700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 273990
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7638290051889253646",
+      "createdAt": "2026-05-10T15:46:29.000Z",
+      "creatorHandle": "historias_frutas_oficial",
+      "videoUrl": "https://www.tiktok.com/@historias_frutas_oficial/video/7638290051889253646",
+      "caption": "Lo engaño con su mejor amigo.🍍💔 #frutas #fruit #animation #sadstory #brainrot",
+      "viewCount": 3500000,
+      "likeCount": 133400,
+      "commentCount": 1127,
+      "shareCount": 3906,
+      "collectCount": 10400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 220818
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7637344757731036446",
+      "createdAt": "2026-05-08T02:38:15.000Z",
+      "creatorHandle": "simplywithjulia",
+      "videoUrl": "https://www.tiktok.com/@simplywithjulia/video/7637344757731036446",
+      "caption": "Great addition to the beverages. Easy to dispense beverages and no spills! #amazonkitchenfavorites #amazonfinds #amazonhome #amazonhomefinds #drinkdispenser @Amazon Home @Amazon @Amazon Influencer Program",
+      "viewCount": 1300000,
+      "likeCount": 24900,
+      "commentCount": 203,
+      "shareCount": 10100,
+      "collectCount": 7478,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 151192
+    },
+    {
+      "term": "tiktokmademebuyit",
+      "provider": "tag",
+      "videoId": "7638621670390992158",
+      "createdAt": "2026-05-11T13:13:20.000Z",
+      "creatorHandle": "funnyzone012",
+      "videoUrl": "https://www.tiktok.com/@funnyzone012/video/7638621670390992158",
+      "caption": "#UK #London #BritishCelebrities #RoyalFamily #PrinceHarry #MeghanMarkle #BritishCulture #Adele #EdSheeran #England #France #Paris #FrenchCelebrities #EiffelTower #FrenchStyle #FrenchMusic #Mbappe #Zindane #FrenchVibes #Russia #Moscow #Putin #RussianCulture #RussianMusic #SlavicBeauty #RussiaToday #EasternEurope #RussianStats #USA #Hollywood #AmericanCelebrities #TaylorSwift #SelenaGomez #JustinBieber #Beyonce #BillieEilish #ElonMusk",
+      "viewCount": 2300000,
+      "likeCount": 71400,
+      "commentCount": 537,
+      "shareCount": 1505,
+      "collectCount": 8360,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 132550
+    },
+    {
+      "term": "tiktokmademebuyit",
+      "provider": "tag",
+      "videoId": "7632358164343622934",
+      "createdAt": "2026-04-24T16:07:44.000Z",
+      "creatorHandle": "rebbesspam",
+      "videoUrl": "https://www.tiktok.com/@rebbesspam/video/7632358164343622934",
+      "caption": "«will you hold my hand, bro»🥹 #13reasonswhy #clayandjustin  #netflix #foryou",
+      "viewCount": 352200,
+      "likeCount": 87300,
+      "commentCount": 541,
+      "shareCount": 3569,
+      "collectCount": 11900,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 132256
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7621974266837224734",
+      "createdAt": "2026-03-27T16:32:54.000Z",
+      "creatorHandle": "princessbree_._",
+      "videoUrl": "https://www.tiktok.com/@princessbree_._/video/7621974266837224734",
+      "caption": "If you hate shaving… this is for YOU 👀 No nicks. No bumps. No mess. Just smooth skin in seconds ✨ And yes… you can use it WET or DRY 💦 I haven’t touched a regular razor since 😭 ⚡ On sale RIGHT NOW — don’t miss it #TikTokMadeMeBuyIt #AmazonFinds #GlowUp #EasyBeauty #MomHacks",
+      "viewCount": 1500000,
+      "likeCount": 19500,
+      "commentCount": 417,
+      "shareCount": 4493,
+      "collectCount": 8119,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 112340
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "tag",
+      "videoId": "7637340840272153886",
+      "createdAt": "2026-05-08T02:23:03.000Z",
+      "creatorHandle": "jvstmil4d",
+      "videoUrl": "https://www.tiktok.com/@jvstmil4d/video/7637340840272153886",
+      "caption": "#france #psg #championsleague #fyp #paris",
+      "viewCount": 228200,
+      "likeCount": 43900,
+      "commentCount": 137,
+      "shareCount": 5631,
+      "collectCount": 4388,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 90484
+    },
+    {
+      "term": "unboxing",
+      "provider": "discover",
+      "videoId": "7639642394857671957",
+      "createdAt": "2026-05-14T07:14:16.000Z",
+      "creatorHandle": "kiredio._",
+      "videoUrl": "https://www.tiktok.com/@kiredio._/video/7639642394857671957",
+      "caption": "UNBOXING BRANDED PAIR OF SHOES",
+      "viewCount": 568800,
+      "likeCount": 41800,
+      "commentCount": 4018,
+      "shareCount": 566,
+      "collectCount": 2032,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 85112
+    },
+    {
+      "term": "unboxing",
+      "provider": "discover",
+      "videoId": "7639631583925996820",
+      "createdAt": "2026-05-14T06:32:18.000Z",
+      "creatorHandle": "guraisu.com",
+      "videoUrl": "https://www.tiktok.com/@guraisu.com/video/7639631583925996820",
+      "caption": "unboxing kado dari sweetheart part 2 yeay @tierison #softspoken #guraisu #cewefeminim",
+      "viewCount": 1200000,
+      "likeCount": 74400,
+      "commentCount": 280,
+      "shareCount": 602,
+      "collectCount": 1595,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 75196
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7638954593132547342",
+      "createdAt": "2026-05-12T10:45:14.000Z",
+      "creatorHandle": "its_lola.winters",
+      "videoUrl": "https://www.tiktok.com/@its_lola.winters/video/7638954593132547342",
+      "caption": "GRWM for school",
+      "viewCount": 553000,
+      "likeCount": 87900,
+      "commentCount": 616,
+      "shareCount": 266,
+      "collectCount": 2359,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72734
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7622783505214213398",
+      "createdAt": "2026-03-29T20:53:09.000Z",
+      "creatorHandle": "nerjesnana",
+      "videoUrl": "https://www.tiktok.com/@nerjesnana/video/7622783505214213398",
+      "caption": "In love with my new costume #bellydancer #dance #GRWM #backstage",
+      "viewCount": 1100000,
+      "likeCount": 10300,
+      "commentCount": 110,
+      "shareCount": 2255,
+      "collectCount": 3645,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 60870
+    },
+    {
+      "term": "cleantok",
+      "provider": "discover",
+      "videoId": "7621509794628750623",
+      "createdAt": "2026-03-26T10:30:31.000Z",
+      "creatorHandle": "gregoryvance3430",
+      "videoUrl": "https://www.tiktok.com/@gregoryvance3430/video/7621509794628750623",
+      "caption": "Satisfying deep clean with steam power!#SteamCleaning #Steamer #HomeHacks #CleanTok #CleaningHacks",
+      "viewCount": 1100000,
+      "likeCount": 4459,
+      "commentCount": 75,
+      "shareCount": 1489,
+      "collectCount": 2363,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 46344
+    },
+    {
+      "term": "tiktokmademebuyit",
+      "provider": "discover",
+      "videoId": "7625222063535574293",
+      "createdAt": "2026-04-05T10:36:01.000Z",
+      "creatorHandle": "shiroujin",
+      "videoUrl": "https://www.tiktok.com/@shiroujin/video/7625222063535574293",
+      "caption": "Replying to @cheesecake small babe 👙💕 LEVAO-6PCS plus sizeWomens Underwear Cotton Cheeky Bikini Panties for Women Lace Stretch Hipster Ladies Briefs Multipack S-XXL Breathable Soft Comfort Sexy Comfortable Basic Minimalist Bridal Womenswear Innerwear Pink Cute Chic Elegant #levao #levaounderwear #underwearforwomen #tiktokshopxlevao #cottonunderwears",
+      "viewCount": 810000,
+      "likeCount": 7437,
+      "commentCount": 68,
+      "shareCount": 1616,
+      "collectCount": 3013,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 45579
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7618532930968718612",
+      "createdAt": "2026-03-18T09:58:46.000Z",
+      "creatorHandle": "adimology",
+      "videoUrl": "https://www.tiktok.com/@adimology/video/7618532930968718612",
+      "caption": "ASMR unboxing hape 1 jutaan tapi feel-nya pro banget! 🎧 Beberapa fitur yang gw suka dari Redmi A7 Pro ini : •\tDesainnya CAKEP ! •\tLayar GEDE 6.9 inci + 120Hz refresh rate. •\tBaterainya AWET 6000mAh. •\tProcessor octa-core yang cukup banget buat aktivitas seharian lo •\tRAM yang bisa expansion hingga 8GB dengan storage UFS 2.2 •\tKamera 13MP AI Dual Camera, dan •\tEkosistem smooth dari Xiaomi HyperOS 3 Dari semua spek di atas,  gw paling suka sama penggunaan Xiaomi HyperOS 3 di smartphone ini. Kalo menurut lo gimana nih? Komen di bawah ya! 👇 @Xiaomi Indonesia  #RedmiA7Pro #SerbaBisaSerbaPro #XiaomiIndonesia #GadgetTok #asmrunboxing",
+      "viewCount": 764900,
+      "likeCount": 17700,
+      "commentCount": 409,
+      "shareCount": 1120,
+      "collectCount": 2012,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 45246
+    },
+    {
+      "term": "productreview",
+      "provider": "discover",
+      "videoId": "7620888636287995166",
+      "createdAt": "2026-03-24T18:20:06.000Z",
+      "creatorHandle": "tlynanxio",
+      "videoUrl": "https://www.tiktok.com/@tlynanxio/video/7620888636287995166",
+      "caption": "If your skin starts acting up the second it gets warm, it’s time for a full body reset. The Some By Mi Miracle Body Bundle is designed to target body acne, clogged pores, and rough texture using AHA, BHA, and PHA to gently exfoliate while calming ingredients like tea tree and cica help soothe and balance the skin. It’s the kind of routine that clears breakouts on your back, chest, and shoulders without stripping your barrier, leaving your skin smooth, even, and summer-ready. Perfect for anyone dealing with bacne, sweat-induced breakouts, or texture before stepping into tank tops and bikinis. #bodyacne #bacne #bodycare #kbeauty #SOMMEBYMI",
+      "viewCount": 447000,
+      "likeCount": 7288,
+      "commentCount": 45,
+      "shareCount": 1330,
+      "collectCount": 5281,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 44798
+    },
+    {
+      "term": "unboxing",
+      "provider": "discover",
+      "videoId": "7639635466060352789",
+      "createdAt": "2026-05-14T06:47:22.000Z",
+      "creatorHandle": "creammypawat_",
+      "videoUrl": "https://www.tiktok.com/@creammypawat_/video/7639635466060352789",
+      "caption": "#fyp #viral @Diorbeauty #dior #diorbeauty",
+      "viewCount": 434500,
+      "likeCount": 26000,
+      "commentCount": 145,
+      "shareCount": 1909,
+      "collectCount": 1349,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 43808
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7633074132657147150",
+      "createdAt": "2026-04-26T14:26:03.000Z",
+      "creatorHandle": "nicelife.hacks",
+      "videoUrl": "https://www.tiktok.com/@nicelife.hacks/video/7633074132657147150",
+      "caption": "Quick Shredder—Makes Food Prep Super Convenient #fyp #amazon #homeimprovement #homefinds #home",
+      "viewCount": 1300000,
+      "likeCount": 5858,
+      "commentCount": 138,
+      "shareCount": 1140,
+      "collectCount": 935,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 43169
+    },
+    {
+      "term": "gadgettok",
+      "provider": "discover",
+      "videoId": "7636901020974468372",
+      "createdAt": "2026-05-06T21:56:20.000Z",
+      "creatorHandle": "drivingtravelandl",
+      "videoUrl": "https://www.tiktok.com/@drivingtravelandl/video/7636901020974468372",
+      "caption": "#funny #fyp #foryou #foryoupage",
+      "viewCount": 444800,
+      "likeCount": 3478,
+      "commentCount": 25,
+      "shareCount": 2923,
+      "collectCount": 497,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 36257
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7629660556894604565",
+      "createdAt": "2026-04-17T09:39:38.000Z",
+      "creatorHandle": "techsusukita",
+      "videoUrl": "https://www.tiktok.com/@techsusukita/video/7629660556894604565",
+      "caption": "HP \"Plagiat\" Paling Sempurna? Cek Spek Honor 600 Pro. 🤔#HONOR600Pro#HonorIndonesia#Honor600Series#TechTok#GadgetTok#ReviewHP#GadgetIndonesia#InfoGadget#RekomendasiHP#SmartphoneTerbaru#ReviewGadget#fyp",
+      "viewCount": 540300,
+      "likeCount": 10400,
+      "commentCount": 286,
+      "shareCount": 806,
+      "collectCount": 2045,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 33494
+    },
+    {
+      "term": "productreview",
+      "provider": "discover",
+      "videoId": "7628389409024527647",
+      "createdAt": "2026-04-13T23:26:56.000Z",
+      "creatorHandle": "aubsmallows",
+      "videoUrl": "https://www.tiktok.com/@aubsmallows/video/7628389409024527647",
+      "caption": "IN SHOCK OVER HOW FLATTERING YET COMFORTABLE THIS NEW JELLY BRA IS🤩 #jellybra #seamlessbra #everydaybra #brareview #tiktokshopstockup",
+      "viewCount": 346500,
+      "likeCount": 3329,
+      "commentCount": 97,
+      "shareCount": 1928,
+      "collectCount": 1095,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 29369
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7639875285973994766",
+      "createdAt": "2026-05-14T22:18:00.000Z",
+      "creatorHandle": "grwmia.o",
+      "videoUrl": "https://www.tiktok.com/@grwmia.o/video/7639875285973994766",
+      "caption": "get ready with me/updated makeup tutorial💋#grwm #routine #tutorial #graduation #makeup",
+      "viewCount": 163100,
+      "likeCount": 29300,
+      "commentCount": 255,
+      "shareCount": 95,
+      "collectCount": 1748,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 28214
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "tag",
+      "videoId": "7639864363255483665",
+      "createdAt": "2026-05-14T21:35:37.000Z",
+      "creatorHandle": "monterocine",
+      "videoUrl": "https://www.tiktok.com/@monterocine/video/7639864363255483665",
+      "caption": "MICHAEL Jackson era CINE 🚬",
+      "viewCount": 497000,
+      "likeCount": 15300,
+      "commentCount": 49,
+      "shareCount": 233,
+      "collectCount": 1271,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 25028
+    },
+    {
+      "term": "productreview",
+      "provider": "discover",
+      "videoId": "7621155309335088415",
+      "createdAt": "2026-03-25T11:34:56.000Z",
+      "creatorHandle": "idonydqnxge",
+      "videoUrl": "https://www.tiktok.com/@idonydqnxge/video/7621155309335088415",
+      "caption": "A refreshing and non-irritating hair removal cream. Say goodbye to razors and waxing. One application is all you need. #hairremoval #flamingo #tiktokshop #fyp",
+      "viewCount": 474800,
+      "likeCount": 1989,
+      "commentCount": 112,
+      "shareCount": 689,
+      "collectCount": 654,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 19739
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7628400481991167246",
+      "createdAt": "2026-04-14T00:09:54.000Z",
+      "creatorHandle": "thekitchenpedia",
+      "videoUrl": "https://www.tiktok.com/@thekitchenpedia/video/7628400481991167246",
+      "caption": "With this Ultra-sharp knife... slicing feels like magic 😲 Multi-use kitchen tool for cutting, peeling, shredding vegetables, fruits, and meat. Try it today and feel the difference in cooking! 👉 Check Link in bio or comments below to grab yours! *affiliate #vegetableslicer #vegetablecutter #allinoneknife #kitchentools #amazonfind",
+      "viewCount": 115000,
+      "likeCount": 581,
+      "commentCount": 270,
+      "shareCount": 792,
+      "collectCount": 190,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 12387
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7618129771712482580",
+      "createdAt": "2026-03-17T07:54:18.000Z",
+      "creatorHandle": "cxjenn_",
+      "videoUrl": "https://www.tiktok.com/@cxjenn_/video/7618129771712482580",
+      "caption": "Replying to @Rirahma Putri and everyone else that asks about my iPhone 17 camera settings!🥰 Yang simple” aja, but another tip kalau mau hasil sangat gong emang either pakai natural lighting or beli lampu tambahan untuk ngonten yah!♥️ #apple #iphone17 #camera #gadgettok #fyp",
+      "viewCount": 61700,
+      "likeCount": 1695,
+      "commentCount": 19,
+      "shareCount": 299,
+      "collectCount": 1804,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 11880
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7639747217875586326",
+      "createdAt": "2026-05-14T14:01:02.000Z",
+      "creatorHandle": "tamu.glow",
+      "videoUrl": "https://www.tiktok.com/@tamu.glow/video/7639747217875586326",
+      "caption": "GRWM for school | trust the process part 1 #fyp #grwm #makeup #cleangirl",
+      "viewCount": 121000,
+      "likeCount": 1868,
+      "commentCount": 96,
+      "shareCount": 856,
+      "collectCount": 170,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 11842
+    },
+    {
+      "term": "cleantok",
+      "provider": "discover",
+      "videoId": "7631381669932469534",
+      "createdAt": "2026-04-22T00:58:26.000Z",
+      "creatorHandle": "vapelle_1",
+      "videoUrl": "https://www.tiktok.com/@vapelle_1/video/7631381669932469534",
+      "caption": "Replying to @Leah❤️  would you use this? 😧 #cleaning #cleantok",
+      "viewCount": 168800,
+      "likeCount": 1183,
+      "commentCount": 33,
+      "shareCount": 572,
+      "collectCount": 588,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 11226
+    },
+    {
+      "term": "unboxing",
+      "provider": "discover",
+      "videoId": "7639621479906462996",
+      "createdAt": "2026-05-14T05:53:06.000Z",
+      "creatorHandle": "justineomelaaa",
+      "videoUrl": "https://www.tiktok.com/@justineomelaaa/video/7639621479906462996",
+      "caption": "cutiee",
+      "viewCount": 50800,
+      "likeCount": 7469,
+      "commentCount": 48,
+      "shareCount": 99,
+      "collectCount": 480,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7943
+    },
+    {
+      "term": "cleantok",
+      "provider": "discover",
+      "videoId": "7630050234835553549",
+      "createdAt": "2026-04-18T10:51:47.000Z",
+      "creatorHandle": "user626088379239",
+      "videoUrl": "https://www.tiktok.com/@user626088379239/video/7630050234835553549",
+      "caption": "Satisfying deep clean with steam power!#Steamer #SteamCleaning #HomeHacks #CleanTok #cleaninghacks",
+      "viewCount": 180000,
+      "likeCount": 1100,
+      "commentCount": 102,
+      "shareCount": 217,
+      "collectCount": 219,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 7782
+    },
+    {
+      "term": "productreview",
+      "provider": "discover",
+      "videoId": "7635351126962883853",
+      "createdAt": "2026-05-02T17:41:57.000Z",
+      "creatorHandle": "thevseal",
+      "videoUrl": "https://www.tiktok.com/@thevseal/video/7635351126962883853",
+      "caption": "Don’t forget to grab your discount code at the end of the video!  These waterproof liners are super easy to use, and they’re so comfortable that you’ll probably  even forget it’s on.  Hypoallergenic, medical-grade adhesive means it’s non-irritating and gentle to remove. Plus, it’s free from phthalates, BPA, and latex.   Who is this for? ✅ women who want to swim on their period with extra peace of mind, or without insertables  ✅ women prone to getting irritation or imbalances ‘down there’ ✅ women who want to be mindful of letting water chemicals & bacteria into their (delicate & absorbent) intimate area ✅ women who want to practice better hygiene, especially in public pools, hot tubs, water parks etc.  ✅ basically anyone with a V and a reason to want to keep it clean & dry in the water!  The V Seal is great for the pool, lake, jacuzzi, ocean, river, cold plunge, even your own bath (particularly if you like to use products that could cause irritation or disruption).  So, what do you think, would you try it?  P.S. if you don’t love it you can get your money back! 💋 #periodswimwear #girlythings #womenshealth #swimming",
+      "viewCount": 127500,
+      "likeCount": 552,
+      "commentCount": 10,
+      "shareCount": 100,
+      "collectCount": 180,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 4446
+    },
+    {
+      "term": "amazonfinds",
+      "provider": "discover",
+      "videoId": "7633497776466267425",
+      "createdAt": "2026-04-27T17:50:00.000Z",
+      "creatorHandle": "theseven.drops",
+      "videoUrl": "https://www.tiktok.com/@theseven.drops/video/7633497776466267425",
+      "caption": "🔥 This Knife is Why Chefs Never Struggle in the Kitchen 💥 Razor-Sharp Precision in Every Slice 🎉 50% OFF (Limited Time)  🚚 Free Worldwide Shipping today  👀 Tag Someone Who Needs This Oder link 🔗 in bio #amazonfinds2026 #usatoday #tiktokmademebuylt #kitchengadget",
+      "viewCount": 29300,
+      "likeCount": 367,
+      "commentCount": 27,
+      "shareCount": 193,
+      "collectCount": 163,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 3236
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7640218486899625224",
+      "createdAt": "2026-05-15T20:29:47.000Z",
+      "creatorHandle": "grwmbybrih",
+      "videoUrl": "https://www.tiktok.com/@grwmbybrih/video/7640218486899625224",
+      "caption": "Grwm for school 🫰🏼#fyp #fypシ #viralvideo #grwmbybrih #grwm",
+      "viewCount": 13200,
+      "likeCount": 2727,
+      "commentCount": 18,
+      "shareCount": 13,
+      "collectCount": 83,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2244
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7630282144786435348",
+      "createdAt": "2026-04-19T01:51:43.000Z",
+      "creatorHandle": "techsusukita",
+      "videoUrl": "https://www.tiktok.com/@techsusukita/video/7630282144786435348",
+      "caption": "Infinix Berani Pasang Harga Sultan. #InfinixNote60Ultra#InfinixIndonesia#InfinixNote60Series#TechTok#GadgetTok#ReviewGadget#RekomendasiHP#ReviewHP#GadgetIndonesia#BahasGadget#fyp#fypindonesia",
+      "viewCount": 42900,
+      "likeCount": 452,
+      "commentCount": 37,
+      "shareCount": 30,
+      "collectCount": 35,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1834
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7625909204175572244",
+      "createdAt": "2026-04-07T07:02:28.000Z",
+      "creatorHandle": "rasyidakmalf02",
+      "videoUrl": "https://www.tiktok.com/@rasyidakmalf02/video/7625909204175572244",
+      "caption": "Sinyal Hilang di Samsung? Solusi Flight Mode Samar & PCB Original HP Samsung kamu stuck di mode pesawat biru pudar dan sinyal hilang? Ada 3 solusi:  1️⃣ Restart dengan trik flight mode 2️⃣ Lepas SIM card & nyalakan ulang 3️⃣ Ganti PCB ori — solusi paling worth it 100%! 👉 Jangan biarkan baterai sampai mati total, bisa bikin masalah makin parah.   #SamsungTips #sinyalhphilang #modepesawat #airplanemode #servishp #teknisihp #fyp #phonerepair #pcboriginal #samsungrepair #tutorialhp #SamsungRepair #PhoneRepair #TechTips #AirplaneModeFix#NetworkProblem #MobileFix #GadgetTok #TechTok #PhoneTok #SmartphoneRepair #PCBOriginal #SamsungA23 #SamsungA52 #SamsungA72 #SamsungA11 #servishp #teknisihp#viralhp",
+      "viewCount": 25200,
+      "likeCount": 240,
+      "commentCount": 6,
+      "shareCount": 70,
+      "collectCount": 135,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1784
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7620839896768318727",
+      "createdAt": "2026-03-24T15:10:58.000Z",
+      "creatorHandle": "siyalshahid01",
+      "videoUrl": "https://www.tiktok.com/@siyalshahid01/video/7620839896768318727",
+      "caption": "@Mr.Hasnain @Messam Sial @𝓩𝓾𝓫𝓪𝓲𝓻 𝓢𝓲𝓪𝓵 𝓨𝓣 @Malik Amir Sial @Asad Abbas",
+      "viewCount": 2612,
+      "likeCount": 551,
+      "commentCount": 111,
+      "shareCount": 5,
+      "collectCount": 14,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1534
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7629914009797528839",
+      "createdAt": "2026-04-18T02:03:09.000Z",
+      "creatorHandle": "ziaabbasiofficial",
+      "videoUrl": "https://www.tiktok.com/@ziaabbasiofficial/video/7629914009797528839",
+      "caption": "Smart glasses jin ke saath aap SWIM kar sakte hain 😭👓💧 HD camera. Speaker. Mic. Security light. 8-20 ghante battery. Fully waterproof. Concept nahi. Production ready. Abhi available. Aap pehnenge? YES ya NO 👇 Puri Canton Fair walkthrough YouTube par — link in bio 🔗 Stay Premium. — Zia Abbasi  #SmartGlasses #WearableTech #CantonFair2026 #ChinaTech #FutureTech #WaterproofGlasses #ZiaAbbasi #TechGadgets #TikTokPakistan #HindiTikTok #SwimmingTech #TechTok #GadgetTok #PakistanTech #IndiaTech #fyp  #ChinaSourcing #FutureTech #ZiaAbbasi #EcommerceProduct #viral #tiktokviral #cantonfair",
+      "viewCount": 11800,
+      "likeCount": 516,
+      "commentCount": 21,
+      "shareCount": 19,
+      "collectCount": 67,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1124
+    },
+    {
+      "term": "beautyhacks",
+      "provider": "tag",
+      "videoId": "7639613157803150600",
+      "createdAt": "2026-05-14T05:20:48.000Z",
+      "creatorHandle": "kpopsos",
+      "videoUrl": "https://www.tiktok.com/@kpopsos/video/7639613157803150600",
+      "caption": "Trả lời @alone_evryday tiếc vì moka ko quảng bá đợt này 🥹 #illit #wonhee #yunah #minju #iroha",
+      "viewCount": 15400,
+      "likeCount": 747,
+      "commentCount": 14,
+      "shareCount": 17,
+      "collectCount": 30,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1078
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7624991541907508501",
+      "createdAt": "2026-04-04T19:41:28.000Z",
+      "creatorHandle": "ziaabbasiofficial",
+      "videoUrl": "https://www.tiktok.com/@ziaabbasiofficial/video/7624991541907508501",
+      "caption": "Auto lid. Heated seat. Warm and cold bidet. Power flush. Deodorizer. Self-cleaning. One toilet. Zero hands. Zero toilet paper. This is the most satisfying bathroom upgrade I have ever seen. Would you replace yours? #SmartToilet #SmartHome #BidetToilet #HeatedSeat #AutomaticToilet #ModernBathroom #HomeUpgrade #SmartBathroom #FutureTech #HomeGadgets #LuxuryBathroom #TechTok #HomeTok #GadgetTok #SmartHome #HomeUpgrade #FutureTech #fyp #viraltiktok #china #trending",
+      "viewCount": 8082,
+      "likeCount": 340,
+      "commentCount": 8,
+      "shareCount": 50,
+      "collectCount": 56,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 1036
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7636131157825965319",
+      "createdAt": "2026-05-04T20:08:52.000Z",
+      "creatorHandle": "kitanthevendor",
+      "videoUrl": "https://www.tiktok.com/@kitanthevendor/video/7636131157825965319",
+      "caption": "iPhone 15 Pro Max 256GB — Pristine Condition, 99% Battery Health Selling my barely used iPhone 15 Pro Max 256GB in excellent condition. This device looks and performs like new with 99% battery health — no degradation, no compromises. Key Features: •  Storage: 256GB •  Battery Health: 99% (excellent longevity) •  SIM: Dual SIM capable — Physical SIM + eSIM (flexible carrier switching) •  Condition: Like-new, minimal to no signs of use •  Model: iPhone 15 Pro Max (latest flagship) Perfect for power users, content creators, or anyone who wants flagship performance without the flagship price. The 99% battery means you're getting essentially new battery life — no need to worry about replacements anytime soon. #GadgetTok #computervillageikeja  #ikejacitymall #gadgetsvendorinlagos #lasufinest",
+      "viewCount": 3398,
+      "likeCount": 89,
+      "commentCount": 26,
+      "shareCount": 2,
+      "collectCount": 1,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 392
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7626013184595463445",
+      "createdAt": "2026-04-07T13:45:58.000Z",
+      "creatorHandle": "nairyadin",
+      "videoUrl": "https://www.tiktok.com/@nairyadin/video/7626013184595463445",
+      "caption": "It’s not just a phone… it’s a whole upgrade 😮‍🔥📱 Say hello to the itel A200 — smoother, smarter, and built for your everyday flex ✨🔥 #itelA200 #itel #TechTok #GadgetTok #NewDrop",
+      "viewCount": 10500,
+      "likeCount": 153,
+      "commentCount": 2,
+      "shareCount": 0,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 315
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7636348727157902610",
+      "createdAt": "2026-05-05T10:13:09.000Z",
+      "creatorHandle": "kenya_cart_2",
+      "videoUrl": "https://www.tiktok.com/@kenya_cart_2/video/7636348727157902610",
+      "caption": "⌚ A smart watch that does it ALL ,and it’s only ,Health tracking, notifications, style on your wrist 24/7. At this price, why are you still sleeping? 👀🔥dm to order  #GadgetTok #TechTok #BestDeal #WristGame #TechForLess",
+      "viewCount": 196,
+      "likeCount": 62,
+      "commentCount": 2,
+      "shareCount": 0,
+      "collectCount": 4,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 71
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7637824953127144705",
+      "createdAt": "2026-05-09T09:41:39.000Z",
+      "creatorHandle": "rexiglobal",
+      "videoUrl": "https://www.tiktok.com/@rexiglobal/video/7637824953127144705",
+      "caption": "“No light? Keep your phone alive.” 🔋⚡ 20,000mAh or 30,000mAh power bank 15W fast charging Type-C input & output 3 outputs for more devices Strong light for night use REXI RMH20-L / RMH30-L — backup power for everyday Naija life 🇳🇬 #PowerBank #PortableCharger #20000mAh #30000mAh #FastCharging #PowerOutage #BackupPower #NigeriaTikTok #LagosNigeria #PhoneAccessories #GadgetTok #REXI",
+      "viewCount": 227,
+      "likeCount": 22,
+      "commentCount": 3,
+      "shareCount": 1,
+      "collectCount": 1,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 58
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7638223027062279444",
+      "createdAt": "2026-05-10T11:26:23.000Z",
+      "creatorHandle": "aceoflagos_gadgets",
+      "videoUrl": "https://www.tiktok.com/@aceoflagos_gadgets/video/7638223027062279444",
+      "caption": "AVAILABLE ✅ #fyp #viral #gadgettok #techreview #phonesforsale",
+      "viewCount": 685,
+      "likeCount": 24,
+      "commentCount": 1,
+      "shareCount": 0,
+      "collectCount": 3,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 48
+    },
+    {
+      "term": "grwm",
+      "provider": "discover",
+      "videoId": "7640084230269127943",
+      "createdAt": "2026-05-15T11:48:48.000Z",
+      "creatorHandle": "julia._.bhie",
+      "videoUrl": "https://www.tiktok.com/@julia._.bhie/video/7640084230269127943",
+      "caption": "GRWM late for school version!! 🥰✨  #grwm",
+      "viewCount": 584,
+      "likeCount": 7,
+      "commentCount": 1,
+      "shareCount": 0,
+      "collectCount": 1,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 29
+    },
+    {
+      "term": "gadgettok",
+      "provider": "tag",
+      "videoId": "7638246280539458836",
+      "createdAt": "2026-05-10T12:56:37.000Z",
+      "creatorHandle": "minbazarcom",
+      "videoUrl": "https://www.tiktok.com/@minbazarcom/video/7638246280539458836",
+      "caption": "গরমে আর কষ্ট না! 🥵➡️🌪️ এই Mini Turbo Fan দিবে super cool বাতাস 😍 ছোট, স্টাইলিশ আর একদম powerful airflow 💨🔋 Rechargeable 🤫 Low Noise 👜 Easy to Carry 🏠 Home | Office | Travelএখনই নিয়ে নিন ✨@minbazarcom #TurboFan #MiniFan #PortableFan #TikTokMadeMeBuyIt #GadgetTok #SummerMustHave #CoolingFan #BanglaTikTok #FYP #ForYou #ViralProduct #MinBazar",
+      "viewCount": 868,
+      "likeCount": 9,
+      "commentCount": 0,
+      "shareCount": 0,
+      "collectCount": 0,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 22
+    }
+  ]
+}

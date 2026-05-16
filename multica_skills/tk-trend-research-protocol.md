@@ -8,14 +8,18 @@ The tk_video project has a lightweight adapter for the local TikTok insights too
 
 `/Users/airlort/Documents/tk_video/tools/tiktok_public_search/search_tiktok_public.mjs`
 
-It reuses Playwright from:
+It uses this repository's local Playwright dependency. Install once with:
 
-`/Users/airlort/Documents/工具`
+```bash
+cd /Users/airlort/Documents/tk_video
+npm install
+npm run playwright:install
+```
 
 Command pattern:
 
 ```bash
-node /Users/airlort/Documents/tk_video/tools/tiktok_public_search/search_tiktok_public.mjs \
+npm run search:tiktok -- \
   --terms "dogreaction,catreaction,dogmom,catsoftiktok,dogsoftiktok,petparent,puppytiktok,petsoftiktok,petgadgets,doggrooming" \
   --days 45 \
   --max 80 \
@@ -49,7 +53,7 @@ Outputs:
 Use the local adapter before pet ideation when current public examples are needed:
 
 ```bash
-node /Users/airlort/Documents/tk_video/tools/tiktok_public_search/search_tiktok_public.mjs \
+npm run search:tiktok -- \
   --terms "dogreaction,catreaction,dogmom,catsoftiktok,dogsoftiktok,petparent,puppytiktok,petsoftiktok,petgadgets,doggrooming,dogtantrum,sassydog,hungrydog,dogeating,catzoomies,dogzoomies,petsurprise" \
   --days 60 \
   --max 120 \

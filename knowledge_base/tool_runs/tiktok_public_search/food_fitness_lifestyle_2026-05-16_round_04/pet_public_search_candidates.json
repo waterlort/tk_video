@@ -1,0 +1,1034 @@
+{
+  "generatedAt": "2026-05-16T04:26:34.080Z",
+  "days": 60,
+  "terms": [
+    "easyrecipe",
+    "recipehack",
+    "foodtok",
+    "mealprep",
+    "fitnessjourney",
+    "weightlossjourney",
+    "gymtok",
+    "glowup",
+    "transformation",
+    "thriftflip",
+    "travelhacks",
+    "dayinmylife",
+    "morningroutine",
+    "night routine"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7634667301081582862",
+      "createdAt": "2026-04-30T21:28:21.000Z",
+      "creatorHandle": "exe_neuro",
+      "videoUrl": "https://www.tiktok.com/@exe_neuro/video/7634667301081582862",
+      "caption": "this ended exactly how you think",
+      "viewCount": 120900000,
+      "likeCount": 21600000,
+      "commentCount": 136800,
+      "shareCount": 5200000,
+      "collectCount": 1600000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 62586000
+    },
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7631787016769899806",
+      "createdAt": "2026-04-23T03:11:23.000Z",
+      "creatorHandle": "uknome_quadieb",
+      "videoUrl": "https://www.tiktok.com/@uknome_quadieb/video/7631787016769899806",
+      "caption": "The 3 year old Kambri was horrible😂😂😭 #terrible3s  #mickeymouse #toddlersoftiktok  #throwback",
+      "viewCount": 76600000,
+      "likeCount": 13300000,
+      "commentCount": 113900,
+      "shareCount": 4000000,
+      "collectCount": 1100000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 45721000
+    },
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7628108599549496589",
+      "createdAt": "2026-04-13T05:17:15.000Z",
+      "creatorHandle": "tierneygoodnight",
+      "videoUrl": "https://www.tiktok.com/@tierneygoodnight/video/7628108599549496589",
+      "caption": "I wasn’t sure if this would work on her…the best part was her brother at the end  . . https://www.facebook.com/share/r/15mqZzQXm3j/?mibextid=wwXIfr . . https://www.instagram.com/reel/DXFnowdiZvF/?igsh=MTQ1dXQwcm9rZnVq . . https://youtube.com/shorts/QvsRn9ocBMk?si=6xUvEhwFZMtFvXja",
+      "viewCount": 54200000,
+      "likeCount": 9700000,
+      "commentCount": 42100,
+      "shareCount": 2700000,
+      "collectCount": 622100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 30443400
+    },
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7634497841905388821",
+      "createdAt": "2026-04-30T10:30:46.000Z",
+      "creatorHandle": "cuocsongmaemoi",
+      "videoUrl": "https://www.tiktok.com/@cuocsongmaemoi/video/7634497841905388821",
+      "caption": "Điều kỳ diệu của cuộc sống #gạo  #lua #bấtngờ #xuhuong",
+      "viewCount": 46800000,
+      "likeCount": 1300000,
+      "commentCount": 11400,
+      "shareCount": 1600000,
+      "collectCount": 90700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 14862800
+    },
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7627326443021700382",
+      "createdAt": "2026-04-11T02:42:05.000Z",
+      "creatorHandle": "toreesecret",
+      "videoUrl": "https://www.tiktok.com/@toreesecret/video/7627326443021700382",
+      "caption": "ik there’s others out there like me",
+      "viewCount": 36600000,
+      "likeCount": 6700000,
+      "commentCount": 21400,
+      "shareCount": 108200,
+      "collectCount": 286500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6307600
+    },
+    {
+      "term": "mealprep",
+      "provider": "discover",
+      "videoId": "7637902767129922837",
+      "createdAt": "2026-05-09T14:43:37.000Z",
+      "creatorHandle": "afiqricco07",
+      "videoUrl": "https://www.tiktok.com/@afiqricco07/video/7637902767129922837",
+      "caption": "impossible ☠️☠️☠️#fypppppppppppppppppppppppp",
+      "viewCount": 32600000,
+      "likeCount": 2900000,
+      "commentCount": 22000,
+      "shareCount": 360900,
+      "collectCount": 239600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6167600
+    },
+    {
+      "term": "fitnessjourney",
+      "provider": "discover",
+      "videoId": "7631649684364348690",
+      "createdAt": "2026-04-22T18:18:28.000Z",
+      "creatorHandle": "juliancoolians",
+      "videoUrl": "https://www.tiktok.com/@juliancoolians/video/7631649684364348690",
+      "caption": "",
+      "viewCount": 17400000,
+      "likeCount": 4200000,
+      "commentCount": 20800,
+      "shareCount": 123100,
+      "collectCount": 134100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4177200
+    },
+    {
+      "term": "weightlossjourney",
+      "provider": "discover",
+      "videoId": "7635974647221161223",
+      "createdAt": "2026-05-04T10:01:32.000Z",
+      "creatorHandle": "luluyaofdc",
+      "videoUrl": "https://www.tiktok.com/@luluyaofdc/video/7635974647221161223",
+      "caption": "You're good at hiding! #Fishing Interaction #Lure Fishing",
+      "viewCount": 61100000,
+      "likeCount": 1100000,
+      "commentCount": 8950,
+      "shareCount": 97400,
+      "collectCount": 44700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2819500
+    },
+    {
+      "term": "fitnessjourney",
+      "provider": "discover",
+      "videoId": "7636552104823311623",
+      "createdAt": "2026-05-05T23:22:21.000Z",
+      "creatorHandle": "sazdena",
+      "videoUrl": "https://www.tiktok.com/@sazdena/video/7636552104823311623",
+      "caption": "No Karen’s around here",
+      "viewCount": 23500000,
+      "likeCount": 856900,
+      "commentCount": 2308,
+      "shareCount": 48100,
+      "collectCount": 19300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1383530
+    },
+    {
+      "term": "fitnessjourney",
+      "provider": "tag",
+      "videoId": "7623612592002583838",
+      "createdAt": "2026-04-01T02:30:26.000Z",
+      "creatorHandle": "camfant",
+      "videoUrl": "https://www.tiktok.com/@camfant/video/7623612592002583838",
+      "caption": "",
+      "viewCount": 3600000,
+      "likeCount": 936000,
+      "commentCount": 349,
+      "shareCount": 61400,
+      "collectCount": 56300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1259890
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7627370625195265300",
+      "createdAt": "2026-04-11T05:33:32.000Z",
+      "creatorHandle": "hungrysammyy",
+      "videoUrl": "https://www.tiktok.com/@hungrysammyy/video/7627370625195265300",
+      "caption": "my life = changed  #cheflife #homecooking #recipehack",
+      "viewCount": 7300000,
+      "likeCount": 97700,
+      "commentCount": 503,
+      "shareCount": 71600,
+      "collectCount": 17200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 841480
+    },
+    {
+      "term": "easyrecipe",
+      "provider": "discover",
+      "videoId": "7621114835190713622",
+      "createdAt": "2026-03-25T08:57:52.000Z",
+      "creatorHandle": "mahougnon.officiel",
+      "videoUrl": "https://www.tiktok.com/@mahougnon.officiel/video/7621114835190713622",
+      "caption": "Moi et mon ami, après avoir mangé à crédit 😂😂😂 🫴🏿  @@Abou Cmd",
+      "viewCount": 8700000,
+      "likeCount": 377600,
+      "commentCount": 3710,
+      "shareCount": 9852,
+      "collectCount": 38900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 634316
+    },
+    {
+      "term": "easyrecipe",
+      "provider": "tag",
+      "videoId": "7636729850014862606",
+      "createdAt": "2026-05-06T10:52:06.000Z",
+      "creatorHandle": "errorgdbg",
+      "videoUrl": "https://www.tiktok.com/@errorgdbg/video/7636729850014862606",
+      "caption": "#skydiving #freefall #extremesports #skydivingedit #cinematicmontage",
+      "viewCount": 6100000,
+      "likeCount": 312700,
+      "commentCount": 3245,
+      "shareCount": 28800,
+      "collectCount": 22100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 629600
+    },
+    {
+      "term": "recipehack",
+      "provider": "discover",
+      "videoId": "7638835999207886093",
+      "createdAt": "2026-05-12T03:05:02.000Z",
+      "creatorHandle": "jamesrotger5",
+      "videoUrl": "https://www.tiktok.com/@jamesrotger5/video/7638835999207886093",
+      "caption": "What is that thing🤯 #truck #6x6 #miami #viral #fyp",
+      "viewCount": 1900000,
+      "likeCount": 277900,
+      "commentCount": 3143,
+      "shareCount": 40700,
+      "collectCount": 15400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 595580
+    },
+    {
+      "term": "morningroutine",
+      "provider": "discover",
+      "videoId": "7629520759207005461",
+      "createdAt": "2026-04-17T00:37:09.000Z",
+      "creatorHandle": "more.dejankat",
+      "videoUrl": "https://www.tiktok.com/@more.dejankat/video/7629520759207005461",
+      "caption": "morning routine 😆",
+      "viewCount": 4400000,
+      "likeCount": 536600,
+      "commentCount": 919,
+      "shareCount": 2150,
+      "collectCount": 16309,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 447926
+    },
+    {
+      "term": "morningroutine",
+      "provider": "discover",
+      "videoId": "7638708152908664067",
+      "createdAt": "2026-05-11T18:48:55.000Z",
+      "creatorHandle": "stayhomiez",
+      "videoUrl": "https://www.tiktok.com/@stayhomiez/video/7638708152908664067",
+      "caption": "you just had to be there🥹#covidー19 #bring2020back  #routine #aestheticvideos #hantavirus",
+      "viewCount": 1500000,
+      "likeCount": 220200,
+      "commentCount": 1134,
+      "shareCount": 29700,
+      "collectCount": 14124,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 445536
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7629620902140874006",
+      "createdAt": "2026-04-17T07:05:45.000Z",
+      "creatorHandle": "cookedbysammyy",
+      "videoUrl": "https://www.tiktok.com/@cookedbysammyy/video/7629620902140874006",
+      "caption": "Life = changed #cheflife #recipehack #cookofthehouse",
+      "viewCount": 1300000,
+      "likeCount": 20600,
+      "commentCount": 103,
+      "shareCount": 33800,
+      "collectCount": 5385,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 329270
+    },
+    {
+      "term": "easyrecipe",
+      "provider": "tag",
+      "videoId": "7623031396977724704",
+      "createdAt": "2026-03-30T12:55:06.000Z",
+      "creatorHandle": "lenny_motion",
+      "videoUrl": "https://www.tiktok.com/@lenny_motion/video/7623031396977724704",
+      "caption": "This is actually wild. OpenArt just changed how we generate scenes. With Worlds, you can literally walk through your prompt, explore it in 3D, and capture the exact shot you want. Powered by spatial AI from WorldLabs, everything stays consistent every time you come back. No more guesswork. No more reprompting. #OpenArtPartner @OpenArt",
+      "viewCount": 2600000,
+      "likeCount": 261200,
+      "commentCount": 433,
+      "shareCount": 5970,
+      "collectCount": 20300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 315890
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7637681915192986893",
+      "createdAt": "2026-05-09T00:26:36.000Z",
+      "creatorHandle": "mustiatsa",
+      "videoUrl": "https://www.tiktok.com/@mustiatsa/video/7637681915192986893",
+      "caption": "#nightroutine #girls #chanel",
+      "viewCount": 1100000,
+      "likeCount": 195900,
+      "commentCount": 83,
+      "shareCount": 10600,
+      "collectCount": 16420,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 271260
+    },
+    {
+      "term": "recipehack",
+      "provider": "discover",
+      "videoId": "7624742772234276110",
+      "createdAt": "2026-04-04T03:36:07.000Z",
+      "creatorHandle": "stayandry10",
+      "videoUrl": "https://www.tiktok.com/@stayandry10/video/7624742772234276110",
+      "caption": "",
+      "viewCount": 597400,
+      "likeCount": 45400,
+      "commentCount": 280,
+      "shareCount": 25900,
+      "collectCount": 5149,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 265244
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7627077640897187093",
+      "createdAt": "2026-04-10T10:36:36.000Z",
+      "creatorHandle": "lesleystestkitchen",
+      "videoUrl": "https://www.tiktok.com/@lesleystestkitchen/video/7627077640897187093",
+      "caption": "Tinapay ang isa sa pinaka-profitable at pinaka-stable na pwedeng ibenta ng isang homebaker so take advantage of this very detailed recipe video tutorial para ma-start mo na ang pangarap mong side hustle 😊 DM me so I can send the link to get a copy of the recipe + costing ✅️ CHEESE ROLLS A LA MARY GRACE INGREDIENTS:  1/2 cup (120g) water 1 1/4 cup (156g) all-purpose flour 1 large (20g) egg yolk 1/2 cup (25g) potato flakes 1 tsp instant yeast 1/2 tsp fine salt 1 1/2 tsps milk powder 1/4 cup (56g) unsalted butter + 60g (5g/roll for topping) 2 tbsps (25g) white sugar + 36g (3/4 tsp or 3g/roll for topping) #breadmaking #breadsforbusiness #bread #cheeseroll #recipehack",
+      "viewCount": 440300,
+      "likeCount": 19400,
+      "commentCount": 358,
+      "shareCount": 5063,
+      "collectCount": 14400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 120190
+    },
+    {
+      "term": "mealprep",
+      "provider": "tag",
+      "videoId": "7639066522459065633",
+      "createdAt": "2026-05-12T17:59:35.000Z",
+      "creatorHandle": "user4759631386000",
+      "videoUrl": "https://www.tiktok.com/@user4759631386000/video/7639066522459065633",
+      "caption": "#الشعب_الصيني_ماله_حل😂😂 #creatorsearchinsights #سوريا_تركيا_العراق_السعودية_الكويت #تركيا_العراق_الكويت_مصر_سوريا",
+      "viewCount": 760200,
+      "likeCount": 45400,
+      "commentCount": 2242,
+      "shareCount": 2042,
+      "collectCount": 7870,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 108140
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7639335236928834837",
+      "createdAt": "2026-05-13T11:22:20.000Z",
+      "creatorHandle": "raeuu7",
+      "videoUrl": "https://www.tiktok.com/@raeuu7/video/7639335236928834837",
+      "caption": "day in my life",
+      "viewCount": 874400,
+      "likeCount": 84300,
+      "commentCount": 645,
+      "shareCount": 2429,
+      "collectCount": 5033,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 105652
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7626046352790719766",
+      "createdAt": "2026-04-07T15:54:40.000Z",
+      "creatorHandle": "ritterbeauty",
+      "videoUrl": "https://www.tiktok.com/@ritterbeauty/video/7626046352790719766",
+      "caption": "Only one step in skincare that no one shows 💀 #skincareroutine #skincareasmr #nightroutineskincare #nightroutine #glowup",
+      "viewCount": 1800000,
+      "likeCount": 58600,
+      "commentCount": 95,
+      "shareCount": 124,
+      "collectCount": 1354,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 72658
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7635603457939901716",
+      "createdAt": "2026-05-03T10:01:07.000Z",
+      "creatorHandle": "azarragajess",
+      "videoUrl": "https://www.tiktok.com/@azarragajess/video/7635603457939901716",
+      "caption": "Soo sleepy 😴 #skincare #nightroutine #fyp #foryou",
+      "viewCount": 190300,
+      "likeCount": 19000,
+      "commentCount": 66,
+      "shareCount": 3425,
+      "collectCount": 4069,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 57642
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7623619311696989471",
+      "createdAt": "2026-04-01T02:56:31.000Z",
+      "creatorHandle": "daniela.reynaaa",
+      "videoUrl": "https://www.tiktok.com/@daniela.reynaaa/video/7623619311696989471",
+      "caption": "Night Routine for my 10 & 13 year old daughters ✨ Skin & Hair Routine  @anua_global @aestura_us @Tatcha @Gisou @amika @Bubble Skincare @sincerely yours @Kérastase  #daughters #nightroutine #fypシ゚viral #viral #viralvideo",
+      "viewCount": 514600,
+      "likeCount": 49600,
+      "commentCount": 216,
+      "shareCount": 316,
+      "collectCount": 3573,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 54072
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7623949796193078558",
+      "createdAt": "2026-04-02T00:18:58.000Z",
+      "creatorHandle": "ceciliaperrina",
+      "videoUrl": "https://www.tiktok.com/@ceciliaperrina/video/7623949796193078558",
+      "caption": "wind down routine 🫶🏽 everything 🔗 for you on my amazon storefront bestie #nighttimeroutine #winddownroutine #eveningroutine",
+      "viewCount": 415000,
+      "likeCount": 11700,
+      "commentCount": 164,
+      "shareCount": 1527,
+      "collectCount": 3218,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 40878
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7629668260966960406",
+      "createdAt": "2026-04-17T10:09:32.000Z",
+      "creatorHandle": "1bigtym",
+      "videoUrl": "https://www.tiktok.com/@1bigtym/video/7629668260966960406",
+      "caption": "You’ve had horchata… but not like THIS 😮‍🔥🇬🇭 I added cloves, negro pepper, dried pepper & cinnamon and it changed EVERYTHING 🤭 Sweet + spicy = dangerous combo 😭 @Dees naturals Honey for that smooth touch 🍯🔥  Try this and come back here!! #Bigtym #FoodTok #AfricanFood #RecipeHack #ViralDrinks",
+      "viewCount": 173900,
+      "likeCount": 8200,
+      "commentCount": 188,
+      "shareCount": 1789,
+      "collectCount": 2934,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 35506
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7639832958647487775",
+      "createdAt": "2026-05-14T19:33:45.000Z",
+      "creatorHandle": "sydk444",
+      "videoUrl": "https://www.tiktok.com/@sydk444/video/7639832958647487775",
+      "caption": "spend a quiet & very wholesome birthday with me🧁✨🌷🎂💐 #dayinmylife #dimlvlog #softlife #birthdaygirl #spendthedaywithme",
+      "viewCount": 154600,
+      "likeCount": 30300,
+      "commentCount": 167,
+      "shareCount": 120,
+      "collectCount": 834,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 24208
+    },
+    {
+      "term": "morningroutine",
+      "provider": "discover",
+      "videoId": "7623684250134449426",
+      "createdAt": "2026-04-01T07:08:30.000Z",
+      "creatorHandle": "lyeasecretts",
+      "videoUrl": "https://www.tiktok.com/@lyeasecretts/video/7623684250134449426",
+      "caption": "Shower routine during the morning🚿🫧 #capcut #girl #routine #shower #clean",
+      "viewCount": 236700,
+      "likeCount": 12800,
+      "commentCount": 57,
+      "shareCount": 213,
+      "collectCount": 1788,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 20560
+    },
+    {
+      "term": "morningroutine",
+      "provider": "discover",
+      "videoId": "7621619925962001685",
+      "createdAt": "2026-03-26T17:37:53.000Z",
+      "creatorHandle": "sharona.lynn4",
+      "videoUrl": "https://www.tiktok.com/@sharona.lynn4/video/7621619925962001685",
+      "caption": "",
+      "viewCount": 59800,
+      "likeCount": 1037,
+      "commentCount": 74,
+      "shareCount": 839,
+      "collectCount": 76,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 9471
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7625626277625597205",
+      "createdAt": "2026-04-06T12:44:34.000Z",
+      "creatorHandle": "keylatessy",
+      "videoUrl": "https://www.tiktok.com/@keylatessy/video/7625626277625597205",
+      "caption": "A day in my life again🤩✨ #adayinmylife #fyppppppppppppppppppppppp #trend #trending #masukberanda",
+      "viewCount": 164900,
+      "likeCount": 2738,
+      "commentCount": 84,
+      "shareCount": 175,
+      "collectCount": 343,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 8279
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7620975216369421581",
+      "createdAt": "2026-03-24T23:56:04.000Z",
+      "creatorHandle": ".lolabelle",
+      "videoUrl": "https://www.tiktok.com/@.lolabelle/video/7620975216369421581",
+      "caption": "this was fun to make",
+      "viewCount": 135200,
+      "likeCount": 1932,
+      "commentCount": 34,
+      "shareCount": 146,
+      "collectCount": 485,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7118
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7630354915545681174",
+      "createdAt": "2026-04-19T06:34:06.000Z",
+      "creatorHandle": "taste_theory",
+      "videoUrl": "https://www.tiktok.com/@taste_theory/video/7630354915545681174",
+      "caption": "You won't believe this epic flavour clash I cooked up today! #creatorsearchinsights #koftarecipe #mangodelight #fusionfood #recipehack",
+      "viewCount": 131400,
+      "likeCount": 4331,
+      "commentCount": 36,
+      "shareCount": 32,
+      "collectCount": 378,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 6922
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7637529751116090637",
+      "createdAt": "2026-05-08T14:36:07.000Z",
+      "creatorHandle": "loloarchivess",
+      "videoUrl": "https://www.tiktok.com/@loloarchivess/video/7637529751116090637",
+      "caption": "cozy night routine🛁🕯️🎀🫧 I love cozy nights! I love this shower routine😊 Enjoy loves🤍 @Bath & Body Works @Dove Beauty & Personal Care @SAND AND FOG @eos Products @LaRochePosayUS @Noxzema Official @PanOxyl  #fypシ #minivlogaesthetic #cozyathome #nightroutine #dailylife",
+      "viewCount": 19300,
+      "likeCount": 5404,
+      "commentCount": 84,
+      "shareCount": 109,
+      "collectCount": 401,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 6404
+    },
+    {
+      "term": "mealprep",
+      "provider": "tag",
+      "videoId": "7618763116058332423",
+      "createdAt": "2026-03-19T00:52:00.000Z",
+      "creatorHandle": "rodrigo.xzc",
+      "videoUrl": "https://www.tiktok.com/@rodrigo.xzc/video/7618763116058332423",
+      "caption": "#frases #paradedicar #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #realmadrid",
+      "viewCount": 15800,
+      "likeCount": 1319,
+      "commentCount": 12,
+      "shareCount": 506,
+      "collectCount": 137,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 5692
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7639462727295110421",
+      "createdAt": "2026-05-13T19:37:03.000Z",
+      "creatorHandle": "kaylieestewart",
+      "videoUrl": "https://www.tiktok.com/@kaylieestewart/video/7639462727295110421",
+      "caption": "Spend a 4 min chatty day in my life with me 💛!! Why is is so cold in May 💀 we need the sun!! #4minvlog #selfemployed #homesensehaul #6ammorningroutine #productivevlog",
+      "viewCount": 25900,
+      "likeCount": 3227,
+      "commentCount": 57,
+      "shareCount": 27,
+      "collectCount": 167,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 3586
+    },
+    {
+      "term": "easyrecipe",
+      "provider": "discover",
+      "videoId": "7639683158723726612",
+      "createdAt": "2026-05-14T09:52:27.000Z",
+      "creatorHandle": "d7oom_519",
+      "videoUrl": "https://www.tiktok.com/@d7oom_519/video/7639683158723726612",
+      "caption": "",
+      "viewCount": 23800,
+      "likeCount": 339,
+      "commentCount": 14,
+      "shareCount": 286,
+      "collectCount": 75,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3374
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7625197470091562260",
+      "createdAt": "2026-04-05T09:00:34.000Z",
+      "creatorHandle": "lathenaglow",
+      "videoUrl": "https://www.tiktok.com/@lathenaglow/video/7625197470091562260",
+      "caption": "BODYCARE | SHOWER ROUTINE 🧖🏻‍♀️🛁💭🌸✨🌙 #bodycare #bodycareroutine #showerroutine #nightroutine",
+      "viewCount": 65700,
+      "likeCount": 1167,
+      "commentCount": 4,
+      "shareCount": 29,
+      "collectCount": 284,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3306
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7623459736981179679",
+      "createdAt": "2026-03-31T16:37:17.000Z",
+      "creatorHandle": "eatsbyrachel",
+      "videoUrl": "https://www.tiktok.com/@eatsbyrachel/video/7623459736981179679",
+      "caption": "This is a 2 ingredient tang yuan recipe hack you didn’t know you needed 🤯 Made with a melty @Lindt Chocolate USA center, this recipe is the easiest shortcut to making tang yuan at home! 💡IB: @pengmandarin  #tangyuan #recipehack #chocolate #lindt #foodhack @Lindt Chocolate",
+      "viewCount": 25700,
+      "likeCount": 882,
+      "commentCount": 5,
+      "shareCount": 79,
+      "collectCount": 265,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating"
+      ],
+      "petInterestScore": 2697
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640137668688661791",
+      "createdAt": "2026-05-15T15:16:11.000Z",
+      "creatorHandle": "annabythefoot",
+      "videoUrl": "https://www.tiktok.com/@annabythefoot/video/7640137668688661791",
+      "caption": "Day in my life without both arms! Just a normal day - well, normal for me ☕️👣🐶 #dayinthelife #diml #home #adaptive #grwm",
+      "viewCount": 22800,
+      "likeCount": 1218,
+      "commentCount": 41,
+      "shareCount": 122,
+      "collectCount": 44,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2627
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640189150095740181",
+      "createdAt": "2026-05-15T18:35:57.000Z",
+      "creatorHandle": "chloe__michelle",
+      "videoUrl": "https://www.tiktok.com/@chloe__michelle/video/7640189150095740181",
+      "caption": "I have a love hate relationship with rainy days 🌧️🤍",
+      "viewCount": 14800,
+      "likeCount": 2228,
+      "commentCount": 18,
+      "shareCount": 10,
+      "collectCount": 112,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2118
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640280465869491487",
+      "createdAt": "2026-05-16T00:30:18.000Z",
+      "creatorHandle": "a.sshhlleeyy",
+      "videoUrl": "https://www.tiktok.com/@a.sshhlleeyy/video/7640280465869491487",
+      "caption": "day in my life as a senior in hs🎓🎀 | grwm , grad pick up day , nail , mini Walmart run | 🍓#getreadywithme #spendthedaywithme #vlog #xybca #fyp",
+      "viewCount": 8338,
+      "likeCount": 1606,
+      "commentCount": 12,
+      "shareCount": 10,
+      "collectCount": 77,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1478
+    },
+    {
+      "term": "night routine",
+      "provider": "discover",
+      "videoId": "7620846471633554701",
+      "createdAt": "2026-03-24T15:36:29.000Z",
+      "creatorHandle": "lifeaswegomez_",
+      "videoUrl": "https://www.tiktok.com/@lifeaswegomez_/video/7620846471633554701",
+      "caption": "What we do before bed every night 🌙🫧 #grwm #nightroutine #routine #skincare",
+      "viewCount": 15500,
+      "likeCount": 545,
+      "commentCount": 12,
+      "shareCount": 14,
+      "collectCount": 90,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1175
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7635829106751343893",
+      "createdAt": "2026-05-04T00:36:45.000Z",
+      "creatorHandle": "hungrysammyy",
+      "videoUrl": "https://www.tiktok.com/@hungrysammyy/video/7635829106751343893",
+      "caption": "no fr someone tell me  #homecooking #recipeshare #recipehack",
+      "viewCount": 8852,
+      "likeCount": 45,
+      "commentCount": 3,
+      "shareCount": 97,
+      "collectCount": 11,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1050
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640155217081797911",
+      "createdAt": "2026-05-15T16:24:16.000Z",
+      "creatorHandle": "shreesvlog_",
+      "videoUrl": "https://www.tiktok.com/@shreesvlog_/video/7640155217081797911",
+      "caption": "might or might not be filming my first YT video  bedding from @pigletinbed, dc: SHREESVLOGS15 #unistudent #unilife #productive #studytok #cosy",
+      "viewCount": 3432,
+      "likeCount": 1153,
+      "commentCount": 7,
+      "shareCount": 4,
+      "collectCount": 67,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1015
+    },
+    {
+      "term": "foodtok",
+      "provider": "tag",
+      "videoId": "7639747370841951506",
+      "createdAt": "2026-05-14T14:01:37.000Z",
+      "creatorHandle": "lajecley125",
+      "videoUrl": "https://www.tiktok.com/@lajecley125/video/7639747370841951506",
+      "caption": "#foryoupage❤️❤️ #fypシ゚ @Diyaa🖤🌸 @Dahraan🤎",
+      "viewCount": 3619,
+      "likeCount": 364,
+      "commentCount": 14,
+      "shareCount": 29,
+      "collectCount": 47,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 814
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640265401594580255",
+      "createdAt": "2026-05-15T23:31:51.000Z",
+      "creatorHandle": "lathoniasalgado",
+      "videoUrl": "https://www.tiktok.com/@lathoniasalgado/video/7640265401594580255",
+      "caption": "Day in the life 💕 #dayinthelife #vlog #diml",
+      "viewCount": 6853,
+      "likeCount": 983,
+      "commentCount": 5,
+      "shareCount": 1,
+      "collectCount": 17,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 755
+    },
+    {
+      "term": "morningroutine",
+      "provider": "discover",
+      "videoId": "7637304021862206728",
+      "createdAt": "2026-05-08T00:00:11.000Z",
+      "creatorHandle": "sylviahussein",
+      "videoUrl": "https://www.tiktok.com/@sylviahussein/video/7637304021862206728",
+      "caption": "Fighting for my life to become a morning girlie and not feeling like a zombie the rest of the day😭🤣 … I ended up needing a nap after getting some work done and still ended up in the gym in the evening but still I’m choosing to romanticize the quiet parts of my life and showing up anyway…. UNTIL I GET IT RIGHT!  #fitgirlsinspire  #morningroutinevlog #mornings",
+      "viewCount": 6050,
+      "likeCount": 424,
+      "commentCount": 11,
+      "shareCount": 16,
+      "collectCount": 44,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 747
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7637024246467661077",
+      "createdAt": "2026-05-07T05:54:30.000Z",
+      "creatorHandle": "hungrysammyy",
+      "videoUrl": "https://www.tiktok.com/@hungrysammyy/video/7637024246467661077",
+      "caption": "wtf is this new tiktok update  #homecooking #recipeshare #baking #recipehack",
+      "viewCount": 7840,
+      "likeCount": 35,
+      "commentCount": 4,
+      "shareCount": 56,
+      "collectCount": 10,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 702
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7637052579171568918",
+      "createdAt": "2026-05-07T07:44:27.000Z",
+      "creatorHandle": "taste.by.sadia",
+      "videoUrl": "https://www.tiktok.com/@taste.by.sadia/video/7637052579171568918",
+      "caption": "",
+      "viewCount": 6002,
+      "likeCount": 197,
+      "commentCount": 5,
+      "shareCount": 12,
+      "collectCount": 40,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 525
+    },
+    {
+      "term": "foodtok",
+      "provider": "tag",
+      "videoId": "7639614693564239111",
+      "createdAt": "2026-05-14T05:26:46.000Z",
+      "creatorHandle": "valencez00",
+      "videoUrl": "https://www.tiktok.com/@valencez00/video/7639614693564239111",
+      "caption": "No Batidão - Denia Model: 鸣潮/1010浣 Motion: Mizuki C MME: Rui, Azolt, Ikeno, BeammanP, Chestnutscoop, 針金P, そぼろ #denia #wutheringwaves #wuwa #mmd #fyp",
+      "viewCount": 1065,
+      "likeCount": 191,
+      "commentCount": 2,
+      "shareCount": 3,
+      "collectCount": 55,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 381
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7638318890812017942",
+      "createdAt": "2026-05-10T17:38:23.000Z",
+      "creatorHandle": "nma_diary",
+      "videoUrl": "https://www.tiktok.com/@nma_diary/video/7638318890812017942",
+      "caption": "Make banga stew with me. Meanwhile my husband did a little voiceover for me 😂#nigerianfood #recipehack #viralvideos #igbofood #creatorsearchinsights",
+      "viewCount": 1476,
+      "likeCount": 134,
+      "commentCount": 20,
+      "shareCount": 2,
+      "collectCount": 7,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 341
+    },
+    {
+      "term": "recipehack",
+      "provider": "tag",
+      "videoId": "7638181813906705685",
+      "createdAt": "2026-05-10T08:46:28.000Z",
+      "creatorHandle": "hungrysammyy",
+      "videoUrl": "https://www.tiktok.com/@hungrysammyy/video/7638181813906705685",
+      "caption": "no WAYYYY #homecooking #bakersoftiktok #recipeshare #recipehack",
+      "viewCount": 3915,
+      "likeCount": 20,
+      "commentCount": 2,
+      "shareCount": 10,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 196
+    },
+    {
+      "term": "dayinmylife",
+      "provider": "discover",
+      "videoId": "7640147167910448406",
+      "createdAt": "2026-05-15T15:53:02.000Z",
+      "creatorHandle": "dafnichr",
+      "videoUrl": "https://www.tiktok.com/@dafnichr/video/7640147167910448406",
+      "caption": "Day in the life, vol 4 👩🏻‍💻💛#corporatelife #corporategirl #dayinthelife #london",
+      "viewCount": 400,
+      "likeCount": 32,
+      "commentCount": 0,
+      "shareCount": 2,
+      "collectCount": 0,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 40
+    },
+    {
+      "term": "fitnessjourney",
+      "provider": "tag",
+      "videoId": "7640327639726673185",
+      "createdAt": "2026-05-16T03:33:22.000Z",
+      "creatorHandle": "nastqwee.e",
+      "videoUrl": "https://www.tiktok.com/@nastqwee.e/video/7640327639726673185",
+      "caption": "#реки #липсинк",
+      "viewCount": 57,
+      "likeCount": 14,
+      "commentCount": 0,
+      "shareCount": 0,
+      "collectCount": 1,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 12
+    }
+  ]
+}

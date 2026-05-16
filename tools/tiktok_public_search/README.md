@@ -26,6 +26,12 @@ npm run search:tiktok -- \
 - `pet_public_search_candidates.json`
 - `top_links.tsv`
 
+`top_links.tsv` columns are:
+
+```text
+score, term, caption-labels, views, durationSeconds, likes, comments, shares, collects, videoUrl, caption
+```
+
 ## Boundaries
 
 - Metrics are public proxies, not true follower or purchase attribution.

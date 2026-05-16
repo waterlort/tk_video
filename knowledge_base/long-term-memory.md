@@ -1,5 +1,19 @@
 # long-term-memory.md
 
+## 2026-05-16 cross-vertical mechanics scout
+
+- Six public-search rounds were added across story/entertainment, utility/AI/money, commerce/home/beauty, food/fitness/lifestyle, opinion/reaction/social-role, and representative duration-probe terms.
+- Main artifacts:
+  - `trends/cross_vertical_mechanics_radar_2026-05-16.md`
+  - `case_library/2026-05-16_cross_vertical_mechanics_case_packet.md`
+  - `playbooks/short_video_viral_mechanics_foundation_2026-05-16.md`
+  - `relations/proposed_claims_2026-05-16_cross_vertical.md`
+- Core durable lesson for future agents: do not treat public tag/discover matches as category evidence. Use them as scout candidates, then require manual visual verification before classifier or modifier promotion.
+- Working creative gate: every testable concept needs visible proof in the first 2 seconds, one dominant viewer job, a clear shot sequence, audio role, information-density lane, difficulty gate, and target duration band.
+- The search adapter now records `durationSeconds` when exposed by TikTok JSON. Round 06 confirmed nonzero duration capture in 77 of 80 rows, but duration analysis still requires category verification because public routes return long compilations and off-topic rows.
+
+---
+
 ## Step Summary
 
 - Issue: local continuation / user feedback pet idea quality axes
