@@ -1,0 +1,14 @@
+{
+  "name": "tk-video",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Multica-driven TikTok/TK video knowledge base and creative workflow.",
+  "scripts": {
+    "search:tiktok": "node tools/tiktok_public_search/search_tiktok_public.mjs",
+    "playwright:install": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "1.60.0"
+  }
+}

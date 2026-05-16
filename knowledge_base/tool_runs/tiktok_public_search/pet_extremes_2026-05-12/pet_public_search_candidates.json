@@ -1,0 +1,2205 @@
+{
+  "generatedAt": "2026-05-12T12:50:26.788Z",
+  "days": 60,
+  "terms": [
+    "dogreaction",
+    "catreaction",
+    "dogmom",
+    "catsoftiktok",
+    "dogsoftiktok",
+    "petparent",
+    "puppytiktok",
+    "petsoftiktok",
+    "petgadgets",
+    "doggrooming",
+    "dogtantrum",
+    "sassydog",
+    "hungrydog",
+    "dogeating",
+    "catzoomies",
+    "dogzoomies",
+    "petsurprise"
+  ],
+  "warnings": [
+    "catreaction/discover failed: page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.tiktok.com/discover/catreaction\nCall log:\n\u001b[2m  - navigating to \"https://www.tiktok.com/discover/catreaction\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  ],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7634667301081582862",
+      "createdAt": "2026-04-30T21:28:21.000Z",
+      "creatorHandle": "exe_neuro",
+      "videoUrl": "https://www.tiktok.com/@exe_neuro/video/7634667301081582862",
+      "caption": "this ended exactly how you think",
+      "viewCount": 115700000,
+      "likeCount": 21000000,
+      "commentCount": 130700,
+      "shareCount": 5100000,
+      "collectCount": 1500000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 60921000
+    },
+    {
+      "term": "dogtantrum",
+      "provider": "tag",
+      "videoId": "7628108599549496589",
+      "createdAt": "2026-04-13T05:17:15.000Z",
+      "creatorHandle": "tierneygoodnight",
+      "videoUrl": "https://www.tiktok.com/@tierneygoodnight/video/7628108599549496589",
+      "caption": "I wasn’t sure if this would work on her…the best part was her brother at the end  . . https://www.facebook.com/share/r/15mqZzQXm3j/?mibextid=wwXIfr . . https://www.instagram.com/reel/DXFnowdiZvF/?igsh=MTQ1dXQwcm9rZnVq . . https://youtube.com/shorts/QvsRn9ocBMk?si=6xUvEhwFZMtFvXja",
+      "viewCount": 53000000,
+      "likeCount": 9600000,
+      "commentCount": 41600,
+      "shareCount": 2600000,
+      "collectCount": 610300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 29517200
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7626829581881806087",
+      "createdAt": "2026-04-09T18:34:00.000Z",
+      "creatorHandle": "life.of.petpawsandkoppy7",
+      "videoUrl": "https://www.tiktok.com/@life.of.petpawsandkoppy7/video/7626829581881806087",
+      "caption": "Ep 2 / Chihuahua is not happy.🥬🥦🥹😂  #funnypets #petsoftiktok #funnyanimals #dogsoftiktok / #catsoftiktok #viralvideo #fyp #AI  🎬 100% AI-generated video. Original story created for fun and family entertainment. All scenes are fictional. 🚫 No reuploads.",
+      "viewCount": 236200000,
+      "likeCount": 5300000,
+      "commentCount": 94000,
+      "shareCount": 1900000,
+      "collectCount": 396200,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 25098800
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7625667681626098966",
+      "createdAt": "2026-04-06T15:25:14.000Z",
+      "creatorHandle": "davidefacchini2",
+      "videoUrl": "https://www.tiktok.com/@davidefacchini2/video/7625667681626098966",
+      "caption": "#cane #dog #dogtok #dogeating #funny",
+      "viewCount": 27000000,
+      "likeCount": 3100000,
+      "commentCount": 20500,
+      "shareCount": 1300000,
+      "collectCount": 123500,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 13189000
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7622237018419957022",
+      "createdAt": "2026-03-28T09:32:31.000Z",
+      "creatorHandle": "astrid.lewis8",
+      "videoUrl": "https://www.tiktok.com/@astrid.lewis8/video/7622237018419957022",
+      "caption": "My cat brain is fully developed 🐱#cats #cat #catsoftiktok #funny #funnycat #catlover #funnyvideos #funnyanimals #funnytiktok #pet #smartcat #lovecat #Foryou #tiktok #animals #tiktokviral #fyp",
+      "viewCount": 42800000,
+      "likeCount": 5700000,
+      "commentCount": 9652,
+      "shareCount": 849400,
+      "collectCount": 340500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 11959720
+    },
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7618152280180657422",
+      "createdAt": "2026-03-17T09:21:38.000Z",
+      "creatorHandle": "gdcyhozo",
+      "videoUrl": "https://www.tiktok.com/@gdcyhozo/video/7618152280180657422",
+      "caption": "He thinks he's still a baby... 🍼 #catsoftiktok #funnycats #asmr #satisfying #cuteanimals #petparent #kittensoftiktok #viral#wholesome #babycat#fyp #foryou",
+      "viewCount": 19300000,
+      "likeCount": 2600000,
+      "commentCount": 19500,
+      "shareCount": 664400,
+      "collectCount": 218900,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 8071800
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7637876934399069470",
+      "createdAt": "2026-05-09T13:03:22.000Z",
+      "creatorHandle": "iamrigbycat",
+      "videoUrl": "https://www.tiktok.com/@iamrigbycat/video/7637876934399069470",
+      "caption": "We ride at dawn #fyp #catsoftiktok #rigbycat #catcontent #sillycat",
+      "viewCount": 9300000,
+      "likeCount": 2100000,
+      "commentCount": 4726,
+      "shareCount": 730900,
+      "collectCount": 127300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7639660
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7620122882009566495",
+      "createdAt": "2026-03-22T16:48:35.000Z",
+      "creatorHandle": "novasdiary_",
+      "videoUrl": "https://www.tiktok.com/@novasdiary_/video/7620122882009566495",
+      "caption": "never playfully push your cats because they will square up.  #cat #catsoftiktok #fypシ #funny #cute",
+      "viewCount": 12100000,
+      "likeCount": 2700000,
+      "commentCount": 4237,
+      "shareCount": 646900,
+      "collectCount": 192300,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 7578770
+    },
+    {
+      "term": "sassydog",
+      "provider": "discover",
+      "videoId": "7625991410411425046",
+      "createdAt": "2026-04-07T12:21:28.000Z",
+      "creatorHandle": "herocat2309",
+      "videoUrl": "https://www.tiktok.com/@herocat2309/video/7625991410411425046",
+      "caption": "An onion girl with an uncontrollable stomach condition inherited from her mother.#brainrot #foodstory #funnystory #aistory #catstory",
+      "viewCount": 96700000,
+      "likeCount": 1900000,
+      "commentCount": 9740,
+      "shareCount": 435000,
+      "collectCount": 137800,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 7012600
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "tag",
+      "videoId": "7627326443021700382",
+      "createdAt": "2026-04-11T02:42:05.000Z",
+      "creatorHandle": "toreesecret",
+      "videoUrl": "https://www.tiktok.com/@toreesecret/video/7627326443021700382",
+      "caption": "ik there’s others out there like me",
+      "viewCount": 35000000,
+      "likeCount": 6500000,
+      "commentCount": 20600,
+      "shareCount": 105900,
+      "collectCount": 275900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6106800
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7619777492936576288",
+      "createdAt": "2026-03-21T18:28:18.000Z",
+      "creatorHandle": "whiskerwonders107",
+      "videoUrl": "https://www.tiktok.com/@whiskerwonders107/video/7619777492936576288",
+      "caption": "Why are puppies always so cute🥰😁 #puppies #cutedog #animal #core #petsoftiktok",
+      "viewCount": 10500000,
+      "likeCount": 2100000,
+      "commentCount": 3169,
+      "shareCount": 415200,
+      "collectCount": 117800,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 5084490
+    },
+    {
+      "term": "dogzoomies",
+      "provider": "tag",
+      "videoId": "7631458000959474975",
+      "createdAt": "2026-04-22T05:54:38.000Z",
+      "creatorHandle": "pulokanekian374",
+      "videoUrl": "https://www.tiktok.com/@pulokanekian374/video/7631458000959474975",
+      "caption": "#dogmomlife #dogzoomies #foryoupage",
+      "viewCount": 11100000,
+      "likeCount": 1700000,
+      "commentCount": 12900,
+      "shareCount": 423400,
+      "collectCount": 79500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4906200
+    },
+    {
+      "term": "dogmom",
+      "provider": "tag",
+      "videoId": "7632420290164837650",
+      "createdAt": "2026-04-24T20:08:48.000Z",
+      "creatorHandle": "wonderful.getaway",
+      "videoUrl": "https://www.tiktok.com/@wonderful.getaway/video/7632420290164837650",
+      "caption": "Who is with you?😂 You and your bestie saving up for your trips. Girls just wanna have fun #travelhumor",
+      "viewCount": 7300000,
+      "likeCount": 529000,
+      "commentCount": 11800,
+      "shareCount": 461800,
+      "collectCount": 27700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4333700
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7624023554245365022",
+      "createdAt": "2026-04-02T05:05:11.000Z",
+      "creatorHandle": "42.deuce",
+      "videoUrl": "https://www.tiktok.com/@42.deuce/video/7624023554245365022",
+      "caption": "Would you let your dog eat this? Be honest 👇🏾 #dogasmr #rawfeeding #dobermanpinscher #rawdiet #enrichmentfordogs",
+      "viewCount": 26800000,
+      "likeCount": 2000000,
+      "commentCount": 29900,
+      "shareCount": 183900,
+      "collectCount": 128200,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 3819000
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7636676615543491862",
+      "createdAt": "2026-05-06T07:25:31.000Z",
+      "creatorHandle": "angusthegingercat",
+      "videoUrl": "https://www.tiktok.com/@angusthegingercat/video/7636676615543491862",
+      "caption": "The most precious little bubu🥹🥹 #catsoftiktok #cutekitten #kitten #smallkitty #orangekitten",
+      "viewCount": 5500000,
+      "likeCount": 1600000,
+      "commentCount": 3410,
+      "shareCount": 310500,
+      "collectCount": 88600,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 3782500
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "discover",
+      "videoId": "7637292701276294420",
+      "createdAt": "2026-05-07T23:16:15.000Z",
+      "creatorHandle": "goose_goldenboy",
+      "videoUrl": "https://www.tiktok.com/@goose_goldenboy/video/7637292701276294420",
+      "caption": "his first bark 🥹📣🗣️ #goldenretrieversoftiktok #goldenretriever #puppylove #puppy #bark",
+      "viewCount": 10500000,
+      "likeCount": 2000000,
+      "commentCount": 2089,
+      "shareCount": 239800,
+      "collectCount": 102038,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 3557442
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7636799562656632078",
+      "createdAt": "2026-05-06T15:22:37.000Z",
+      "creatorHandle": "bug.the.munchkin",
+      "videoUrl": "https://www.tiktok.com/@bug.the.munchkin/video/7636799562656632078",
+      "caption": "My friend got me a pillow of my cat. My cat HATED it😂 #cat #cats #catsoftiktok #catlovers #funnycat",
+      "viewCount": 5200000,
+      "likeCount": 1000000,
+      "commentCount": 4855,
+      "shareCount": 310500,
+      "collectCount": 66644,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3403126
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7623181606223645965",
+      "createdAt": "2026-03-30T22:38:00.000Z",
+      "creatorHandle": "_nalathedoberman",
+      "videoUrl": "https://www.tiktok.com/@_nalathedoberman/video/7623181606223645965",
+      "caption": "It’s dinner time! @NalaBowls rabbit hide plate + bee pollen + quail hatchlings @Viva Raw ground duck recipe @moochersonly name treat @Open Farm Pet Goodbowl wild caught salmon recipe with grains #dogfeeding #rawfeeding #doberman #dogasmr #dogbowl",
+      "viewCount": 19700000,
+      "likeCount": 1200000,
+      "commentCount": 19100,
+      "shareCount": 224700,
+      "collectCount": 70800,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 3265800
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7619823825256992022",
+      "createdAt": "2026-03-21T21:28:05.000Z",
+      "creatorHandle": "loyal.dogs.eat",
+      "videoUrl": "https://www.tiktok.com/@loyal.dogs.eat/video/7619823825256992022",
+      "caption": "Let’s feed my dog over 150g protein 💪",
+      "viewCount": 25200000,
+      "likeCount": 1200000,
+      "commentCount": 15500,
+      "shareCount": 210100,
+      "collectCount": 75300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 3241000
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7636329379626274061",
+      "createdAt": "2026-05-05T08:58:04.000Z",
+      "creatorHandle": "catfunny86.0",
+      "videoUrl": "https://www.tiktok.com/@catfunny86.0/video/7636329379626274061",
+      "caption": "When the cat faces the camera.#usa🇺🇸 #cute #catsoftiktok #foryou #funnycats",
+      "viewCount": 6900000,
+      "likeCount": 1100000,
+      "commentCount": 3859,
+      "shareCount": 240300,
+      "collectCount": 88238,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 3001942
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7630140511029873950",
+      "createdAt": "2026-04-18T16:42:06.000Z",
+      "creatorHandle": "thecashewbrand",
+      "videoUrl": "https://www.tiktok.com/@thecashewbrand/video/7630140511029873950",
+      "caption": "Mmmm crunchy! #dogsoftiktok #dog #dogeating #cutedog #dancingdog",
+      "viewCount": 5700000,
+      "likeCount": 865700,
+      "commentCount": 4589,
+      "shareCount": 255900,
+      "collectCount": 48800,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 2835140
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "discover",
+      "videoId": "7637087952711060750",
+      "createdAt": "2026-05-07T10:01:43.000Z",
+      "creatorHandle": "pet_time_1",
+      "videoUrl": "https://www.tiktok.com/@pet_time_1/video/7637087952711060750",
+      "caption": "Lovers cat 💕💕#kittens #cute #meow #cat #catlover #catsoftiktok #catsoftiktok #animal #pet",
+      "viewCount": 4000000,
+      "likeCount": 947500,
+      "commentCount": 2324,
+      "shareCount": 241900,
+      "collectCount": 54419,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 2729866
+    },
+    {
+      "term": "doggrooming",
+      "provider": "tag",
+      "videoId": "7628780196958686477",
+      "createdAt": "2026-04-15T00:43:23.000Z",
+      "creatorHandle": "dogsbylogan",
+      "videoUrl": "https://www.tiktok.com/@dogsbylogan/video/7628780196958686477",
+      "caption": "How many poms is too many? . #dogs #doggrooming",
+      "viewCount": 7600000,
+      "likeCount": 1500000,
+      "commentCount": 2424,
+      "shareCount": 182200,
+      "collectCount": 75800,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 2687040
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7626746043232767263",
+      "createdAt": "2026-04-09T13:09:50.000Z",
+      "creatorHandle": "lewis.the.xl",
+      "videoUrl": "https://www.tiktok.com/@lewis.the.xl/video/7626746043232767263",
+      "caption": "American Bully XL Dog Raw Feeding ASMR Mukbang🐾🥩 | Meal Drop & Eating Sounds #rawfeddog",
+      "viewCount": 25900000,
+      "likeCount": 1100000,
+      "commentCount": 17200,
+      "shareCount": 112400,
+      "collectCount": 48100,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 2331600
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7627232156791672086",
+      "createdAt": "2026-04-10T20:36:12.000Z",
+      "creatorHandle": "dindin.inparis",
+      "videoUrl": "https://www.tiktok.com/@dindin.inparis/video/7627232156791672086",
+      "caption": "Bubu is the happiest cat in the world 🐾🐱💖  What Bubu is eating in this video: * chicken turkey + duck hearts -Carny pate  * Chicken & cat grass  * Freeze dried chicken 4 colors -Love around  * Freeze dried lollipop -natural breed * Tuna with chicken in -schesir  * Duck breast -pet ever  * Chicken fillet -wolf  * Egg yolks-Sle #cat #asmr #fyp #foryoupage❤️❤️ #cuteanimal",
+      "viewCount": 31900000,
+      "likeCount": 1100000,
+      "commentCount": 9724,
+      "shareCount": 84600,
+      "collectCount": 73348,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 2255432
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7629671184845507871",
+      "createdAt": "2026-04-17T10:20:52.000Z",
+      "creatorHandle": "pet_150",
+      "videoUrl": "https://www.tiktok.com/@pet_150/video/7629671184845507871",
+      "caption": "#voiceover #catsoftiktok #dogsoftikok #fouryou #petsoftiktok",
+      "viewCount": 7200000,
+      "likeCount": 509000,
+      "commentCount": 12900,
+      "shareCount": 188400,
+      "collectCount": 45700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2217500
+    },
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7633193839183875350",
+      "createdAt": "2026-04-26T22:10:34.000Z",
+      "creatorHandle": "v_orizon",
+      "videoUrl": "https://www.tiktok.com/@v_orizon/video/7633193839183875350",
+      "caption": "POV: Du baust deinen Hunden einen eigenen Pool🌭🌊 Dackelbesitzer kennen das: Nur das Beste für die kleinen Beine! 🐾 Wir haben den ultimativen 'Wiener Dog Pool' gebaut. Vom ersten Spatenstich bis zur  großen Poolparty. Würden eure Hunde auch direkt reinspringen? 💦 #dackel #dachshund #doglover #diycrafts #gardenmakeover #wienerdog #satisfying #dogpool #transformation #dackelliebe #sausagedog #hundewelt #cuteanimals #petparent #homedecor #foryoupage",
+      "viewCount": 8900000,
+      "likeCount": 436200,
+      "commentCount": 1251,
+      "shareCount": 199600,
+      "collectCount": 21700,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 2092210
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7616964020163136776",
+      "createdAt": "2026-03-14T04:30:35.000Z",
+      "creatorHandle": "youna_mhai",
+      "videoUrl": "https://www.tiktok.com/@youna_mhai/video/7616964020163136776",
+      "caption": "#fypシ゚viral",
+      "viewCount": 8100000,
+      "likeCount": 742800,
+      "commentCount": 4051,
+      "shareCount": 141600,
+      "collectCount": 91600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2073110
+    },
+    {
+      "term": "hungrydog",
+      "provider": "tag",
+      "videoId": "7633993905037446421",
+      "createdAt": "2026-04-29T01:55:14.000Z",
+      "creatorHandle": "golden_narqui",
+      "videoUrl": "https://www.tiktok.com/@golden_narqui/video/7633993905037446421",
+      "caption": "Aspiradora de hamburguesas  #hungrydog #hamburguesa #goldenretriever #perrhijos #fyp",
+      "viewCount": 6000000,
+      "likeCount": 994400,
+      "commentCount": 2976,
+      "shareCount": 148500,
+      "collectCount": 34100,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 1971360
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "tag",
+      "videoId": "7629136614949653773",
+      "createdAt": "2026-04-15T23:46:28.000Z",
+      "creatorHandle": "hazelthedachsund",
+      "videoUrl": "https://www.tiktok.com/@hazelthedachsund/video/7629136614949653773",
+      "caption": "This really was the best day ever! It kept getting better and better! I got my first pu cup! I didn’t know something could be so amazing!! #sausagedog #dachshund #starbucks #puppytiktok #minidoxie",
+      "viewCount": 2600000,
+      "likeCount": 510600,
+      "commentCount": 2090,
+      "shareCount": 173000,
+      "collectCount": 52400,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 1921800
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7636117565533588749",
+      "createdAt": "2026-05-04T19:16:07.000Z",
+      "creatorHandle": "mr.ziggggy",
+      "videoUrl": "https://www.tiktok.com/@mr.ziggggy/video/7636117565533588749",
+      "caption": "#funnycat #cutecats #catsoftiktok",
+      "viewCount": 8100000,
+      "likeCount": 505900,
+      "commentCount": 2068,
+      "shareCount": 157500,
+      "collectCount": 32438,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 1825382
+    },
+    {
+      "term": "petgadgets",
+      "provider": "tag",
+      "videoId": "7616990052807134477",
+      "createdAt": "2026-03-14T06:11:36.000Z",
+      "creatorHandle": "this_account_isnt_real_2",
+      "videoUrl": "https://www.tiktok.com/@this_account_isnt_real_2/video/7616990052807134477",
+      "caption": "my momma is the coolest btw @Salt-N-Pepa Official #mom #momanddaughter #dad #fyp #fypシ",
+      "viewCount": 10200000,
+      "likeCount": 2000000,
+      "commentCount": 3582,
+      "shareCount": 24600,
+      "collectCount": 86600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1783020
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "discover",
+      "videoId": "7638184917695827222",
+      "createdAt": "2026-05-10T08:58:30.000Z",
+      "creatorHandle": "milkshake.ham",
+      "videoUrl": "https://www.tiktok.com/@milkshake.ham/video/7638184917695827222",
+      "caption": "He’s a little circus boy 🤣🥹 #hamster #petsoftiktok #fyp #foryou #viral",
+      "viewCount": 4700000,
+      "likeCount": 1200000,
+      "commentCount": 770,
+      "shareCount": 94900,
+      "collectCount": 46621,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1647384
+    },
+    {
+      "term": "doggrooming",
+      "provider": "discover",
+      "videoId": "7623394645602733314",
+      "createdAt": "2026-03-31T12:24:42.000Z",
+      "creatorHandle": "herocat2309",
+      "videoUrl": "https://www.tiktok.com/@herocat2309/video/7623394645602733314",
+      "caption": "The Mistake of Trusting the Strawberry Girl #brainrot #foodstory #funnystory #catstory #aistory",
+      "viewCount": 20300000,
+      "likeCount": 493800,
+      "commentCount": 4149,
+      "shareCount": 86300,
+      "collectCount": 26000,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 1488790
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7631378403714731295",
+      "createdAt": "2026-04-22T00:45:45.000Z",
+      "creatorHandle": "zachys.comet",
+      "videoUrl": "https://www.tiktok.com/@zachys.comet/video/7631378403714731295",
+      "caption": "I was kinda gagged I can’t lie😭 #cat #zoomies #litterbox #fypシ゚viral #meow",
+      "viewCount": 11600000,
+      "likeCount": 1500000,
+      "commentCount": 1607,
+      "shareCount": 23000,
+      "collectCount": 32400,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 1311670
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7624282371084258581",
+      "createdAt": "2026-04-02T21:49:31.000Z",
+      "creatorHandle": "crampcats",
+      "videoUrl": "https://www.tiktok.com/@crampcats/video/7624282371084258581",
+      "caption": "Ivy at the end 😭🧚  #catzoomies #zoomies #catsoftiktok #fyp",
+      "viewCount": 2700000,
+      "likeCount": 410400,
+      "commentCount": 762,
+      "shareCount": 112900,
+      "collectCount": 19300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1247220
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7624477833208876301",
+      "createdAt": "2026-04-03T10:28:01.000Z",
+      "creatorHandle": "catfunny86.0",
+      "videoUrl": "https://www.tiktok.com/@catfunny86.0/video/7624477833208876301",
+      "caption": "cat's reaction to orange.🤣#cute #catsoftiktok #foryou #funnycats #usa🇺🇸",
+      "viewCount": 3400000,
+      "likeCount": 378800,
+      "commentCount": 2178,
+      "shareCount": 105800,
+      "collectCount": 28300,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1238780
+    },
+    {
+      "term": "dogsoftiktok",
+      "provider": "tag",
+      "videoId": "7622660345760468238",
+      "createdAt": "2026-03-29T12:55:14.000Z",
+      "creatorHandle": "wemetatacme",
+      "videoUrl": "https://www.tiktok.com/@wemetatacme/video/7622660345760468238",
+      "caption": "The @Morgan McGraw episode is live!! Listen now! #wemetatacme",
+      "viewCount": 5500000,
+      "likeCount": 504800,
+      "commentCount": 7766,
+      "shareCount": 68000,
+      "collectCount": 37100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1132460
+    },
+    {
+      "term": "petsurprise",
+      "provider": "tag",
+      "videoId": "7632262756099443982",
+      "createdAt": "2026-04-24T09:57:30.000Z",
+      "creatorHandle": "stardustsnug",
+      "videoUrl": "https://www.tiktok.com/@stardustsnug/video/7632262756099443982",
+      "caption": "Puppy gift 🎁 #surprise #family #love #puppy #fyp",
+      "viewCount": 16500000,
+      "likeCount": 759600,
+      "commentCount": 3827,
+      "shareCount": 29900,
+      "collectCount": 34500,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1125270
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7628619859462540566",
+      "createdAt": "2026-04-14T14:21:12.000Z",
+      "creatorHandle": "snowys_life0",
+      "videoUrl": "https://www.tiktok.com/@snowys_life0/video/7628619859462540566",
+      "caption": "Snowy showing off how agile he is📷🐈 link in bio for cat cam #cat #fyp #meow #insta360go3s #insta360catcam",
+      "viewCount": 6600000,
+      "likeCount": 559100,
+      "commentCount": 2223,
+      "shareCount": 64600,
+      "collectCount": 30800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1073780
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7629668088291626254",
+      "createdAt": "2026-04-17T10:08:51.000Z",
+      "creatorHandle": "furry.friend520",
+      "videoUrl": "https://www.tiktok.com/@furry.friend520/video/7629668088291626254",
+      "caption": "Food sound = instant cat activation 😂🐱#cats #funnyvideo#catlover#hungrycat#catreaction",
+      "viewCount": 4600000,
+      "likeCount": 202900,
+      "commentCount": 1852,
+      "shareCount": 94200,
+      "collectCount": 15400,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 1027170
+    },
+    {
+      "term": "petparent",
+      "provider": "discover",
+      "videoId": "7637532244701105422",
+      "createdAt": "2026-05-08T14:45:48.000Z",
+      "creatorHandle": "debbie_1020",
+      "videoUrl": "https://www.tiktok.com/@debbie_1020/video/7637532244701105422",
+      "caption": "Leaving them is harder than packing 😢💙🐶 but they’ll be fine!! #dogtok #dogmomlife #petparents #doglife #gonnamissthem",
+      "viewCount": 3600000,
+      "likeCount": 420100,
+      "commentCount": 4283,
+      "shareCount": 73900,
+      "collectCount": 23913,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1011732
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "tag",
+      "videoId": "7632324020083428621",
+      "createdAt": "2026-04-24T13:55:14.000Z",
+      "creatorHandle": "its_winston_the_golden",
+      "videoUrl": "https://www.tiktok.com/@its_winston_the_golden/video/7632324020083428621",
+      "caption": "Head tilts for the word cute #goldenretriever #dogsoftiktok #puppy #dog #fyp",
+      "viewCount": 1800000,
+      "likeCount": 297600,
+      "commentCount": 466,
+      "shareCount": 93400,
+      "collectCount": 15400,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 998260
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7631921208002415903",
+      "createdAt": "2026-04-23T11:52:07.000Z",
+      "creatorHandle": "42.deuce",
+      "videoUrl": "https://www.tiktok.com/@42.deuce/video/7631921208002415903",
+      "caption": "Don’t blink you might miss it #dobermanpinscher #rawfeeding #dogasmr #enrichmentfordogs #rawdiet",
+      "viewCount": 8300000,
+      "likeCount": 457300,
+      "commentCount": 4084,
+      "shareCount": 54600,
+      "collectCount": 17400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 941890
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7620075406930087190",
+      "createdAt": "2026-03-22T13:44:21.000Z",
+      "creatorHandle": "pointshege",
+      "videoUrl": "https://www.tiktok.com/@pointshege/video/7620075406930087190",
+      "caption": "who was the best?#spiderman#peterparker #gwenstacy#MJ #fy",
+      "viewCount": 5800000,
+      "likeCount": 786600,
+      "commentCount": 2531,
+      "shareCount": 19000,
+      "collectCount": 53500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 900610
+    },
+    {
+      "term": "dogtantrum",
+      "provider": "tag",
+      "videoId": "7621033372009221394",
+      "createdAt": "2026-03-25T03:41:45.000Z",
+      "creatorHandle": "geo__harris1202",
+      "videoUrl": "https://www.tiktok.com/@geo__harris1202/video/7621033372009221394",
+      "caption": "same tantrum. every night.  #germanshepherd #dogsofttiktok",
+      "viewCount": 6200000,
+      "likeCount": 890600,
+      "commentCount": 1570,
+      "shareCount": 16500,
+      "collectCount": 32900,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 848600
+    },
+    {
+      "term": "petgadgets",
+      "provider": "discover",
+      "videoId": "7635501807128546577",
+      "createdAt": "2026-05-03T03:26:40.000Z",
+      "creatorHandle": "celestegonzc",
+      "videoUrl": "https://www.tiktok.com/@celestegonzc/video/7635501807128546577",
+      "caption": "Eventos reales #cuñada #fyp",
+      "viewCount": 6000000,
+      "likeCount": 796400,
+      "commentCount": 485,
+      "shareCount": 27000,
+      "collectCount": 21400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 824650
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "discover",
+      "videoId": "7637829225877097742",
+      "createdAt": "2026-05-09T09:58:14.000Z",
+      "creatorHandle": "pet_time_1",
+      "videoUrl": "https://www.tiktok.com/@pet_time_1/video/7637829225877097742",
+      "caption": "Multi-cat family 💕💕#kittens #meow #pet #foryou #catlover #animal #catsoftiktok",
+      "viewCount": 2300000,
+      "likeCount": 188500,
+      "commentCount": 3706,
+      "shareCount": 67000,
+      "collectCount": 26256,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 818334
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7623783458199833878",
+      "createdAt": "2026-04-01T13:33:29.000Z",
+      "creatorHandle": "elgato_misse",
+      "videoUrl": "https://www.tiktok.com/@elgato_misse/video/7623783458199833878",
+      "caption": "Street fighter #streetfighter #orangecat #cat #catzoomies #orangecatbehavior",
+      "viewCount": 1600000,
+      "likeCount": 221000,
+      "commentCount": 986,
+      "shareCount": 63500,
+      "collectCount": 15100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 720760
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7637693862114315533",
+      "createdAt": "2026-05-09T01:12:57.000Z",
+      "creatorHandle": "qocwhiskerhouse",
+      "videoUrl": "https://www.tiktok.com/@qocwhiskerhouse/video/7637693862114315533",
+      "caption": "Day 14 of helping my cat become pain-free 🤍 Today started off pretty good… Mac ate well, wanted cuddles, and seemed more comfortable during the day 🥹 But later that night his pain started getting worse again, and for the first time ever, I heard him meow in pain 😔 Cats are extremely good at hiding pain, so hearing that honestly broke my heart. I’m doing everything I can to keep him comfortable while we continue raising money for his full-mouth extraction. We’re currently $1300 away from getting him the surgery he needs to finally live pain-free 🤍 Thank you to everyone continuing to support, donate, comment, and share his journey. It truly means so much to us. #stomatitis #catsoftiktok #rescuecat #catdentalcare #catmom",
+      "viewCount": 4400000,
+      "likeCount": 425600,
+      "commentCount": 8226,
+      "shareCount": 24300,
+      "collectCount": 27775,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 688560
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "tag",
+      "videoId": "7618547148346428692",
+      "createdAt": "2026-03-18T10:53:56.000Z",
+      "creatorHandle": "zonnydoo",
+      "videoUrl": "https://www.tiktok.com/@zonnydoo/video/7618547148346428692",
+      "caption": "@charger respect #thptphunhuan",
+      "viewCount": 1400000,
+      "likeCount": 125900,
+      "commentCount": 1238,
+      "shareCount": 66900,
+      "collectCount": 8407,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 672158
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7635954214295899405",
+      "createdAt": "2026-05-04T08:42:14.000Z",
+      "creatorHandle": "jacksondonaldvdod",
+      "videoUrl": "https://www.tiktok.com/@jacksondonaldvdod/video/7635954214295899405",
+      "caption": "Cute Cat Hunting#cat #cats #catslovers #catsoftiktok #fyp",
+      "viewCount": 1100000,
+      "likeCount": 253000,
+      "commentCount": 511,
+      "shareCount": 53200,
+      "collectCount": 20904,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 662826
+    },
+    {
+      "term": "doggrooming",
+      "provider": "tag",
+      "videoId": "7636172803594571022",
+      "createdAt": "2026-05-04T22:50:28.000Z",
+      "creatorHandle": "mr.milobug",
+      "videoUrl": "https://www.tiktok.com/@mr.milobug/video/7636172803594571022",
+      "caption": "At least he’s a clean troublemaker 😅 Everything we use to groom Milo is linked in our bio ❤️ #cutedog #bestdog #maltipoo #doggrooming #dogmom",
+      "viewCount": 2600000,
+      "likeCount": 245200,
+      "commentCount": 915,
+      "shareCount": 47300,
+      "collectCount": 21800,
+      "petShapeLabels": [
+        "cute",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 649350
+    },
+    {
+      "term": "sassydog",
+      "provider": "tag",
+      "videoId": "7629769180396522774",
+      "createdAt": "2026-04-17T16:41:09.000Z",
+      "creatorHandle": "nellythesausage01",
+      "videoUrl": "https://www.tiktok.com/@nellythesausage01/video/7629769180396522774",
+      "caption": "Not allowed to stop scratching ✋🏽  #minidachshund #fyp #dogtok #cutedog #sassy",
+      "viewCount": 1200000,
+      "likeCount": 195200,
+      "commentCount": 429,
+      "shareCount": 59500,
+      "collectCount": 11000,
+      "petShapeLabels": [
+        "cute",
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 645890
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7637160699214581014",
+      "createdAt": "2026-05-07T14:44:01.000Z",
+      "creatorHandle": "kj.fitnesss",
+      "videoUrl": "https://www.tiktok.com/@kj.fitnesss/video/7637160699214581014",
+      "caption": "Thaaaaats the spot 😝 #britishshorthair #catsoftiktok #catmum #cattok #catvideo",
+      "viewCount": 1300000,
+      "likeCount": 331000,
+      "commentCount": 325,
+      "shareCount": 47300,
+      "collectCount": 12900,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 624750
+    },
+    {
+      "term": "dogmom",
+      "provider": "tag",
+      "videoId": "7636836105454701855",
+      "createdAt": "2026-05-06T17:44:25.000Z",
+      "creatorHandle": "agirlandadoodle",
+      "videoUrl": "https://www.tiktok.com/@agirlandadoodle/video/7636836105454701855",
+      "caption": "Somewhere between overprepared and responsible  All items are from @Chewy ! Use code Oliver10 for 10% off your next order #chewypartner",
+      "viewCount": 6400000,
+      "likeCount": 592600,
+      "commentCount": 1014,
+      "shareCount": 9280,
+      "collectCount": 22800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 599880
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7632965615896055062",
+      "createdAt": "2026-04-26T07:24:57.000Z",
+      "creatorHandle": "kittyhousexo",
+      "videoUrl": "https://www.tiktok.com/@kittyhousexo/video/7632965615896055062",
+      "caption": "sweet kitten moments #kitten #kittensoftiktok #kittenlove #cat #fyp",
+      "viewCount": 801200,
+      "likeCount": 174200,
+      "commentCount": 874,
+      "shareCount": 51000,
+      "collectCount": 19700,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 598664
+    },
+    {
+      "term": "petgadgets",
+      "provider": "tag",
+      "videoId": "7634536913398942997",
+      "createdAt": "2026-04-30T13:02:23.000Z",
+      "creatorHandle": "alexkumar614",
+      "videoUrl": "https://www.tiktok.com/@alexkumar614/video/7634536913398942997",
+      "caption": "Vibe Street Dog Catching Time #dog #streetdogrevival #vibes #catch #pets",
+      "viewCount": 16500000,
+      "likeCount": 247700,
+      "commentCount": 1143,
+      "shareCount": 2599,
+      "collectCount": 11700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 532872
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7637066345166687501",
+      "createdAt": "2026-05-07T08:37:52.000Z",
+      "creatorHandle": "jacksondonaldvdod",
+      "videoUrl": "https://www.tiktok.com/@jacksondonaldvdod/video/7637066345166687501",
+      "caption": "Caught cheating… by my cat 😳🐱#cat #cats #catslovers #catsoftiktok #fyp",
+      "viewCount": 1600000,
+      "likeCount": 313000,
+      "commentCount": 414,
+      "shareCount": 30700,
+      "collectCount": 23300,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 531440
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7634119723210296607",
+      "createdAt": "2026-04-29T10:03:28.000Z",
+      "creatorHandle": "ijb68720i25",
+      "videoUrl": "https://www.tiktok.com/@ijb68720i25/video/7634119723210296607",
+      "caption": "#cutedog #dogeating #hungrydog #dogs #doglife",
+      "viewCount": 1600000,
+      "likeCount": 129000,
+      "commentCount": 578,
+      "shareCount": 47900,
+      "collectCount": 9237,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 522428
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7638155622470470934",
+      "createdAt": "2026-05-10T07:04:49.000Z",
+      "creatorHandle": "mimimi_club",
+      "videoUrl": "https://www.tiktok.com/@mimimi_club/video/7638155622470470934",
+      "caption": "I love you, mom ❤️❤️❤️ #cutecat #mothersday #funnycat #singingcat #catlovers",
+      "viewCount": 859300,
+      "likeCount": 55800,
+      "commentCount": 1614,
+      "shareCount": 54600,
+      "collectCount": 5977,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 521934
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7624090767711030541",
+      "createdAt": "2026-04-02T09:26:00.000Z",
+      "creatorHandle": "whiskersworld2",
+      "videoUrl": "https://www.tiktok.com/@whiskersworld2/video/7624090767711030541",
+      "caption": "My Cat HATES When I Kiss Him 😂🐱#Cat #CatReaction #FYP #ForYou #PetLife",
+      "viewCount": 1500000,
+      "likeCount": 318900,
+      "commentCount": 270,
+      "shareCount": 31200,
+      "collectCount": 19500,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 519750
+    },
+    {
+      "term": "dogsoftiktok",
+      "provider": "discover",
+      "videoId": "7626575122291248406",
+      "createdAt": "2026-04-09T02:06:34.000Z",
+      "creatorHandle": "baaors",
+      "videoUrl": "https://www.tiktok.com/@baaors/video/7626575122291248406",
+      "caption": "#stretchtok #giftok #juggtok",
+      "viewCount": 2500000,
+      "likeCount": 331500,
+      "commentCount": 1423,
+      "shareCount": 21700,
+      "collectCount": 27000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 511580
+    },
+    {
+      "term": "doggrooming",
+      "provider": "tag",
+      "videoId": "7626188691819465997",
+      "createdAt": "2026-04-08T01:07:01.000Z",
+      "creatorHandle": "pawperfecta",
+      "videoUrl": "https://www.tiktok.com/@pawperfecta/video/7626188691819465997",
+      "caption": "Do you let your groomer choose the haircut ? 👀✂️ #dogsoftiktok #doggrooming #dog #petlover",
+      "viewCount": 4900000,
+      "likeCount": 353400,
+      "commentCount": 2214,
+      "shareCount": 16700,
+      "collectCount": 16500,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 496440
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7638568888099261710",
+      "createdAt": "2026-05-11T09:48:30.000Z",
+      "creatorHandle": "pet_time_1",
+      "videoUrl": "https://www.tiktok.com/@pet_time_1/video/7638568888099261710",
+      "caption": "Fighting to the very last moment. 💤💤#kittens #meow #pet #animal #catsoftiktok #cat #cutekitten",
+      "viewCount": 550000,
+      "likeCount": 87600,
+      "commentCount": 584,
+      "shareCount": 51900,
+      "collectCount": 4620,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 494320
+    },
+    {
+      "term": "sassydog",
+      "provider": "tag",
+      "videoId": "7637835180052319519",
+      "createdAt": "2026-05-09T10:21:21.000Z",
+      "creatorHandle": "phuong.chi.ly",
+      "videoUrl": "https://www.tiktok.com/@phuong.chi.ly/video/7637835180052319519",
+      "caption": "When a dog can't feel being petted#fyp #dog #dogwithfriend #dogsoftiktok #dogs",
+      "viewCount": 3800000,
+      "likeCount": 315900,
+      "commentCount": 877,
+      "shareCount": 24800,
+      "collectCount": 12100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 489520
+    },
+    {
+      "term": "dogreaction",
+      "provider": "discover",
+      "videoId": "7616904865310182686",
+      "createdAt": "2026-03-14T00:41:02.000Z",
+      "creatorHandle": "kimjongedits2",
+      "videoUrl": "https://www.tiktok.com/@kimjongedits2/video/7616904865310182686",
+      "caption": "The Assistant Gently Reminded The Officer to Stand in Line to Survive. #greatleader #kimjong #northkorea",
+      "viewCount": 15400000,
+      "likeCount": 226600,
+      "commentCount": 947,
+      "shareCount": 1299,
+      "collectCount": 11500,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 487162
+    },
+    {
+      "term": "dogsoftiktok",
+      "provider": "tag",
+      "videoId": "7625099060252282125",
+      "createdAt": "2026-04-05T02:38:42.000Z",
+      "creatorHandle": "andrea.lopez44",
+      "videoUrl": "https://www.tiktok.com/@andrea.lopez44/video/7625099060252282125",
+      "caption": "Can you guess it?😯 #viral #couple #fyp",
+      "viewCount": 6200000,
+      "likeCount": 280000,
+      "commentCount": 12300,
+      "shareCount": 986,
+      "collectCount": 13900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 450488
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7631076647306808594",
+      "createdAt": "2026-04-21T05:14:47.000Z",
+      "creatorHandle": "xiiaoguaishou__",
+      "videoUrl": "https://www.tiktok.com/@xiiaoguaishou__/video/7631076647306808594",
+      "caption": "Kucing ni pandai sangat tunjuk muka meluat 😂 Bau durian ke bau apa ni sampai tak nak pandang langsung? Siapa kucing dia pun tak suka durian angkat tangan! 🙋‍♂️ #Durian #CatReaction #FunnyCat #MalaysiaFood #CatLovers",
+      "viewCount": 714500,
+      "likeCount": 93600,
+      "commentCount": 543,
+      "shareCount": 43600,
+      "collectCount": 5984,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 439256
+    },
+    {
+      "term": "petsurprise",
+      "provider": "tag",
+      "videoId": "7620396597251247382",
+      "createdAt": "2026-03-23T10:30:44.000Z",
+      "creatorHandle": "11_carneval_",
+      "videoUrl": "https://www.tiktok.com/@11_carneval_/video/7620396597251247382",
+      "caption": "#real#foryou",
+      "viewCount": 3500000,
+      "likeCount": 166000,
+      "commentCount": 1038,
+      "shareCount": 30100,
+      "collectCount": 7261,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 433224
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7635022607116422422",
+      "createdAt": "2026-05-01T20:27:07.000Z",
+      "creatorHandle": "a_cat_called_donut_",
+      "videoUrl": "https://www.tiktok.com/@a_cat_called_donut_/video/7635022607116422422",
+      "caption": "Donut has unlocked a new quirk… trust falling isn’t something I thought I’d be doing with a cat, but here we are 😂🤷‍♂️ #catsoftiktok #trustfall #cute #catlife #funnyvideo",
+      "viewCount": 2100000,
+      "likeCount": 281100,
+      "commentCount": 1413,
+      "shareCount": 21700,
+      "collectCount": 14600,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 428680
+    },
+    {
+      "term": "dogreaction",
+      "provider": "discover",
+      "videoId": "7621773384740883734",
+      "createdAt": "2026-03-27T03:33:22.000Z",
+      "creatorHandle": "parijanofficial",
+      "videoUrl": "https://www.tiktok.com/@parijanofficial/video/7621773384740883734",
+      "caption": "Boys dress to show off, men dress to matter ⚜️🤫 Be Classy With Parijan⚜️ Link in Bio🔗 - - - #parijan #foryou #fyp #outfit #oldmoney #oldmoneyaesthetic #oldmoneyoutfits #menfashion #men #oldfashioned #foryoupage❤️❤️ #fashion #lifestyle #italianoutfits",
+      "viewCount": 7900000,
+      "likeCount": 260000,
+      "commentCount": 1390,
+      "shareCount": 6125,
+      "collectCount": 16300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 416100
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7635181890005142805",
+      "createdAt": "2026-05-02T06:45:13.000Z",
+      "creatorHandle": "whereweweretr",
+      "videoUrl": "https://www.tiktok.com/@whereweweretr/video/7635181890005142805",
+      "caption": "Mercedes-Benz X-Class Asmr #car #asmr #diecastcars #viralvideo #fypage",
+      "viewCount": 9400000,
+      "likeCount": 125600,
+      "commentCount": 478,
+      "shareCount": 15500,
+      "collectCount": 8010,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 411620
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7624135434125331732",
+      "createdAt": "2026-04-02T12:19:20.000Z",
+      "creatorHandle": "diak_dachshund",
+      "videoUrl": "https://www.tiktok.com/@diak_dachshund/video/7624135434125331732",
+      "caption": "มื้อเย็นของเหล่าดัชชุนกับเสียงอาซานข้างบ้านของเค้า🙏🏼🕌✨ 🌥️🍲@Orijen.Thailand @YIAMPANICH  #dogeating #หมากินข้าว #ดัชชุน #ดัชชุนขนยาว #sausagedog",
+      "viewCount": 1100000,
+      "likeCount": 74300,
+      "commentCount": 2356,
+      "shareCount": 38700,
+      "collectCount": 3439,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 406066
+    },
+    {
+      "term": "dogzoomies",
+      "provider": "tag",
+      "videoId": "7622036789410155798",
+      "createdAt": "2026-03-27T20:35:31.000Z",
+      "creatorHandle": "roflmemesxd",
+      "videoUrl": "https://www.tiktok.com/@roflmemesxd/video/7622036789410155798",
+      "caption": "Funny dogs moment #funnydog #dog #cutedog #viral #fyp",
+      "viewCount": 1500000,
+      "likeCount": 109600,
+      "commentCount": 1160,
+      "shareCount": 32300,
+      "collectCount": 5884,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 378336
+    },
+    {
+      "term": "doggrooming",
+      "provider": "tag",
+      "videoId": "7625846444511071518",
+      "createdAt": "2026-04-07T02:58:56.000Z",
+      "creatorHandle": "kaydangleis",
+      "videoUrl": "https://www.tiktok.com/@kaydangleis/video/7625846444511071518",
+      "caption": "Bro loves her cars 🤣 @Road Kel #mom #youngmom #yourmother",
+      "viewCount": 1000000,
+      "likeCount": 154300,
+      "commentCount": 8969,
+      "shareCount": 21900,
+      "collectCount": 3805,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 377260
+    },
+    {
+      "term": "doggrooming",
+      "provider": "tag",
+      "videoId": "7634732834464271629",
+      "createdAt": "2026-05-01T01:42:39.000Z",
+      "creatorHandle": "dogsbylogan",
+      "videoUrl": "https://www.tiktok.com/@dogsbylogan/video/7634732834464271629",
+      "caption": "He is literally shining  . #dogs #doggrooming #irishsetter",
+      "viewCount": 2400000,
+      "likeCount": 295300,
+      "commentCount": 649,
+      "shareCount": 15800,
+      "collectCount": 11200,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 373340
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7634482861139119391",
+      "createdAt": "2026-04-30T09:32:38.000Z",
+      "creatorHandle": "cutecuterose0",
+      "videoUrl": "https://www.tiktok.com/@cutecuterose0/video/7634482861139119391",
+      "caption": "Can parrots and cats be friends?#bird #parrot #pet #parrotsoftiktok #funnyvideo",
+      "viewCount": 2000000,
+      "likeCount": 83700,
+      "commentCount": 675,
+      "shareCount": 32200,
+      "collectCount": 6541,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 372364
+    },
+    {
+      "term": "dogeating",
+      "provider": "discover",
+      "videoId": "7620565119260429599",
+      "createdAt": "2026-03-23T21:24:41.000Z",
+      "creatorHandle": "kopirki_plays",
+      "videoUrl": "https://www.tiktok.com/@kopirki_plays/video/7620565119260429599",
+      "caption": "This Quiet Dog Waited… And Then He Was Finally Chosen 🐶 #dog #rescuedog #usa #dogadoption #dogsoftiktok",
+      "viewCount": 5800000,
+      "likeCount": 267800,
+      "commentCount": 1927,
+      "shareCount": 6288,
+      "collectCount": 9193,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 356246
+    },
+    {
+      "term": "dogeating",
+      "provider": "discover",
+      "videoId": "7622326743558409504",
+      "createdAt": "2026-03-28T15:20:41.000Z",
+      "creatorHandle": "flow.cc_editz",
+      "videoUrl": "https://www.tiktok.com/@flow.cc_editz/video/7622326743558409504",
+      "caption": "Me and Bro🔥🤝 || BIG IB: @✞𝐃𝐅𝐒✞ || Gumball and Darwin edit || Song: Ukraine - Let Me Talk Afro Drill Mix || ##fyp#viral #gumball #darwin #tawog",
+      "viewCount": 708900,
+      "likeCount": 101600,
+      "commentCount": 1759,
+      "shareCount": 22800,
+      "collectCount": 21000,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 348968
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7634107863446670605",
+      "createdAt": "2026-04-29T09:17:27.000Z",
+      "creatorHandle": "jacksondonaldvdod",
+      "videoUrl": "https://www.tiktok.com/@jacksondonaldvdod/video/7634107863446670605",
+      "caption": "This Cat’s Reaction Shocked Me🤣#cat #cats #catslovers #catsoftiktok #fyp",
+      "viewCount": 668300,
+      "likeCount": 137800,
+      "commentCount": 376,
+      "shareCount": 28500,
+      "collectCount": 8116,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 346490
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7637903946664725773",
+      "createdAt": "2026-05-09T14:48:12.000Z",
+      "creatorHandle": "thecashewbrand",
+      "videoUrl": "https://www.tiktok.com/@thecashewbrand/video/7637903946664725773",
+      "caption": "mommy thought she was making herself a snack… she thought wrong 😭🐾 #dog #dogeating #dancingdog #cashew #dogsoftiktok",
+      "viewCount": 912700,
+      "likeCount": 126500,
+      "commentCount": 369,
+      "shareCount": 29700,
+      "collectCount": 4460,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 340634
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7636194407951207694",
+      "createdAt": "2026-05-05T00:14:19.000Z",
+      "creatorHandle": "thecashewbrand",
+      "videoUrl": "https://www.tiktok.com/@thecashewbrand/video/7636194407951207694",
+      "caption": "mommy said i had to eat my veggies… say less 🫑🐾🩰 #dogeating #dancingdog #dogsoftiktok #dogeat #dog",
+      "viewCount": 569600,
+      "likeCount": 99200,
+      "commentCount": 386,
+      "shareCount": 30400,
+      "collectCount": 5300,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 329252
+    },
+    {
+      "term": "dogsoftiktok",
+      "provider": "discover",
+      "videoId": "7620825412884565268",
+      "createdAt": "2026-03-24T14:14:46.000Z",
+      "creatorHandle": "b92164",
+      "videoUrl": "https://www.tiktok.com/@b92164/video/7620825412884565268",
+      "caption": "accidentally! #mecore #hayleydunphy #modernfamily #viral #xybca",
+      "viewCount": 1600000,
+      "likeCount": 405400,
+      "commentCount": 90,
+      "shareCount": 2848,
+      "collectCount": 17600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 328784
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "discover",
+      "videoId": "7624883000899095822",
+      "createdAt": "2026-04-04T12:40:16.000Z",
+      "creatorHandle": "littlemanyu",
+      "videoUrl": "https://www.tiktok.com/@littlemanyu/video/7624883000899095822",
+      "caption": "Puppies’ Spring Spa Relax Day 🛁🌷#littlemanyu #shibainu #manyuland #cute #dogsoftiktok #spa #asmr #westie",
+      "viewCount": 2000000,
+      "likeCount": 154400,
+      "commentCount": 2558,
+      "shareCount": 13100,
+      "collectCount": 17821,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 318864
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "discover",
+      "videoId": "7637157618854776094",
+      "createdAt": "2026-05-07T14:32:04.000Z",
+      "creatorHandle": "funny.usa545",
+      "videoUrl": "https://www.tiktok.com/@funny.usa545/video/7637157618854776094",
+      "caption": "funny usa #talkingdog #catsoftiktok #dogsoftiktok #pet #fyp",
+      "viewCount": 804900,
+      "likeCount": 102100,
+      "commentCount": 499,
+      "shareCount": 20900,
+      "collectCount": 19005,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 315358
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "tag",
+      "videoId": "7636835299489828118",
+      "createdAt": "2026-05-06T17:41:18.000Z",
+      "creatorHandle": "mabel_themammut",
+      "videoUrl": "https://www.tiktok.com/@mabel_themammut/video/7636835299489828118",
+      "caption": "The dog breed everyone thinks I’m making up 😂✌🏼 • #mammutbulldog #puppysoftiktok #puppyeyes #fyp #puppy",
+      "viewCount": 1100000,
+      "likeCount": 140200,
+      "commentCount": 0,
+      "shareCount": 21000,
+      "collectCount": 12400,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 309700
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7620380547948285197",
+      "createdAt": "2026-03-23T09:28:27.000Z",
+      "creatorHandle": "zbalihenrri",
+      "videoUrl": "https://www.tiktok.com/@zbalihenrri/video/7620380547948285197",
+      "caption": "#dogeat #dog #eat #eating #mukbang #foryou #tiktok #fyp",
+      "viewCount": 5000000,
+      "likeCount": 76500,
+      "commentCount": 3668,
+      "shareCount": 8069,
+      "collectCount": 16400,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 305082
+    },
+    {
+      "term": "dogmom",
+      "provider": "tag",
+      "videoId": "7633917587310546190",
+      "createdAt": "2026-04-28T20:59:05.000Z",
+      "creatorHandle": "jakeandpenny",
+      "videoUrl": "https://www.tiktok.com/@jakeandpenny/video/7633917587310546190",
+      "caption": "Penny loves running back and forth with the neighbor dogs, and it’s never an issue….until it rains. When she comes back, she always knows it’s bath time and looks so sorry lol #dogsoftiktok #dogparents #dogmom #doglover #doglife",
+      "viewCount": 685300,
+      "likeCount": 104000,
+      "commentCount": 868,
+      "shareCount": 25800,
+      "collectCount": 6072,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 305074
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "discover",
+      "videoId": "7638096874204974350",
+      "createdAt": "2026-05-10T03:16:51.000Z",
+      "creatorHandle": "kaisiberian",
+      "videoUrl": "https://www.tiktok.com/@kaisiberian/video/7638096874204974350",
+      "caption": "Kai is our little couch potato 🥔 #fypシ #petsoftiktok #vir #catsoftiktok #trend",
+      "viewCount": 509400,
+      "likeCount": 95000,
+      "commentCount": 915,
+      "shareCount": 27300,
+      "collectCount": 4427,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 302946
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7625039166732127502",
+      "createdAt": "2026-04-04T22:46:17.000Z",
+      "creatorHandle": "sir_sniffs_alot",
+      "videoUrl": "https://www.tiktok.com/@sir_sniffs_alot/video/7625039166732127502",
+      "caption": "Catsters 😂. #catsters #catmeme #catreactions",
+      "viewCount": 1600000,
+      "likeCount": 88400,
+      "commentCount": 1663,
+      "shareCount": 23000,
+      "collectCount": 6201,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 301634
+    },
+    {
+      "term": "dogmom",
+      "provider": "tag",
+      "videoId": "7638287271740886286",
+      "createdAt": "2026-05-10T15:35:41.000Z",
+      "creatorHandle": "sidneysartorii",
+      "videoUrl": "https://www.tiktok.com/@sidneysartorii/video/7638287271740886286",
+      "caption": "Just a girl and her four legged baby #dogmom #dog #dogsoftiktok #doglover #dogs",
+      "viewCount": 1100000,
+      "likeCount": 207300,
+      "commentCount": 424,
+      "shareCount": 16300,
+      "collectCount": 3526,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 274394
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7621283996688780566",
+      "createdAt": "2026-03-25T19:54:18.000Z",
+      "creatorHandle": "romeoagrela",
+      "videoUrl": "https://www.tiktok.com/@romeoagrela/video/7621283996688780566",
+      "caption": "“but i changed the game for u” is absolute mind games btw 😭 #you by #lloyd #stopwaitaminute #rnb #acoustic",
+      "viewCount": 735900,
+      "likeCount": 166700,
+      "commentCount": 330,
+      "shareCount": 12100,
+      "collectCount": 15800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 261368
+    },
+    {
+      "term": "petsurprise",
+      "provider": "tag",
+      "videoId": "7636499901261647117",
+      "createdAt": "2026-05-05T19:59:47.000Z",
+      "creatorHandle": "humankind",
+      "videoUrl": "https://www.tiktok.com/@humankind/video/7636499901261647117",
+      "caption": "This birthday boy cries tears of joy when he’s surprised with a puppy. But wait until you see his big brother’s reaction. 🥺 #usatodaypets",
+      "viewCount": 1800000,
+      "likeCount": 132200,
+      "commentCount": 1576,
+      "shareCount": 15000,
+      "collectCount": 5393,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 259432
+    },
+    {
+      "term": "catzoomies",
+      "provider": "tag",
+      "videoId": "7637230854019779870",
+      "createdAt": "2026-05-07T19:16:15.000Z",
+      "creatorHandle": "nimbus_siberian",
+      "videoUrl": "https://www.tiktok.com/@nimbus_siberian/video/7637230854019779870",
+      "caption": "Making sure his traction control works #fyp #siberiancat #cat #zoomies #nimbus",
+      "viewCount": 821800,
+      "likeCount": 127300,
+      "commentCount": 996,
+      "shareCount": 16200,
+      "collectCount": 6837,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 246994
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7622899508535430414",
+      "createdAt": "2026-03-30T04:23:19.000Z",
+      "creatorHandle": "sepporenimufzin",
+      "videoUrl": "https://www.tiktok.com/@sepporenimufzin/video/7622899508535430414",
+      "caption": "if this doesn’t turn out i will be very sad",
+      "viewCount": 3700000,
+      "likeCount": 275100,
+      "commentCount": 169,
+      "shareCount": 477,
+      "collectCount": 6240,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 242016
+    },
+    {
+      "term": "hungrydog",
+      "provider": "tag",
+      "videoId": "7635597911182544149",
+      "createdAt": "2026-05-03T09:39:36.000Z",
+      "creatorHandle": "drcuongent299",
+      "videoUrl": "https://www.tiktok.com/@drcuongent299/video/7635597911182544149",
+      "caption": "Hốc mủ tạo sỏi gây hôi miệng, dù đánh răng rất kỹ. #drcuongent #viemamidanhocmu",
+      "viewCount": 8400000,
+      "likeCount": 43300,
+      "commentCount": 393,
+      "shareCount": 3896,
+      "collectCount": 2894,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 236324
+    },
+    {
+      "term": "dogzoomies",
+      "provider": "tag",
+      "videoId": "7630814997022641430",
+      "createdAt": "2026-04-20T12:19:27.000Z",
+      "creatorHandle": "buddythegreyh",
+      "videoUrl": "https://www.tiktok.com/@buddythegreyh/video/7630814997022641430",
+      "caption": "I can confirm the zoomies carried on for another 30 minutes after air jail time 🙃🤣 #greyhoundsoftiktok #zoomies #airjail",
+      "viewCount": 771300,
+      "likeCount": 110500,
+      "commentCount": 392,
+      "shareCount": 15800,
+      "collectCount": 5646,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 223580
+    },
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7622380726217903382",
+      "createdAt": "2026-03-28T18:50:10.000Z",
+      "creatorHandle": "kevinfreshwater",
+      "videoUrl": "https://www.tiktok.com/@kevinfreshwater/video/7622380726217903382",
+      "caption": "",
+      "viewCount": 1700000,
+      "likeCount": 145700,
+      "commentCount": 285,
+      "shareCount": 8499,
+      "collectCount": 11300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 222892
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7637062281179860226",
+      "createdAt": "2026-05-07T08:22:06.000Z",
+      "creatorHandle": "angusthegingercat",
+      "videoUrl": "https://www.tiktok.com/@angusthegingercat/video/7637062281179860226",
+      "caption": "Angus coming to say hi🥹🐾 #catsoftiktok #kitten #orangekitten #cats #cutekitten",
+      "viewCount": 328600,
+      "likeCount": 81600,
+      "commentCount": 243,
+      "shareCount": 18900,
+      "collectCount": 4665,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 219662
+    },
+    {
+      "term": "sassydog",
+      "provider": "discover",
+      "videoId": "7618644598885223701",
+      "createdAt": "2026-03-18T17:12:05.000Z",
+      "creatorHandle": "ryuuuwe",
+      "videoUrl": "https://www.tiktok.com/@ryuuuwe/video/7618644598885223701",
+      "caption": "W Tota😭 #funnymoments #mafiathon3 #tota #kaicenat #foryou",
+      "viewCount": 1600000,
+      "likeCount": 134100,
+      "commentCount": 1036,
+      "shareCount": 6719,
+      "collectCount": 12300,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 212362
+    },
+    {
+      "term": "hungrydog",
+      "provider": "discover",
+      "videoId": "7625172918409973022",
+      "createdAt": "2026-04-05T07:25:18.000Z",
+      "creatorHandle": "dontfindmee674",
+      "videoUrl": "https://www.tiktok.com/@dontfindmee674/video/7625172918409973022",
+      "caption": "check the sound #trending #fyp",
+      "viewCount": 3800000,
+      "likeCount": 192400,
+      "commentCount": 65,
+      "shareCount": 872,
+      "collectCount": 7809,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 211062
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7629306496714673430",
+      "createdAt": "2026-04-16T10:45:42.000Z",
+      "creatorHandle": "fluffelvideos",
+      "videoUrl": "https://www.tiktok.com/@fluffelvideos/video/7629306496714673430",
+      "caption": "When Your Cat Understands You 🐈 #shorts #cat #cats #catsoftiktok #kitty #meow #funnycat #viral #cutecat #kitten #animal #funnyanimals #fyp",
+      "viewCount": 2300000,
+      "likeCount": 104800,
+      "commentCount": 579,
+      "shareCount": 10600,
+      "collectCount": 4646,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 207574
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7635355990082325780",
+      "createdAt": "2026-05-02T18:00:49.000Z",
+      "creatorHandle": "the.king932",
+      "videoUrl": "https://www.tiktok.com/@the.king932/video/7635355990082325780",
+      "caption": "#wife #cat #catsoftiktok #cats #catreaction",
+      "viewCount": 517100,
+      "likeCount": 24100,
+      "commentCount": 213,
+      "shareCount": 20800,
+      "collectCount": 3105,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 203342
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7632429705378942224",
+      "createdAt": "2026-04-24T20:45:20.000Z",
+      "creatorHandle": "freyathesiberian",
+      "videoUrl": "https://www.tiktok.com/@freyathesiberian/video/7632429705378942224",
+      "caption": "Reposting one of my favorites from last year 😂 #cat #catsoftiktok #cutecat #funnycat #petsoftiktok",
+      "viewCount": 300000,
+      "likeCount": 56600,
+      "commentCount": 138,
+      "shareCount": 18000,
+      "collectCount": 3452,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 193488
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7634986570902261005",
+      "createdAt": "2026-05-01T18:07:17.000Z",
+      "creatorHandle": "thecashewbrand",
+      "videoUrl": "https://www.tiktok.com/@thecashewbrand/video/7634986570902261005",
+      "caption": "Replying to @Kelly Stewart  here ya go!! since yall signed the petition for the tutu lol! 😝 #cutedog #cashew #tutu #dancingdog #dogeating",
+      "viewCount": 462400,
+      "likeCount": 101900,
+      "commentCount": 733,
+      "shareCount": 11600,
+      "collectCount": 3587,
+      "petShapeLabels": [
+        "cute",
+        "food_or_eating"
+      ],
+      "petInterestScore": 174676
+    },
+    {
+      "term": "petgadgets",
+      "provider": "tag",
+      "videoId": "7635668854580055327",
+      "createdAt": "2026-05-03T14:14:54.000Z",
+      "creatorHandle": "goodstuffdiary",
+      "videoUrl": "https://www.tiktok.com/@goodstuffdiary/video/7635668854580055327",
+      "caption": "Water anytime, anywhere. ✨ Spherical stainless steel pet bottle – no spills, no waste. #portablewater #doggear #petessentials #tiktokmademebuyit #fyp",
+      "viewCount": 3700000,
+      "likeCount": 20400,
+      "commentCount": 261,
+      "shareCount": 8395,
+      "collectCount": 4725,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 172870
+    },
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7634702007655222559",
+      "createdAt": "2026-04-30T23:43:02.000Z",
+      "creatorHandle": "winstonandspooky",
+      "videoUrl": "https://www.tiktok.com/@winstonandspooky/video/7634702007655222559",
+      "caption": "5 signs you’re doing well as a cat owner #catsoftiktok #catfacts #catowner #blackcat #catmom",
+      "viewCount": 586100,
+      "likeCount": 63300,
+      "commentCount": 313,
+      "shareCount": 12900,
+      "collectCount": 3415,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 163362
+    },
+    {
+      "term": "sassydog",
+      "provider": "tag",
+      "videoId": "7628389228304469269",
+      "createdAt": "2026-04-13T23:26:14.000Z",
+      "creatorHandle": "frankietheshiht",
+      "videoUrl": "https://www.tiktok.com/@frankietheshiht/video/7628389228304469269",
+      "caption": "Idk why I find him going up the stairs always so funny 😆 #sassydog #shihtzu #shihtzusoftiktok #fyp #dogtok",
+      "viewCount": 364600,
+      "likeCount": 50800,
+      "commentCount": 165,
+      "shareCount": 13800,
+      "collectCount": 2097,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 153130
+    },
+    {
+      "term": "hungrydog",
+      "provider": "tag",
+      "videoId": "7638355134895967509",
+      "createdAt": "2026-05-10T19:59:02.000Z",
+      "creatorHandle": "golden_narqui",
+      "videoUrl": "https://www.tiktok.com/@golden_narqui/video/7638355134895967509",
+      "caption": "Me parece que es obvio a quien le hace más caso 😂🙈 #hungrydog #goldenretriever #perrhijos #perrostiktokers #fyp",
+      "viewCount": 1100000,
+      "likeCount": 87700,
+      "commentCount": 148,
+      "shareCount": 7888,
+      "collectCount": 3181,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 143158
+    },
+    {
+      "term": "dogeating",
+      "provider": "tag",
+      "videoId": "7631796808959806733",
+      "createdAt": "2026-04-23T03:49:23.000Z",
+      "creatorHandle": "beauty_pet818",
+      "videoUrl": "https://www.tiktok.com/@beauty_pet818/video/7631796808959806733",
+      "caption": "#labrador #dogeating #asmr #immersive #dog",
+      "viewCount": 915100,
+      "likeCount": 81900,
+      "commentCount": 433,
+      "shareCount": 7331,
+      "collectCount": 4425,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 139930
+    },
+    {
+      "term": "petsoftiktok",
+      "provider": "tag",
+      "videoId": "7623484013365267743",
+      "createdAt": "2026-03-31T18:11:29.000Z",
+      "creatorHandle": "koliseumm",
+      "videoUrl": "https://www.tiktok.com/@koliseumm/video/7623484013365267743",
+      "caption": "Khabib Nurmagomedov vs Conor McGregor.  | #mma #ufc #ufc_mma_sport #khabib #conormcgregor #mixedmartialarts",
+      "viewCount": 2200000,
+      "likeCount": 70800,
+      "commentCount": 769,
+      "shareCount": 1630,
+      "collectCount": 6960,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 127970
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "tag",
+      "videoId": "7619049408126094606",
+      "createdAt": "2026-03-19T19:22:57.000Z",
+      "creatorHandle": "treydunklive",
+      "videoUrl": "https://www.tiktok.com/@treydunklive/video/7619049408126094606",
+      "caption": "Head up chest out young man #fyp #viral #trending #court #jail",
+      "viewCount": 1100000,
+      "likeCount": 110800,
+      "commentCount": 768,
+      "shareCount": 1936,
+      "collectCount": 6663,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 127220
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "discover",
+      "videoId": "7638277763388017950",
+      "createdAt": "2026-05-10T14:58:48.000Z",
+      "creatorHandle": "animals.devop",
+      "videoUrl": "https://www.tiktok.com/@animals.devop/video/7638277763388017950",
+      "caption": "Rescue a puppy #fyp #rescueanimals #dog #puppy #rescue",
+      "viewCount": 1500000,
+      "likeCount": 62400,
+      "commentCount": 1798,
+      "shareCount": 3785,
+      "collectCount": 3160,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 122100
+    },
+    {
+      "term": "dogtantrum",
+      "provider": "tag",
+      "videoId": "7630120227765751058",
+      "createdAt": "2026-04-18T15:23:23.000Z",
+      "creatorHandle": "willandmill",
+      "videoUrl": "https://www.tiktok.com/@willandmill/video/7630120227765751058",
+      "caption": "She's just a baby When Mill wants to be picked up she will dig into your chest, so just to make sure I had to ask her twice 😂 #dogs #dogtok #pitbull #justababy",
+      "viewCount": 588800,
+      "likeCount": 78200,
+      "commentCount": 648,
+      "shareCount": 6270,
+      "collectCount": 2791,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 118680
+    },
+    {
+      "term": "catsoftiktok",
+      "provider": "discover",
+      "videoId": "7638605513151859990",
+      "createdAt": "2026-05-11T12:10:38.000Z",
+      "creatorHandle": "kittycatsoftiktok0",
+      "videoUrl": "https://www.tiktok.com/@kittycatsoftiktok0/video/7638605513151859990",
+      "caption": "A clingy cat 🥰 #cat #cats #catsoftiktok #kittycat #cute",
+      "viewCount": 368600,
+      "likeCount": 27400,
+      "commentCount": 1225,
+      "shareCount": 7283,
+      "collectCount": 6702,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 118394
+    },
+    {
+      "term": "sassydog",
+      "provider": "tag",
+      "videoId": "7628973828223274271",
+      "createdAt": "2026-04-15T13:14:46.000Z",
+      "creatorHandle": "normies_golden_life",
+      "videoUrl": "https://www.tiktok.com/@normies_golden_life/video/7628973828223274271",
+      "caption": "I didn’t say you could stop petting me… #goldenretriever #goldensoftiktok #annoyed #sideeye #sassy",
+      "viewCount": 294600,
+      "likeCount": 64500,
+      "commentCount": 105,
+      "shareCount": 8785,
+      "collectCount": 1999,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 117468
+    },
+    {
+      "term": "petparent",
+      "provider": "tag",
+      "videoId": "7634770930484514078",
+      "createdAt": "2026-05-01T04:10:29.000Z",
+      "creatorHandle": "mostlythedoodle",
+      "videoUrl": "https://www.tiktok.com/@mostlythedoodle/video/7634770930484514078",
+      "caption": "He’s just a little dramatic 🤏 #dogsoftiktok #dogcomedy #goldendoodles #petparent",
+      "viewCount": 305100,
+      "likeCount": 45900,
+      "commentCount": 151,
+      "shareCount": 9963,
+      "collectCount": 1383,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 115798
+    },
+    {
+      "term": "puppytiktok",
+      "provider": "discover",
+      "videoId": "7617545947211484429",
+      "createdAt": "2026-03-15T18:08:45.000Z",
+      "creatorHandle": "fruitword1",
+      "videoUrl": "https://www.tiktok.com/@fruitword1/video/7617545947211484429",
+      "caption": "Puppy feed is his little sister #puppylife #puppytiktok #puppy #emotional #emotionalstory",
+      "viewCount": 2500000,
+      "likeCount": 31200,
+      "commentCount": 1339,
+      "shareCount": 1539,
+      "collectCount": 5768,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 114374
+    },
+    {
+      "term": "catreaction",
+      "provider": "tag",
+      "videoId": "7631383043038629142",
+      "createdAt": "2026-04-22T01:03:45.000Z",
+      "creatorHandle": "litudao",
+      "videoUrl": "https://www.tiktok.com/@litudao/video/7631383043038629142",
+      "caption": "The Dad cat teased playing with a cardboard cucumber 🥒. #funnycats #catvideo #catsoftiktok #funnycat #kitten #cutecat #funnyanimals #petsoftiktok #catlover #animalvideo #cats #catlife #viral #fyp #foryou #viralvideo #trending #explorepage #tiktokviral #funnyvideo #usa #america #unitedstates #usatiktok #usaviral #cucumbercat #catreaction #funnyclip #dailyviral #memevideo",
+      "viewCount": 2300000,
+      "likeCount": 33700,
+      "commentCount": 634,
+      "shareCount": 2485,
+      "collectCount": 6178,
+      "petShapeLabels": [
+        "cute",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 113782
+    }
+  ]
+}

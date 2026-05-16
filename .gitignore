@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+
+# Local environment/runtime state
+.env
+.env.*
+.venv/
+__pycache__/
+
+# Multica local runtime workspaces are machine-specific and should not live here.
+multica_workspaces*/
+
