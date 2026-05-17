@@ -78,6 +78,7 @@
 - tk-viral-judge: `1c4e172c-93c9-4cdf-a86b-f59347a1fb47`
 - cg-planner: `d6af1b8c-cc4c-4dc9-be5e-7aee4a3584a6`
 - cg-static-image: `f0bec43b-9f0c-474f-bdb5-45d91085d1bd`
+  - Local instruction snapshot: `/Users/airlort/Documents/tk_video/multica_agents/cg-static-image.md`
 - cg-motion: `61ff0d9d-e9d4-49d8-993b-ead2e7e28114`
 - cg-reviewer: `9997dbbd-ab63-4461-af7b-1c65c7f8ebe1`
 
@@ -124,3 +125,4 @@
 - Pet corgi baguette doorway concept gate: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/concept_gate_packet.md`
 - Pet corgi baguette doorway subject bible: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/subject_identity_bible.md`
 - Pet corgi baguette doorway creative plan: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/creative_plan.md`
+- Pet corgi baguette doorway storyboard logic contract: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/storyboard_logic_contract.md`

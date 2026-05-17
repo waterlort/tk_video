@@ -40,6 +40,32 @@
 
 ## Step Identity
 
+- Issue: local continuation / cg-static-image storyboard logic fix
+- Node type: agent logic update
+- Owner: Codex
+- Time: 2026-05-17 Asia/Shanghai
+
+## Condensed Local Context
+
+- User rejected the generated 1080p storyboard because the storyboard logic was wrong.
+- The failure was action causality, not mainly identity: early panels repeated a similar front-facing dog pose and did not clearly show approach, doorway collision, reset, diagonal strategy, crossing, and aftermath.
+
+## Work Trace
+
+- Inspected the generated storyboard image at `/Users/airlort/.codex/generated_images/019e2e80-8a67-7e72-9558-4208f35cdca7/ig_0adda09aaef552b3016a0999846560819b88555ab5df8ec73c.png`.
+- Added local instruction snapshot `multica_agents/cg-static-image.md`.
+- Updated remote Multica `cg-static-image` instructions to require a storyboard logic contract before generation.
+
+## Key Decisions
+
+- Multi-panel storyboards must now pass action logic before visual style polish.
+- Doorway/object-obstacle gags require six states: approach before contact, collision/contact, failed attempt/reset, strategy change, crossing, aftermath/lookback.
+- Repeated pose or missing first-proof frame is a blocking failure, even if the character identity looks good.
+
+---
+
+## Step Identity
+
 - Issue: `ULT-299` / `1c4aff41-f485-4f74-927e-67e33ef59c8b`
 - Node type: overall judge review
 - Owner: `tk-viral-judge`
