@@ -34,16 +34,18 @@ The gate packet is suitable for a concise creative-plan handoff because it has o
 
 Mochi tries to carry an oversized plush baguette through a narrow doorway. The toy is held sideways, so both ends hit the doorframe in the first 2 seconds. The joke is visible physical logistics: Mochi wants the toy, the doorway refuses, Mochi solves it without dropping the toy.
 
+Direction lock: Mochi starts outside on the hallway side and wants to enter the room. The plush baguette starts outside with Mochi; it must not appear already inside the room before the collision.
+
 ## First 2 Seconds
 
 0.0-1.2s:
-- Low vertical phone shot from hallway height.
-- Mochi enters from the room side holding the oversized plush baguette horizontally.
+- Low vertical phone shot from inside the room looking toward the hallway doorway.
+- Mochi approaches from the outside/hallway side holding the oversized plush baguette horizontally; the whole toy is still outside before contact.
 - Identity must be readable: small tan-and-white corgi mix, white lightning blaze, aqua collar, brass tag if visible, right ear upright, left ear folded at tip.
 - Overlay: `Mochi found the big toy.`
 
 1.2-2.0s:
-- Both plush baguette ends hit the white doorway trim with a soft thump.
+- From the outside side, both plush baguette ends hit the white doorway trim with a soft thump.
 - Mochi pauses but keeps the toy in his mouth.
 - Overlay: `The doorway disagreed.`
 - This collision is the required proof. If the hit is unclear, the concept fails.
@@ -52,19 +54,19 @@ Mochi tries to carry an oversized plush baguette through a narrow doorway. The t
 
 | Time | Visual beat | Overlay | Function |
 | --- | --- | --- | --- |
-| 0.0-1.2 | Mochi approaches with plush baguette held sideways. | `Mochi found the big toy.` | Establish pet, prop, scale. |
-| 1.2-2.0 | Both toy ends hit the doorway; Mochi freezes. | `The doorway disagreed.` | Visible first-2-second proof. |
-| 2.0-3.6 | Mochi backs up two small steps without dropping the toy. | `He would not drop it.` | Shows motive and stubbornness. |
-| 3.6-5.8 | Mochi tilts the plush diagonally and shuffles forward. | `New strategy.` | Adds problem-solving and rewatch point. |
-| 5.8-7.8 | Mochi squeezes through with the toy still in mouth. | `Solved?` | Payoff and relief. |
-| 7.8-9.5 | Mochi turns back from the hallway, proud and calm. | `Round 2 tomorrow?` | Loopable ending and series cue. |
+| 0.0-1.2 | Mochi approaches from the outside/hallway side with the whole plush baguette still outside, held sideways. | `Mochi found the big toy.` | Establish pet, prop, scale, and direction. |
+| 1.2-2.0 | Both toy ends hit the doorway from the outside; Mochi freezes. | `The doorway disagreed.` | Visible first-2-second proof. |
+| 2.0-3.6 | Mochi backs up two small steps outside without dropping the toy. | `He would not drop it.` | Shows motive and stubbornness. |
+| 3.6-5.8 | Mochi tilts the plush diagonally while still mostly outside. | `New strategy.` | Adds problem-solving and rewatch point. |
+| 5.8-7.8 | Mochi squeezes from hallway into the room with the toy still in mouth. | `Solved?` | Payoff and relief. |
+| 7.8-9.5 | Mochi is fully inside the room and looks back toward the doorway/hallway, proud and calm. | `Round 2 tomorrow?` | Loopable ending and series cue. |
 
 Target duration: 9-10 seconds. Do not stretch the workaround if the diagonal move is already clear.
 
 ## Filming And Edit Notes
 
 - Format: vertical 9:16, UGC-style phone footage.
-- Camera: low, stable hallway angle, close enough to read toy-doorway scale and dog identity.
+- Camera: low, stable inside-room angle looking toward the hallway doorway, close enough to read toy-doorway scale and dog identity.
 - Location: narrow white interior doorway, light oak floor, sage mat nearby, warm apartment light.
 - Editing: simple straight cuts or near-single-shot continuity. Avoid heavy transitions.
 - Rhythm: the doorway hit must happen before second 2; the diagonal workaround should be the only middle complication.
@@ -115,7 +117,7 @@ Use this only as a test plan, not a prediction claim.
 
 - Human/Codex planning review may accept, reject, or tighten this plan.
 - `cg-static-image` must not start until the human/Codex accepts the plan and explicitly loads `subject_identity_bible.md`.
-- Any future static work must start with a Frame 01 approval showing Mochi, the plush baguette held horizontally, and both toy ends close to or touching the doorway trim.
+- Any future static work must start with a Frame 01 approval showing Mochi outside/on the hallway side, the whole plush baguette outside and held horizontally, with both toy ends close to the doorway trim but not yet inside the room.
 - `cg-motion` must not start from this file alone. It needs an accepted plan, approved visual reference, and repeated identity anchors per shot.
 - No final video prompt, motion prompt, static image prompt, storyboard gallery, generated frame, or generated video is created by this plan.
 - No durable memory update is proposed from this concept plan.

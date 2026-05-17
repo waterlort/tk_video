@@ -61,6 +61,7 @@
 - Multi-panel storyboards must now pass action logic before visual style polish.
 - Doorway/object-obstacle gags require six states: approach before contact, collision/contact, failed attempt/reset, strategy change, crossing, aftermath/lookback.
 - Repeated pose or missing first-proof frame is a blocking failure, even if the character identity looks good.
+- User clarified the key direction rule: Mochi starts outside/on the hallway side and wants to enter the room, so the toy must start outside with Mochi and cannot already be inside the room.
 
 ---
 

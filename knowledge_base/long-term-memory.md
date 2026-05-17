@@ -11,6 +11,7 @@
 - First manual storyboard generation attempt failed logic even though identity was mostly stable: panels repeated the same front-facing dog pose and did not clearly show approach -> collision -> reset -> diagonal strategy -> crossing -> aftermath.
 - Updated `cg-static-image` instructions with a required storyboard logic gate and Mochi-specific six-state grammar before regeneration.
 - Added `creative_outputs/pet_corgi_baguette_doorway/storyboard_logic_contract.md` as the local source of truth for future storyboard regeneration.
+- Direction correction from user: Mochi starts outside/on the hallway side and wants to enter the room. The plush baguette must start outside with Mochi and must not already appear inside the room before the doorway collision.
 
 ---
 

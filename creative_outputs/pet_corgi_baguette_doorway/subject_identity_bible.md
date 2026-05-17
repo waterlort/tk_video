@@ -33,6 +33,15 @@
 - Warm natural apartment light
 - No visible logos, unsafe clutter, stairs, wires, food bowls, or product packaging
 
+## Direction And Space Contract
+
+- Starting side: outside / hallway side.
+- Destination side: inside / room side.
+- Mochi begins outside the room, in the hallway, carrying the plush baguette horizontally.
+- The whole plush baguette must begin outside with Mochi. It must not already be inside the room in the first frame.
+- After the diagonal strategy, Mochi crosses from hallway into the room.
+- The final payoff frame shows Mochi fully inside the room, looking back toward the doorway/hallway.
+
 ## Continuity Rules
 
 - Mochi must stay the same dog in every frame and motion shot.
@@ -47,9 +56,9 @@
 
 Before generating a sequence, approve a first frame showing:
 
-- Mochi centered or entering from room side;
-- plush baguette held horizontally in mouth;
-- both toy ends close to or touching the doorway trim;
+- Mochi outside/on the hallway side, approaching the room;
+- plush baguette held horizontally in mouth and fully outside the room;
+- both toy ends close to the doorway trim but not yet inside the room;
 - aqua collar visible;
 - clear white blaze and ear asymmetry.
 
@@ -64,6 +73,8 @@ Reject generated output if:
 - white blaze, ear asymmetry, or coat pattern changes;
 - the toy becomes real bread, a stick, a bone, or a branded product;
 - the toy changes length enough that the doorway obstacle disappears;
+- the toy starts already inside the room;
+- the action direction flips from room-to-hallway instead of hallway-to-room;
 - the dog appears trapped, frightened, injured, dragged, or forced by a human;
 - the setting changes to a store, outdoor scene, kennel, or unsafe cluttered room;
 - text overlays cover the physical doorway hit.

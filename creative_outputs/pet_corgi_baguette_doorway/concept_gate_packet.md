@@ -24,6 +24,8 @@ This packet is a constrained creative hypothesis. It uses the current knowledge 
 
 Mochi, a small corgi mix, insists on carrying an oversized plush baguette toy through a narrow doorway. The toy is too wide, so both ends hit the doorframe in the first 2 seconds. Mochi refuses to drop it, backs up, tilts it diagonally, squeezes through, and looks back like the doorway was the problem.
 
+Direction lock: Mochi starts outside on the hallway side and wants to enter the room. The plush baguette starts fully outside with Mochi and must not appear already inside the room before the collision.
+
 ## Gate Summary
 
 | Gate field | Decision |
@@ -31,7 +33,7 @@ Mochi, a small corgi mix, insists on carrying an oversized plush baguette toy th
 | Viewer job | Laugh/share first; identify/tag second. |
 | Primary pet mechanism | `stubborn_sassy` with `body-task mismatch` as the visible proof. |
 | Cold-viewer promise | A small dog wants to bring one huge toy through a doorway and the doorway immediately says no. |
-| First 2 seconds | Mochi enters with the plush baguette held sideways; both toy ends hit the doorframe with a soft thump. |
+| First 2 seconds | Mochi approaches from outside/the hallway with the plush baguette held sideways and fully outside; both toy ends hit the doorframe with a soft thump before the toy enters the room. |
 | Hook type | Visible physical mismatch / immediate obstacle. |
 | Script structure | Viewer assumption -> visible pet action -> credible motive -> physical consequence/payoff. |
 | Information density | Low: one pet, one prop, one doorway, one obstacle, one payoff. |
@@ -58,12 +60,12 @@ Reject any output where Mochi becomes a different dog, the plush toy becomes rea
 
 | Time | Shot | Overlay | New information |
 | --- | --- | --- | --- |
-| 0.0-1.2 | Low phone shot from hallway. Mochi approaches with long plush baguette held sideways. | `Mochi found the big toy.` | One pet, one prop, clear scale. |
-| 1.2-2.0 | Both toy ends hit the doorway. Mochi pauses, still holding it. | `The doorway disagreed.` | First-2-second proof and physical consequence. |
-| 2.0-3.8 | Mochi backs up two small steps, refuses to drop the toy. | `He would not drop it.` | Credible motive: toy possession/stubbornness. |
-| 3.8-6.4 | Mochi tilts the toy diagonally and shuffles forward. | `New strategy.` | Simple problem-solving without making the pet look foolish. |
-| 6.4-8.4 | Mochi squeezes through, toy still in mouth, tail wiggle. | `Solved?` | Payoff and relief. |
-| 8.4-10.0 | Mochi looks back from hallway, toy proud in mouth. | `Round 2 tomorrow?` | Series/comment prompt. |
+| 0.0-1.2 | Low phone shot from inside the room looking toward the hallway. Mochi approaches from outside with the long plush baguette held sideways and fully outside the room. | `Mochi found the big toy.` | One pet, one prop, clear scale, clear direction. |
+| 1.2-2.0 | Both toy ends hit the doorway from the outside. Mochi pauses, still holding it. | `The doorway disagreed.` | First-2-second proof and physical consequence. |
+| 2.0-3.8 | Mochi backs up two small steps outside, refuses to drop the toy. | `He would not drop it.` | Credible motive: toy possession/stubbornness. |
+| 3.8-6.4 | Mochi tilts the toy diagonally while still mostly outside and shuffles forward. | `New strategy.` | Simple problem-solving without making the pet look foolish. |
+| 6.4-8.4 | Mochi squeezes from hallway into the room, toy still in mouth, tail wiggle. | `Solved?` | Payoff and relief. |
+| 8.4-10.0 | Mochi is fully inside the room and looks back toward the doorway, toy proud in mouth. | `Round 2 tomorrow?` | Series/comment prompt. |
 
 ## Audio And Text
 

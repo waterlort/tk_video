@@ -72,13 +72,15 @@ If the final panel does not show the consequence/payoff after the obstacle, the 
 
 For `creative_outputs/pet_corgi_baguette_doorway/`:
 
-- Panel 1 must show Mochi approaching from the room side with the plush baguette held horizontally, not already solved.
-- Panel 2 must show both plush-baguette ends visibly touching or compressing against the doorway trim.
-- Panel 3 must show a failed/reset state: Mochi has backed up or shifted paws, still holding the toy horizontally.
+- Direction is fixed: Mochi starts outside on the hallway side and wants to enter the room. The plush baguette starts outside with Mochi, not already inside.
+- Panel 1 must show Mochi approaching from the outside/hallway side with the entire plush baguette outside, held horizontally, not already solved.
+- Panel 2 must show both plush-baguette ends visibly touching or compressing against the doorway trim from the outside side.
+- Panel 3 must show a failed/reset state: Mochi has backed up or shifted paws outside the doorway, still holding the toy horizontally.
 - Panel 4 must show a diagonal toy angle as the new strategy.
-- Panel 5 must show threshold crossing, with Mochi partly through the doorway and the toy clearing the trim.
-- Panel 6 must show Mochi fully through on the hallway side, looking back with the toy still in mouth.
+- Panel 5 must show threshold crossing from hallway into room, with Mochi partly through the doorway and the toy clearing the trim.
+- Panel 6 must show Mochi fully inside the room, looking back toward the doorway/hallway with the toy still in mouth.
 - Reject sheets where panels 1-3 are visually the same front-facing dog with no true collision/reset sequence.
+- Reject sheets where the toy begins already inside the room or where the action direction flips.
 
 ## Prompt Output Requirements
 
