@@ -2,6 +2,40 @@
 
 ## Step Identity
 
+- Issue: `ULT-299` / `1c4aff41-f485-4f74-927e-67e33ef59c8b`
+- Node type: overall judge review
+- Owner: `tk-viral-judge`
+- Time: 2026-05-17 Asia/Shanghai
+
+## Condensed Local Context
+
+- Reviewed the current `tk_video` project as a process and knowledge system, not a blind prediction score.
+- Inputs included the project brief, KB design, object map, taxonomy, changelog, root memory, cross-vertical 2026-05-16 artifacts, and two pet creative final packages.
+
+## Key Decisions
+
+- Conditional go for the next concept brief only.
+- Not ready for durable virality claims, prediction scoring, conversion claims, or final viral-test production.
+- Cross-vertical mechanics are useful for ideation gates, not durable performance claims.
+- Pet creative workflow improved after identity-lock guardrails, but final motion/video still requires identity and mechanism-proof review.
+- No durable claims were promoted.
+
+## Outputs For Diagnosis
+
+- Evaluation: `evaluation/eval_2026_05_17_overall_review_ult299.md`
+- Short memory: `evaluation/eval_2026_05_17_overall_review_ult299_short-term-memory.md`
+- Long memory: `evaluation/eval_2026_05_17_overall_review_ult299_long-term-memory.md`
+
+## Open Threads
+
+- Produce one gated next concept packet before cg-static-image or cg-motion work.
+- Manually verify cross-vertical and pet cases before classifier confidence.
+- Complete a mixed-outcome blind sample set before explainer prediction scoring.
+
+---
+
+## Step Identity
+
 - Issue: local continuation / user feedback pet idea quality axes
 - Node type: feedback ingestion, contrast-focused trend search, case packet
 - Owner: Codex

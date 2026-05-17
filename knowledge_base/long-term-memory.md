@@ -1,5 +1,17 @@
 # long-term-memory.md
 
+## 2026-05-17 overall judge review
+
+- Evaluation: `evaluation/eval_2026_05_17_overall_review_ult299.md`
+- Verdict: the project is conditionally ready to generate the next concept brief as a constrained hypothesis, but not ready for blind prediction scoring, durable virality claims, conversion claims, or final viral-test production.
+- What is strong: layered KB/workflow architecture, anti-leakage design, cross-vertical concept gates, pet specialness gates, identity-lock learning, and restraint against premature modifier updates.
+- What is weak: manual playback coverage, mixed-outcome samples, cold controls, creator/source baselines, verified comments/audio/shot order/duration, and final motion/video production QA.
+- Stable rule: public tag/discover rows are scout candidates only. Do not use them as category evidence until manually verified.
+- Stable next step: create one concept gate packet with one viewer job, one mechanism, first-2-second visible proof, fixed subject identity, shot sequence, audio role, risk review, and metric hypothesis.
+- No durable claims were promoted from this review.
+
+---
+
 ## 2026-05-16 cross-vertical mechanics scout
 
 - Six public-search rounds were added across story/entertainment, utility/AI/money, commerce/home/beauty, food/fitness/lifestyle, opinion/reaction/social-role, and representative duration-probe terms.

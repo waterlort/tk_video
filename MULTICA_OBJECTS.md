@@ -56,6 +56,8 @@
   - Pet demo 02 husky complaint identity review from cg-reviewer.
 - ULT-145: `0bbe28dd-b40f-4c06-9e76-e6cecd52ef3a`
   - Judge gate for 2026-05-13 pet extreme-mechanics knowledge-base update.
+- ULT-299: `1c4aff41-f485-4f74-927e-67e33ef59c8b`
+  - GPT-5.5 overall judge review for the tk_video knowledge base and creative workflow.
 
 ## Skills
 
@@ -112,3 +114,8 @@
 - Pet idea quality axes: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/pet_idea_quality_axes_2026-05-13.md`
 - Pet contrast-axes trend radar: `/Users/airlort/Documents/tk_video/knowledge_base/trends/us_pet_contrast_axes_2026-05-13.md`
 - Pet contrast-axes case packet: `/Users/airlort/Documents/tk_video/knowledge_base/case_library/2026-05-13_us_pet_contrast_axes_case_packet.md`
+- Cross-vertical mechanics radar: `/Users/airlort/Documents/tk_video/knowledge_base/trends/cross_vertical_mechanics_radar_2026-05-16.md`
+- Cross-vertical mechanics case packet: `/Users/airlort/Documents/tk_video/knowledge_base/case_library/2026-05-16_cross_vertical_mechanics_case_packet.md`
+- Short-video viral mechanics foundation: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/short_video_viral_mechanics_foundation_2026-05-16.md`
+- Cross-vertical proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-16_cross_vertical.md`
+- ULT-299 overall judge review: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_17_overall_review_ult299.md`
