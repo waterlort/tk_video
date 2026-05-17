@@ -58,6 +58,8 @@
   - Judge gate for 2026-05-13 pet extreme-mechanics knowledge-base update.
 - ULT-299: `1c4aff41-f485-4f74-927e-67e33ef59c8b`
   - GPT-5.5 overall judge review for the tk_video knowledge base and creative workflow.
+- ULT-301: `a74f79c2-9669-4475-86d3-0eeafb060371`
+  - TK Content Explainer creative plan from the Mochi doorway concept gate.
 
 ## Skills
 
@@ -119,3 +121,6 @@
 - Short-video viral mechanics foundation: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/short_video_viral_mechanics_foundation_2026-05-16.md`
 - Cross-vertical proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-16_cross_vertical.md`
 - ULT-299 overall judge review: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_17_overall_review_ult299.md`
+- Pet corgi baguette doorway concept gate: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/concept_gate_packet.md`
+- Pet corgi baguette doorway subject bible: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/subject_identity_bible.md`
+- Pet corgi baguette doorway creative plan: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/creative_plan.md`

@@ -1,5 +1,16 @@
 # long-term-memory.md
 
+## 2026-05-17 next concept gate
+
+- Created `creative_outputs/pet_corgi_baguette_doorway/concept_gate_packet.md` as the first post-ULT-299 gated concept.
+- Concept: `Mochi refused to drop the hallway baguette`.
+- Gate result: pass for `tk-content-explainer` creative-plan handoff only; not ready for final static storyboard, motion generation, publish, durable claim, or prediction score.
+- Stable constraints: one viewer job, one prop, one doorway obstacle, first-2-second visible proof, fixed dog identity, source-audio-first plan, animal-respect risk gate, and metric hypothesis.
+- Subject identity bible: `creative_outputs/pet_corgi_baguette_doorway/subject_identity_bible.md`.
+- ULT-301 added `creative_outputs/pet_corgi_baguette_doorway/creative_plan.md` and kept it planning-only: no static prompts, motion prompts, final video prompts, generated media, durable claims, or prediction score.
+
+---
+
 ## 2026-05-17 overall judge review
 
 - Evaluation: `evaluation/eval_2026_05_17_overall_review_ult299.md`

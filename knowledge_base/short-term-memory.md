@@ -2,6 +2,44 @@
 
 ## Step Identity
 
+- Issue: local continuation / next concept gate after ULT-299
+- Node type: concept gate packet
+- Owner: Codex
+- Time: 2026-05-17 Asia/Shanghai
+
+## Condensed Local Context
+
+- User approved the ULT-299 recommendation to create one tightly gated next concept packet before static/motion generation.
+- The selected direction stays in the pet vertical because the project has the most developed pet gates, identity-lock protocol, and prior creative workflow there.
+
+## Work Trace
+
+- Read pet idea quality axes, pet specialness gate, short-video viral mechanics foundation, and relevant scout case anchors.
+- Created `creative_outputs/pet_corgi_baguette_doorway/concept_gate_packet.md`.
+- Created `creative_outputs/pet_corgi_baguette_doorway/subject_identity_bible.md`.
+- Created Multica issue `ULT-301` for `tk-content-explainer`.
+- `tk-content-explainer` added `creative_outputs/pet_corgi_baguette_doorway/creative_plan.md` and moved `ULT-301` to `in_review`.
+- Updated root long-term memory and changelog.
+
+## Key Decisions
+
+- Concept: `Mochi refused to drop the hallway baguette`.
+- Viewer job: laugh/share first; identify/tag second.
+- Mechanism: `stubborn_sassy` plus visible body-task mismatch.
+- First 2 seconds: small corgi mix carries an oversized plush baguette sideways and both ends hit the doorway.
+- Status: pass for `tk-content-explainer` handoff only; not a final production or prediction artifact.
+- Creative plan status: ready for human/Codex planning review only; still blocked from `cg-static-image` and `cg-motion` until accepted.
+
+## Open Threads
+
+- Review the `tk-content-explainer` creative plan before static or motion work.
+- Do not hand to `cg-static-image` or `cg-motion` until the plan is accepted and Frame 01 reference workflow is explicit.
+- Require static/motion reviewer pass before any publish-ready claim.
+
+---
+
+## Step Identity
+
 - Issue: `ULT-299` / `1c4aff41-f485-4f74-927e-67e33ef59c8b`
 - Node type: overall judge review
 - Owner: `tk-viral-judge`
