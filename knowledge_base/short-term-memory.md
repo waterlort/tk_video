@@ -2,6 +2,75 @@
 
 ## Step Identity
 
+- Issue: weekly automation / creator persona cycle synthesis
+- Node type: cross-agent synthesis / operating-plan gate
+- Owner: Codex automation using Multica workflow
+- Time: 2026-05-18 Asia/Shanghai
+
+## Condensed Local Context
+
+- The same-day creator-persona cycle already had ULT-313 radar/case/plan artifacts, ULT-315 classifier guardrails, ULT-316 judge audit, ULT-317 public-page visual verification, and ULT-318 modifier guardrail indexing in the workspace.
+- No prior automation memory file existed at `$CODEX_HOME/automations/weekly-us-creator-persona-research/memory.md`.
+
+## Work Trace
+
+- Re-read project brief, KB design, Multica object map, KB README, root long-term memory, changelog, existing creator-persona artifacts, and ULT-317 verification packet.
+- Checked Multica CLI availability. `multica issue get ULT-317` and `ULT-314` failed because the restricted shell could not resolve `api.multica.ai`; no remote issue status/comment update was completed.
+- Added `playbooks/weekly_us_creator_persona_cycle_2026-05-18.md` to synthesize public creator/platform sources, platform-specific observations, TikTok adaptation logic, faceless operating plan, measurement hypotheses, next test batch, and anti-overfit boundaries.
+- Updated root long-term memory and changelog with the weekly-cycle synthesis.
+
+## Key Decisions
+
+- Existing Multica routing is sufficient for this cycle: `ULT-313` case-librarian radar, `ULT-314` explainer formulas, `ULT-315` classifier, `ULT-316` judge, `ULT-317` manual public-page verification, and `ULT-318` modifier guardrail.
+- ULT-317 raises evidence from scout-only to public-page visually checked for selected fields only; it does not unlock durable performance, conversion, or product-fit claims.
+- The recommended next action remains a 12-video exploratory faceless batch with script risk review and T+24h/T+72h/T+7d observation windows.
+
+## Open Threads
+
+- Need comment-text capture and originality/repost checks for selected creator rows before any case-confidence upgrade.
+- Need tk-content-explainer locked scripts for the 12-video batch, with policy notes attached to every pet and auto script.
+- Need classifier review if any candidate claim is narrowed after ULT-317 visual verification.
+
+---
+
+## Step Identity
+
+- Issue: `ULT-318` / `3b577d4a-94b4-42d1-84c1-d0f008c18330`
+- Node type: modifier guardrail indexing / creator-persona evidence routing
+- Owner: `tk-knowledge-modifier`
+- Time: 2026-05-18 Asia/Shanghai
+
+## Condensed Local Context
+
+- ULT-315 accepted only creator-persona process guardrails from ULT-313 candidate claims `004`, `005`, and `006`.
+- ULT-317 manual verification has no completed output yet, so verified case backlinks remain blocked.
+
+## Key Decisions
+
+- Indexed cross-platform follower/ranking inputs as radar only; they are not TikTok-native evidence without current manually verified video-level proof.
+- Indexed auto accessory fitment/safety/repair/road-use/compatibility claims as requiring higher compliance and script review than ordinary home gadgets.
+- Indexed public TikTok tag/discover/search routes as scout discovery only until manual visual/category verification; high-score off-topic rows should be preserved as route-noise controls.
+- Merged the ULT-313 public-search guardrail with `candidate_claim_cross_vertical_2026_05_16_006`.
+- Did not promote candidate claims `001`, `002`, or `003`; no persona, hook-performance, conversion, TikTok Shop, follower-growth, product-category, or cross-platform transfer claim was promoted.
+
+## Outputs For Diagnosis
+
+- Guardrail index: `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`
+- Modifier report: `modifier_reports/2026-05-18_ult318_creator_persona_process_guardrails.md`
+- Annotated proposal files:
+  - `relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
+  - `relations/proposed_claims_2026-05-16_cross_vertical.md`
+
+## Open Threads
+
+- Wait for ULT-317 manual verification before adding verified case-packet backlinks.
+- Keep ULT-313 video rows at scout/case-intake status until first-3-second notes, shot sequence, audio role, comments, originality, category fit, metrics, and risks are manually captured.
+- Any future persona, hook, category, conversion, or performance upgrade still needs mixed-outcome controls and classifier acceptance.
+
+---
+
+## Step Identity
+
 - Issue: `ULT-316` / `64d73501-7ae4-45af-bf07-685fc20a4692`
 - Node type: judge audit / creator-persona evidence and test-batch readiness
 - Owner: `tk-viral-judge`

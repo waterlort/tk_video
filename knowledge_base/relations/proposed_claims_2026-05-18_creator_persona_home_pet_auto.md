@@ -90,6 +90,11 @@ Last reviewed: 2026-05-18.
 
 Next validation test: For 10 ranked Instagram/Facebook creators, manually sample recent TikTok/Reels/Shorts and compare first-3-second mechanics and public engagement proxies.
 
+Classifier / modifier status:
+- `ULT-315` accepted this as a process guardrail, not as a cross-platform transfer or performance claim.
+- `ULT-318` indexed the accepted guardrail in `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`.
+- Boundary: follower size, secondary rankings, and non-TikTok profile metrics remain radar inputs only until current video-level evidence is manually verified.
+
 ## candidate_claim_creator_persona_2026_05_18_005
 
 Claim: Auto accessory content needs a higher compliance gate than home gadgets because fitment, safety, repair, and road-use claims can mislead.
@@ -112,6 +117,11 @@ Last reviewed: 2026-05-18.
 
 Next validation test: Have Policy And Brand Safety Reviewer review all auto test scripts before filming; track comment objections and policy flags.
 
+Classifier / modifier status:
+- `ULT-315` accepted this as a compliance/process guardrail, not as an auto performance or low-risk category claim.
+- `ULT-318` indexed the accepted guardrail in `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`.
+- Boundary: decorative/storage/cleaning-only auto content may be lower risk only when it makes no fitment, safety, repair, vehicle-operation, road-use, compatibility, or driver-behavior claim.
+
 ## candidate_claim_creator_persona_2026_05_18_006
 
 Claim: Public TikTok tag/discover routes are especially noisy for home and auto categories and must preserve high-score off-topic rows as search-noise controls.
@@ -133,3 +143,8 @@ Confidence: high as process claim.
 Last reviewed: 2026-05-18.
 
 Next validation test: Add a manual verification field and require first-frame/first-3-second note before any row supports a category claim.
+
+Classifier / modifier status:
+- `ULT-315` accepted this as a process guardrail and recommended merging it with `candidate_claim_cross_vertical_2026_05_16_006`.
+- `ULT-318` indexed the merged guardrail in `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`.
+- Boundary: public-search route rows are discovery candidates only until manually watched and category-confirmed; high-score off-topic rows should remain negative controls.

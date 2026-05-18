@@ -1,5 +1,32 @@
 # long-term-memory.md
 
+## 2026-05-18 weekly US creator persona cycle synthesis
+
+- Automation: Weekly US Creator Persona Research.
+- Cycle synthesis: `playbooks/weekly_us_creator_persona_cycle_2026-05-18.md`.
+- Multica routing used existing issues: `ULT-313` case-librarian radar, `ULT-314` explainer script conversion, `ULT-315` classifier review, `ULT-316` judge audit, `ULT-317` manual public-page verification, and `ULT-318` modifier guardrail indexing.
+- Remote Multica update status: CLI issue reads failed because the restricted shell could not resolve `api.multica.ai`, so no remote issue comment/status mutation was completed in this run.
+- Evidence level after ULT-317: 18 selected TikTok rows are public-page visually checked for category/noise status, opening frame, approximate first-3-second state, visible public metrics, and screenshot assets; comments, exact source-video playback, originality, retention, follower gain, profile visits, and conversion remain missing.
+- Current operating direction: run a 12-video exploratory faceless batch only after script risk review and locked observation windows; start with product test bench / quality scout / small-space fixer, keep pet bench-only unless ethical owned/licensed footage exists, and restrict auto to low-risk interior/cleaning/accessory demos.
+- Durable guardrail remains unchanged: do not promote creator rankings, public-search metrics, ULT-317 screenshots, or test-batch outcomes into performance/conversion claims until classifier scope review and mixed-outcome evidence exist.
+
+---
+
+## 2026-05-18 creator persona process guardrails
+
+- Issue: `ULT-318`
+- Guardrail index: `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`
+- Modifier report: `modifier_reports/2026-05-18_ult318_creator_persona_process_guardrails.md`
+- Accepted proposal: ULT-315 classifier accepted only process guardrails from ULT-313 candidate claims `004`, `005`, and `006`.
+- Durable process guardrail: cross-platform follower size, secondary rankings, and non-TikTok profile metrics are persona radar only until current manually verified video-level proof exists.
+- Durable process/compliance guardrail: auto accessory, car care, and auto-parts scripts need higher review when they imply fitment, safety, repair, vehicle operation, road use, compatibility, electrical, tire, brake, engine, steering, suspension, or driver-behavior claims.
+- Durable process guardrail: public TikTok tag/discover/search rows are scout discovery inputs, not category evidence, until manually watched and category-confirmed; high-score off-topic rows should be preserved as route-noise controls.
+- Merge note: the ULT-313 public-search route-noise guardrail was merged with `candidate_claim_cross_vertical_2026_05_16_006`.
+- No durable virality, conversion, TikTok Shop, follower-growth, persona-superiority, product-category, or cross-platform transfer claim was promoted.
+- ULT-317 manual verification has no completed output yet, so verified case backlinks remain pending.
+
+---
+
 ## 2026-05-18 creator persona judge audit
 
 - Issue: `ULT-316`

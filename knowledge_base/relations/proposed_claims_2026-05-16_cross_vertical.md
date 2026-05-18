@@ -110,3 +110,7 @@ Confidence: high as a process claim.
 
 Next validation test: Add a manual verification field and require at least one first-frame note before case promotion.
 
+Classifier / modifier status:
+- `ULT-315` accepted the ULT-313 creator-persona instance of this rule and recommended merging `candidate_claim_creator_persona_2026_05_18_006` here.
+- `ULT-318` indexed the merged process guardrail in `relations/reviewed_process_guardrails_2026-05-18_creator_persona.md`.
+- Boundary: this remains a process/evidence-routing guardrail only; it is not a category, hook, performance, or conversion claim.

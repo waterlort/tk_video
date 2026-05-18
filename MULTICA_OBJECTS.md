@@ -141,5 +141,6 @@
 - Creator persona radar: `/Users/airlort/Documents/tk_video/knowledge_base/trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`
 - Creator persona case packet: `/Users/airlort/Documents/tk_video/knowledge_base/case_library/2026-05-18_us_creator_persona_case_packet_home_pet_auto.md`
 - Faceless cross-border creator operating plan: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/faceless_crossborder_creator_operating_plan_2026-05-18.md`
+- Weekly US creator persona cycle synthesis: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/weekly_us_creator_persona_cycle_2026-05-18.md`
 - Creator persona proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
 - Creator persona judge audit: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`
