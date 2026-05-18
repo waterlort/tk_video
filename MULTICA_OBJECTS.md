@@ -60,6 +60,18 @@
   - GPT-5.5 overall judge review for the tk_video knowledge base and creative workflow.
 - ULT-301: `a74f79c2-9669-4475-86d3-0eeafb060371`
   - TK Content Explainer creative plan from the Mochi doorway concept gate.
+- ULT-313: `a434a512-3fe4-4bea-817d-cdd4df3fbefe`
+  - Immediate US creator persona research batch for home/living, pet, and auto categories.
+- ULT-314: `ac6ca436-477b-43a6-8603-441a5df6def1`
+  - Convert ULT-313 creator persona radar into faceless TikTok script formulas.
+- ULT-315: `6b0fe90d-c80a-4f9e-aec6-9a7911fd0a7f`
+  - Classifier review for ULT-313 creator persona proposed claims.
+- ULT-316: `64d73501-7ae4-45af-bf07-685fc20a4692`
+  - Judge audit for ULT-313 creator persona evidence and test-batch readiness.
+- ULT-317: `71dcd84d-4c49-4bef-b406-5bb4f946d58a`
+  - Case-librarian manual verification for ULT-313 creator persona rows.
+- ULT-318: `3b577d4a-94b4-42d1-84c1-d0f008c18330`
+  - Modifier guardrail for ULT-313 creator persona claims after classifier/manual verification.
 
 ## Skills
 
@@ -126,3 +138,8 @@
 - Pet corgi baguette doorway subject bible: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/subject_identity_bible.md`
 - Pet corgi baguette doorway creative plan: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/creative_plan.md`
 - Pet corgi baguette doorway storyboard logic contract: `/Users/airlort/Documents/tk_video/creative_outputs/pet_corgi_baguette_doorway/storyboard_logic_contract.md`
+- Creator persona radar: `/Users/airlort/Documents/tk_video/knowledge_base/trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`
+- Creator persona case packet: `/Users/airlort/Documents/tk_video/knowledge_base/case_library/2026-05-18_us_creator_persona_case_packet_home_pet_auto.md`
+- Faceless cross-border creator operating plan: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/faceless_crossborder_creator_operating_plan_2026-05-18.md`
+- Creator persona proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
+- Creator persona judge audit: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`

@@ -2,6 +2,42 @@
 
 ## Step Identity
 
+- Issue: `ULT-316` / `64d73501-7ae4-45af-bf07-685fc20a4692`
+- Node type: judge audit / creator-persona evidence and test-batch readiness
+- Owner: `tk-viral-judge`
+- Time: 2026-05-18 Asia/Shanghai
+
+## Condensed Local Context
+
+- Audited the ULT-313 creator-persona research batch for evidence quality, overfit risk, cross-platform transfer risk, and readiness for a first 12-video faceless creator test batch.
+- This was not a blind prediction score because public outcome metrics were visible in scout rows and secondary ranking inputs.
+
+## Key Decisions
+
+- Evidence-quality score: 0.56 / 1.00.
+- Verdict: conditional go for a 12-video exploratory faceless learning batch after manual verification and script risk review.
+- No-go for prediction scoring, calibration, hot-video recall, durable relation claims, conversion claims, or modifier promotion.
+- Home is the strongest low-compliance first category.
+- Pet requires ethical owned/licensed footage or bench-only demos; AI pet-story rows must remain separate.
+- Auto requires narrow low-risk accessory boundaries and fitment/safety review.
+
+## Outputs For Diagnosis
+
+- Evaluation: `evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`
+- Short memory: `evaluation/eval_2026_05_18_creator_persona_readiness_ult316_short-term-memory.md`
+- Long memory: `evaluation/eval_2026_05_18_creator_persona_readiness_ult316_long-term-memory.md`
+
+## Open Threads
+
+- Run an 18-row manual verification pass before classifier confidence or modifier promotion.
+- Route candidate claims `001`-`006` to TK Knowledge Classifier.
+- Lock script, persona, risk note, metric hypothesis, and observation windows before publishing the 12-video learning batch.
+- Current Multica routing: `ULT-314` explainer, `ULT-315` classifier, `ULT-316` judge, `ULT-317` case-librarian manual verification, `ULT-318` modifier guardrail after evidence/classifier acceptance.
+
+---
+
+## Step Identity
+
 - Issue: `ULT-313` / `a434a512-3fe4-4bea-817d-cdd4df3fbefe`
 - Node type: immediate US creator persona research batch
 - Owner: `tk-case-librarian`

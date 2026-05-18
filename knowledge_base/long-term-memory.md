@@ -1,5 +1,20 @@
 # long-term-memory.md
 
+## 2026-05-18 creator persona judge audit
+
+- Issue: `ULT-316`
+- Evaluation: `evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`
+- Audited the ULT-313 creator-persona research batch as a setup/readiness review, not a blind prediction score.
+- Evidence-quality score: 0.56 / 1.00.
+- Verdict: conditional go for a 12-video exploratory faceless creator learning batch after manual verification and script risk review; no-go for prediction scoring, durable relation claims, conversion claims, or modifier promotion.
+- Stable process lesson: public TikTok tag/discover rows and cross-platform creator rankings are scout inputs only until manually verified at video level with mixed-outcome controls.
+- Category readiness: home is strongest for low-compliance hands-only product proof; pet requires ethical real footage or bench-only demos and separation from AI/story rows; auto requires low-risk product boundaries plus fitment/safety/repair review.
+- Next useful work: 18-row manual verification pass, classifier review of candidate claims, then locked scripts/metrics/observation windows for the 12-video batch.
+- Follow-up routing: `ULT-314` owns script/formula conversion, `ULT-315` owns classifier review, `ULT-317` owns manual verification, and `ULT-318` owns any later modifier guardrail indexing after classifier/manual evidence.
+- No durable taxonomy, relation, prediction, or conversion claims were promoted.
+
+---
+
 ## 2026-05-18 US creator persona research batch
 
 - Issue: `ULT-313`
