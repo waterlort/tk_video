@@ -1,0 +1,1519 @@
+{
+  "generatedAt": "2026-05-18T04:40:27.775Z",
+  "days": 45,
+  "terms": [
+    "homeorganization",
+    "homehacks",
+    "homegadgets",
+    "cleaningtiktok",
+    "kitchenhacks",
+    "amazonhomefinds"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "homeorganization",
+      "provider": "tag",
+      "videoId": "7637235374703512850",
+      "createdAt": "2026-05-07T19:33:48.000Z",
+      "creatorHandle": "keyyv7",
+      "videoUrl": "https://www.tiktok.com/@keyyv7/video/7637235374703512850",
+      "caption": "#paratiiiiiiiiiiiiiiiiiiiiiiii #fyp #sigueme #videoviral",
+      "durationSeconds": 12,
+      "viewCount": 28600000,
+      "likeCount": 3200000,
+      "commentCount": 6059,
+      "shareCount": 5300000,
+      "collectCount": 217800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 45503790
+    },
+    {
+      "term": "homeorganization",
+      "provider": "discover",
+      "videoId": "7628108599549496589",
+      "createdAt": "2026-04-13T05:17:15.000Z",
+      "creatorHandle": "tierneygoodnight",
+      "videoUrl": "https://www.tiktok.com/@tierneygoodnight/video/7628108599549496589",
+      "caption": "I wasn’t sure if this would work on her…the best part was her brother at the end  . . https://www.facebook.com/share/r/15mqZzQXm3j/?mibextid=wwXIfr . . https://www.instagram.com/reel/DXFnowdiZvF/?igsh=MTQ1dXQwcm9rZnVq . . https://youtube.com/shorts/QvsRn9ocBMk?si=6xUvEhwFZMtFvXja",
+      "durationSeconds": 25,
+      "viewCount": 53900000,
+      "likeCount": 9700000,
+      "commentCount": 42000,
+      "shareCount": 2700000,
+      "collectCount": 619100,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 30424400
+    },
+    {
+      "term": "homegadgets",
+      "provider": "discover",
+      "videoId": "7627326443021700382",
+      "createdAt": "2026-04-11T02:42:05.000Z",
+      "creatorHandle": "toreesecret",
+      "videoUrl": "https://www.tiktok.com/@toreesecret/video/7627326443021700382",
+      "caption": "ik there’s others out there like me",
+      "durationSeconds": 8,
+      "viewCount": 36200000,
+      "likeCount": 6700000,
+      "commentCount": 21200,
+      "shareCount": 107600,
+      "collectCount": 283800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6282000
+    },
+    {
+      "term": "homehacks",
+      "provider": "discover",
+      "videoId": "7637292701276294420",
+      "createdAt": "2026-05-07T23:16:15.000Z",
+      "creatorHandle": "goose_goldenboy",
+      "videoUrl": "https://www.tiktok.com/@goose_goldenboy/video/7637292701276294420",
+      "caption": "his first bark 🥹📣🗣️ #goldenretrieversoftiktok #goldenretriever #puppylove #puppy #bark",
+      "durationSeconds": 14,
+      "viewCount": 11000000,
+      "likeCount": 2100000,
+      "commentCount": 2241,
+      "shareCount": 248100,
+      "collectCount": 107400,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 3706810
+    },
+    {
+      "term": "homegadgets",
+      "provider": "discover",
+      "videoId": "7624687529962327326",
+      "createdAt": "2026-04-04T00:01:45.000Z",
+      "creatorHandle": "twotimevae",
+      "videoUrl": "https://www.tiktok.com/@twotimevae/video/7624687529962327326",
+      "caption": "I TRIED TO LET YOU SLIDE TWIN #bsf #summrs #yeattok #band4band #niketech",
+      "durationSeconds": 17,
+      "viewCount": 5000000,
+      "likeCount": 892000,
+      "commentCount": 2220,
+      "shareCount": 68800,
+      "collectCount": 128200,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 1631400
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "discover",
+      "videoId": "7630553659721452813",
+      "createdAt": "2026-04-19T19:25:20.000Z",
+      "creatorHandle": "lightskinbbgt",
+      "videoUrl": "https://www.tiktok.com/@lightskinbbgt/video/7630553659721452813",
+      "caption": "Us reuniting after he was out of the room for 10mins😭💗",
+      "durationSeconds": 31,
+      "viewCount": 8000000,
+      "likeCount": 1100000,
+      "commentCount": 3515,
+      "shareCount": 57700,
+      "collectCount": 53800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1421950
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7638347352486464782",
+      "createdAt": "2026-05-10T19:28:50.000Z",
+      "creatorHandle": "iankyo",
+      "videoUrl": "https://www.tiktok.com/@iankyo/video/7638347352486464782",
+      "caption": "This is what to do with your used frying oil #kitchentips #kitchenhacks #cookingtips #cookinghacks   #foodpreptiktokcontest",
+      "durationSeconds": 39,
+      "viewCount": 4900000,
+      "likeCount": 531200,
+      "commentCount": 907,
+      "shareCount": 46500,
+      "collectCount": 74400,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 1042270
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7631326114106985741",
+      "createdAt": "2026-04-21T21:22:51.000Z",
+      "creatorHandle": "brin.0",
+      "videoUrl": "https://www.tiktok.com/@brin.0/video/7631326114106985741",
+      "caption": "He’s here this time! #foryou #pregnant #teenmom #18 #relatable",
+      "durationSeconds": 8,
+      "viewCount": 6000000,
+      "likeCount": 730700,
+      "commentCount": 977,
+      "shareCount": 47300,
+      "collectCount": 20700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 956320
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7624403829584383263",
+      "createdAt": "2026-04-03T05:40:51.000Z",
+      "creatorHandle": "tattedupfacedre",
+      "videoUrl": "https://www.tiktok.com/@tattedupfacedre/video/7624403829584383263",
+      "caption": "#fyp #xyzbca",
+      "durationSeconds": 8,
+      "viewCount": 2500000,
+      "likeCount": 402400,
+      "commentCount": 2261,
+      "shareCount": 31800,
+      "collectCount": 35900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 671810
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7631670618848546061",
+      "createdAt": "2026-04-22T19:39:42.000Z",
+      "creatorHandle": "xxghostfacex_x",
+      "videoUrl": "https://www.tiktok.com/@xxghostfacex_x/video/7631670618848546061",
+      "caption": "atleast shes thinking abt manon #katseye_yoonchae #katseyemanon #fyp #katseye_gnarly #eyekons",
+      "durationSeconds": 12,
+      "viewCount": 6700000,
+      "likeCount": 568400,
+      "commentCount": 347,
+      "shareCount": 4273,
+      "collectCount": 22900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 547454
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7627227264454905101",
+      "createdAt": "2026-04-10T20:17:13.000Z",
+      "creatorHandle": "kogiversity",
+      "videoUrl": "https://www.tiktok.com/@kogiversity/video/7627227264454905101",
+      "caption": "Wearing hoodies gives you straight As I guess ???? #collegeadvice #fypシ #college #collegelife",
+      "durationSeconds": 65,
+      "viewCount": 1500000,
+      "likeCount": 185400,
+      "commentCount": 1560,
+      "shareCount": 27000,
+      "collectCount": 21200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 439100
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "discover",
+      "videoId": "7637584095454760213",
+      "createdAt": "2026-05-08T18:07:00.000Z",
+      "creatorHandle": "danch.merk",
+      "videoUrl": "https://www.tiktok.com/@danch.merk/video/7637584095454760213",
+      "caption": "Pinky up 🕺 #fyp #dance #viral #trending",
+      "durationSeconds": 21,
+      "viewCount": 2200000,
+      "likeCount": 386700,
+      "commentCount": 1087,
+      "shareCount": 6691,
+      "collectCount": 13500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 355748
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7630899745979911455",
+      "createdAt": "2026-04-20T17:48:19.000Z",
+      "creatorHandle": "jose.elcook",
+      "videoUrl": "https://www.tiktok.com/@jose.elcook/video/7630899745979911455",
+      "caption": "New* way to eat tomatoes! My life will never be the same anymore!! #tomato #kitchenhack #cookinghacks",
+      "durationSeconds": 61,
+      "viewCount": 2000000,
+      "likeCount": 190200,
+      "commentCount": 755,
+      "shareCount": 5417,
+      "collectCount": 28700,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 300786
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7636455925976419615",
+      "createdAt": "2026-05-05T17:09:08.000Z",
+      "creatorHandle": "juju.cares",
+      "videoUrl": "https://www.tiktok.com/@juju.cares/video/7636455925976419615",
+      "caption": "A Dollar Tree diy idea that is so cute for any home decoration 😍 #diy #dollartreehacks #dollartreediy #dollartreefinds #dollartree",
+      "durationSeconds": 60,
+      "viewCount": 3200000,
+      "likeCount": 89100,
+      "commentCount": 453,
+      "shareCount": 4413,
+      "collectCount": 26500,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 254384
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7635991342098844949",
+      "createdAt": "2026-05-04T11:06:19.000Z",
+      "creatorHandle": "khuvuontuoimoi",
+      "videoUrl": "https://www.tiktok.com/@khuvuontuoimoi/video/7635991342098844949",
+      "caption": "",
+      "durationSeconds": 8,
+      "viewCount": 9100000,
+      "likeCount": 29200,
+      "commentCount": 443,
+      "shareCount": 2707,
+      "collectCount": 3337,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 236034
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7639246445484313869",
+      "createdAt": "2026-05-13T05:37:46.000Z",
+      "creatorHandle": "mads4urfav",
+      "videoUrl": "https://www.tiktok.com/@mads4urfav/video/7639246445484313869",
+      "caption": "clean with me :) sorry for not posting much, i’ve been so tired and so stressed, please no judgement #fyp #viral #cleaning #relatable #cleaningtiktok",
+      "durationSeconds": 176,
+      "viewCount": 1000000,
+      "likeCount": 199000,
+      "commentCount": 3200,
+      "shareCount": 5835,
+      "collectCount": 7697,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 228968
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "discover",
+      "videoId": "7632003926576958742",
+      "createdAt": "2026-04-23T17:13:06.000Z",
+      "creatorHandle": "shef_phoenix",
+      "videoUrl": "https://www.tiktok.com/@shef_phoenix/video/7632003926576958742",
+      "caption": "The peanut butter experiment",
+      "durationSeconds": 65,
+      "viewCount": 2200000,
+      "likeCount": 218200,
+      "commentCount": 417,
+      "shareCount": 2390,
+      "collectCount": 7736,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 207334
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7626850650810256653",
+      "createdAt": "2026-04-09T19:55:46.000Z",
+      "creatorHandle": "homewithsaja",
+      "videoUrl": "https://www.tiktok.com/@homewithsaja/video/7626850650810256653",
+      "caption": "The best hack for protecting your dining table (or any table) while keeping the look sleek, neat, and without ruining your table’s aesthetic. It’s durable, really easy to clean, and I think a must when you have kids! 🔗 Click on my LTK shop in my bio for the link!🤍 #amazonhomefinds #amazonmusthave #homehack #homeideas #diningtable  @Amazon Home @Walmart @Wayfair @target",
+      "durationSeconds": 14,
+      "viewCount": 1400000,
+      "likeCount": 41500,
+      "commentCount": 109,
+      "shareCount": 11100,
+      "collectCount": 15400,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 200240
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7634732369244736789",
+      "createdAt": "2026-05-01T01:40:51.000Z",
+      "creatorHandle": "courtneymoanaa",
+      "videoUrl": "https://www.tiktok.com/@courtneymoanaa/video/7634732369244736789",
+      "caption": "Teaching her it’s ok to love both 🤍 #educational #msrachel #teamdamon #mewborn",
+      "durationSeconds": 5,
+      "viewCount": 475000,
+      "likeCount": 88900,
+      "commentCount": 229,
+      "shareCount": 14300,
+      "collectCount": 2125,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 179140
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7635334080942361874",
+      "createdAt": "2026-05-02T16:35:48.000Z",
+      "creatorHandle": "thesamfindz",
+      "videoUrl": "https://www.tiktok.com/@thesamfindz/video/7635334080942361874",
+      "caption": "Num 02 is game changer 🙌 😮 #amazon #amazonfinds #amazonmusthaves #founditonamazon #kitchen #home #gadgets #products",
+      "durationSeconds": 94,
+      "viewCount": 1200000,
+      "likeCount": 72600,
+      "commentCount": 206,
+      "shareCount": 6242,
+      "collectCount": 16700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 179096
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7628384721298361631",
+      "createdAt": "2026-04-13T23:08:44.000Z",
+      "creatorHandle": "funnyniha4g",
+      "videoUrl": "https://www.tiktok.com/@funnyniha4g/video/7628384721298361631",
+      "caption": "#BalliBotMogis #TrendingReels #TrendingReels #Foryoupage #FYP #FYP #ViralTikTok #MillionViews #TechMagic #SmartBot #AITrend #RobotVibes #Innovation",
+      "durationSeconds": 27,
+      "viewCount": 1700000,
+      "likeCount": 57800,
+      "commentCount": 179,
+      "shareCount": 9867,
+      "collectCount": 8776,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 178730
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7637344757731036446",
+      "createdAt": "2026-05-08T02:38:15.000Z",
+      "creatorHandle": "simplywithjulia",
+      "videoUrl": "https://www.tiktok.com/@simplywithjulia/video/7637344757731036446",
+      "caption": "Great addition to the beverages. Easy to dispense beverages and no spills! #amazonkitchenfavorites #amazonfinds #amazonhome #amazonhomefinds #drinkdispenser @Amazon Home @Amazon @Amazon Influencer Program",
+      "durationSeconds": 8,
+      "viewCount": 1400000,
+      "likeCount": 26300,
+      "commentCount": 216,
+      "shareCount": 11000,
+      "collectCount": 7981,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 163234
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7635343045570858254",
+      "createdAt": "2026-05-02T17:10:35.000Z",
+      "creatorHandle": "kelseykooima",
+      "videoUrl": "https://www.tiktok.com/@kelseykooima/video/7635343045570858254",
+      "caption": "It’s all from Amazon! Head to my bio for the links 😍 https://liketk.it/6b35l #amazonhome #amazonhomefinds",
+      "durationSeconds": 24,
+      "viewCount": 1700000,
+      "likeCount": 48000,
+      "commentCount": 149,
+      "shareCount": 5765,
+      "collectCount": 10700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 148410
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7635058337351994637",
+      "createdAt": "2026-05-01T22:45:47.000Z",
+      "creatorHandle": "kitchiqueofficial",
+      "videoUrl": "https://www.tiktok.com/@kitchiqueofficial/video/7635058337351994637",
+      "caption": "How a professional diner chef upgrades basic bread and eggs. 👨‍🍳🔥 #bread #eggs #Recipe #kitchen #kitchenhack",
+      "durationSeconds": 81,
+      "viewCount": 662100,
+      "likeCount": 14700,
+      "commentCount": 132,
+      "shareCount": 10700,
+      "collectCount": 9531,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 145636
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7633853726683319583",
+      "createdAt": "2026-04-28T16:51:16.000Z",
+      "creatorHandle": "alyssasheill",
+      "videoUrl": "https://www.tiktok.com/@alyssasheill/video/7633853726683319583",
+      "caption": "#amazonhomefinds #amazonhome #amazonhomedecor #amazonhomefavorites #chichome",
+      "durationSeconds": 0,
+      "viewCount": 300200,
+      "likeCount": 38900,
+      "commentCount": 52,
+      "shareCount": 1310,
+      "collectCount": 18400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 110054
+    },
+    {
+      "term": "homeorganization",
+      "provider": "discover",
+      "videoId": "7636990944541150485",
+      "createdAt": "2026-05-07T03:45:17.000Z",
+      "creatorHandle": "hiphopcustomjewle",
+      "videoUrl": "https://www.tiktok.com/@hiphopcustomjewle/video/7636990944541150485",
+      "caption": "What is your WhatsApp number? Send you clear pictures and videos 😁#diamondchain #goldchains #cubanbracelet #diamondpendant",
+      "durationSeconds": 26,
+      "viewCount": 556000,
+      "likeCount": 72400,
+      "commentCount": 700,
+      "shareCount": 4773,
+      "collectCount": 4298,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 109696
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7627547486026009886",
+      "createdAt": "2026-04-11T16:59:50.000Z",
+      "creatorHandle": "lindleykay",
+      "videoUrl": "https://www.tiktok.com/@lindleykay/video/7627547486026009886",
+      "caption": "🔗🔗 under “home decor favs” #amazonmusthaves #amazonfavorites #amazonfinds #amazonhome #amazonhomefinds",
+      "durationSeconds": 0,
+      "viewCount": 331400,
+      "likeCount": 32200,
+      "commentCount": 84,
+      "shareCount": 1397,
+      "collectCount": 17700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 105544
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7625364656525167885",
+      "createdAt": "2026-04-05T19:49:21.000Z",
+      "creatorHandle": "apieceofmyhaven",
+      "videoUrl": "https://www.tiktok.com/@apieceofmyhaven/video/7625364656525167885",
+      "caption": "Amazon zero regret aesthetic kitchen finds✨ everything is linked in my bio",
+      "durationSeconds": 59,
+      "viewCount": 454600,
+      "likeCount": 26900,
+      "commentCount": 112,
+      "shareCount": 2679,
+      "collectCount": 13700,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 99894
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640942463758208287",
+      "createdAt": "2026-05-17T19:19:11.000Z",
+      "creatorHandle": "miafaithe",
+      "videoUrl": "https://www.tiktok.com/@miafaithe/video/7640942463758208287",
+      "caption": "SUNDAY DEEP CLEAN!! 🧼🫧 #sundayreset #cleantok #cleanwithme #dailyvlog #fyp",
+      "durationSeconds": 79,
+      "viewCount": 568300,
+      "likeCount": 81500,
+      "commentCount": 244,
+      "shareCount": 1132,
+      "collectCount": 3643,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 78184
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7637490132769180935",
+      "createdAt": "2026-05-08T12:02:23.000Z",
+      "creatorHandle": "nenasantos200",
+      "videoUrl": "https://www.tiktok.com/@nenasantos200/video/7637490132769180935",
+      "caption": "",
+      "durationSeconds": 8,
+      "viewCount": 2900000,
+      "likeCount": 17200,
+      "commentCount": 325,
+      "shareCount": 429,
+      "collectCount": 881,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 76806
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7626114614010449173",
+      "createdAt": "2026-04-07T20:19:34.000Z",
+      "creatorHandle": "princessmimi_1",
+      "videoUrl": "https://www.tiktok.com/@princessmimi_1/video/7626114614010449173",
+      "caption": "Ep 2. Decorating my dream room, in this video we hit up homesense, Amazon, Walmart and SHEIN 💕 • • • • #roomtransformation #roommakeover #girlyaesthetic #pinkaesthetic #amazonhomefinds interiorinspo homedecor roominspo softgirlaesthetic targetfinds burlingtonfinds shein Amazon Walmart",
+      "durationSeconds": 50,
+      "viewCount": 213500,
+      "likeCount": 50600,
+      "commentCount": 91,
+      "shareCount": 718,
+      "collectCount": 9624,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 74720
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "discover",
+      "videoId": "7637100197155245330",
+      "createdAt": "2026-05-07T10:49:14.000Z",
+      "creatorHandle": "dustyxdavis",
+      "videoUrl": "https://www.tiktok.com/@dustyxdavis/video/7637100197155245330",
+      "caption": "",
+      "durationSeconds": 13,
+      "viewCount": 478800,
+      "likeCount": 36100,
+      "commentCount": 182,
+      "shareCount": 4773,
+      "collectCount": 987,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 71578
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640649056146050318",
+      "createdAt": "2026-05-17T00:20:37.000Z",
+      "creatorHandle": "dinora8al",
+      "videoUrl": "https://www.tiktok.com/@dinora8al/video/7640649056146050318",
+      "caption": "Deep cleaning the hallway 🫧🫧💕 #deepclean  #satisfying  #hogarlilpio #foryoupage  #tiktok",
+      "durationSeconds": 62,
+      "viewCount": 1000000,
+      "likeCount": 42500,
+      "commentCount": 750,
+      "shareCount": 834,
+      "collectCount": 686,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 58166
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7628929060306980118",
+      "createdAt": "2026-04-15T10:21:03.000Z",
+      "creatorHandle": "primeproduct.0",
+      "videoUrl": "https://www.tiktok.com/@primeproduct.0/video/7628929060306980118",
+      "caption": "14 Amazon useful Gadgets that makes your Life Easy||part61 #amazon #AmazonFinds #HomeHacks #products #amzongadget",
+      "durationSeconds": 98,
+      "viewCount": 302600,
+      "likeCount": 11600,
+      "commentCount": 71,
+      "shareCount": 1625,
+      "collectCount": 4760,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 44602
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7640550183687834902",
+      "createdAt": "2026-05-16T17:56:57.000Z",
+      "creatorHandle": "cleaningwithida",
+      "videoUrl": "https://www.tiktok.com/@cleaningwithida/video/7640550183687834902",
+      "caption": "how to deep clean your bathroom step by step 💞🧽🫧 all steps are listed below 🫶🏼 1. gather all your products and tools to a basket 2. remove towels, bath mats, shampoo bottles and other items 3. dust from top to bottom: light fixtures, vents, surfaces, shelves 4. clean the shower screen 5. wipe walls, doors and mirrors 6. scrub shower fixtures 7. clean the sink and surfaces 8. disinfect light switches, door handles and other touch points 9. clean the toilet 10. clean the floor and grout - don’t forget the shower drain too, I cleaned mine recently so didn’t include it here 11. clean and disinfect your cloths, sponges and other tools @The Pink Stuff brand ambassador #cleantok #bathroomcleaning #cleaningtips #cleaningmotivation #deepclean",
+      "durationSeconds": 62,
+      "viewCount": 319600,
+      "likeCount": 30200,
+      "commentCount": 151,
+      "shareCount": 621,
+      "collectCount": 3580,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 42290
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7640909623985212694",
+      "createdAt": "2026-05-17T17:11:45.000Z",
+      "creatorHandle": "cleaningwithida",
+      "videoUrl": "https://www.tiktok.com/@cleaningwithida/video/7640909623985212694",
+      "caption": "AD @SINI | asmr sunday cleaning reset 🎧🧺🌸🫧 clean & tidy my house with me 🫶🏼 I’m in looove with these SINI cleaning sprays 😍🫧 they are super practical, effective and so easy to use - just fill the reusable bottle with warm water, drop in a cleaning tablet, wait 30 minutes, and your spray is ready ✨ All the sprays I used:  🩷 universal 💜 bathroom 💙 window 🩵 toilet 💚 dish soap 🧡 floor 💛 kitchen If you haven’t tried the SINI sprays yet, now is the perfect time 🫶🏼 you can get the starter pack with 5 sprays for only 20€ - and if you already have the bottles, all tablet refills are buy 2, pay for 1 ✨ code IDA10 gives an extra discount, link in my bio 🩷 #sundayreset #cleantok #asmrcleaning #cleaningmotivation #deepclean",
+      "durationSeconds": 122,
+      "viewCount": 240900,
+      "likeCount": 36400,
+      "commentCount": 197,
+      "shareCount": 827,
+      "collectCount": 2246,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 40588
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7630974795240181006",
+      "createdAt": "2026-04-20T22:39:33.000Z",
+      "creatorHandle": "val_aquinoo",
+      "videoUrl": "https://www.tiktok.com/@val_aquinoo/video/7630974795240181006",
+      "caption": "Much needed  #haul #apartmentdecor #homeessentials #amazonhomefinds",
+      "durationSeconds": 175,
+      "viewCount": 208000,
+      "likeCount": 31400,
+      "commentCount": 174,
+      "shareCount": 441,
+      "collectCount": 3331,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 38452
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7640128167218285832",
+      "createdAt": "2026-05-15T14:39:18.000Z",
+      "creatorHandle": "thesamfindz",
+      "videoUrl": "https://www.tiktok.com/@thesamfindz/video/7640128167218285832",
+      "caption": "Num 03 is next level 👌 💯  #amazon #amazonfinds #amazonmusthaves #founditonamazon #kitchen #home #gadgets #products",
+      "durationSeconds": 140,
+      "viewCount": 292700,
+      "likeCount": 15500,
+      "commentCount": 106,
+      "shareCount": 1371,
+      "collectCount": 3088,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 37984
+    },
+    {
+      "term": "homehacks",
+      "provider": "discover",
+      "videoId": "7638196826876726559",
+      "createdAt": "2026-05-10T09:44:43.000Z",
+      "creatorHandle": "user27614225092584",
+      "videoUrl": "https://www.tiktok.com/@user27614225092584/video/7638196826876726559",
+      "caption": "#tiktoktvfilmcontest Storm Goretti is likely to bring heavy snow leading to disruption and difficult travelling conditions, according to the Met Office.#StormGoretti#Storm#Snow#ukweather",
+      "durationSeconds": 127,
+      "viewCount": 290200,
+      "likeCount": 25900,
+      "commentCount": 45,
+      "shareCount": 1551,
+      "collectCount": 1586,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 37956
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7628245171292933383",
+      "createdAt": "2026-04-13T14:07:13.000Z",
+      "creatorHandle": "sagephillipshome",
+      "videoUrl": "https://www.tiktok.com/@sagephillipshome/video/7628245171292933383",
+      "caption": "I added this scalloped bread box from Amazon and suddenly my counter feels like a whole moment 😍 #amazonhome #amazonfinds #kitchenstyling #amazonhomefinds #organicmodernhome",
+      "durationSeconds": 9,
+      "viewCount": 180100,
+      "likeCount": 9677,
+      "commentCount": 54,
+      "shareCount": 1780,
+      "collectCount": 3665,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 37881
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7627265418083716382",
+      "createdAt": "2026-04-10T22:45:16.000Z",
+      "creatorHandle": "motivation00534",
+      "videoUrl": "https://www.tiktok.com/@motivation00534/video/7627265418083716382",
+      "caption": "Why People Hate When You're Quiet - Alan Watts #philosophy #alanwatts #wisdom #spirituality #usa",
+      "durationSeconds": 384,
+      "viewCount": 161600,
+      "likeCount": 10100,
+      "commentCount": 118,
+      "shareCount": 864,
+      "collectCount": 3325,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 29674
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7639466713276271903",
+      "createdAt": "2026-05-13T19:52:32.000Z",
+      "creatorHandle": "laurynmcb",
+      "videoUrl": "https://www.tiktok.com/@laurynmcb/video/7639466713276271903",
+      "caption": "at least the cups are cleaned up 👏🏼🙃 #overwhelmedmom #speedclean #messyhouse #momof4 #cleanwithme speed clean motivation messy house transformation mom cleaning hacks house cleaning tips real mom life cleaning​​​​​​​​​​​​​​​​ cleaning motivation when you’re lazy",
+      "durationSeconds": 92,
+      "viewCount": 150300,
+      "likeCount": 22000,
+      "commentCount": 553,
+      "shareCount": 134,
+      "collectCount": 587,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 22956
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7628391268237806879",
+      "createdAt": "2026-04-13T23:34:09.000Z",
+      "creatorHandle": "amandabhome",
+      "videoUrl": "https://www.tiktok.com/@amandabhome/video/7628391268237806879",
+      "caption": "Shop at the link 🔗 in my bio! Zero regret Amazon outdoor finds! 🏡☀️ #amazonhomefinds #patiodecor #springdecor",
+      "durationSeconds": 54,
+      "viewCount": 142700,
+      "likeCount": 4638,
+      "commentCount": 23,
+      "shareCount": 903,
+      "collectCount": 2402,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 22235
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7640722899418041613",
+      "createdAt": "2026-05-17T05:07:10.000Z",
+      "creatorHandle": "rvlivingwitht",
+      "videoUrl": "https://www.tiktok.com/@rvlivingwitht/video/7640722899418041613",
+      "caption": "Free clean for a family in need 🖤 Day 1️⃣ @Tlc  @kay w. LOVE YA’LL SM!!  #cleaning #cleaningtiktok #cleantok #cleanwithme #fyp",
+      "durationSeconds": 163,
+      "viewCount": 127000,
+      "likeCount": 17400,
+      "commentCount": 668,
+      "shareCount": 182,
+      "collectCount": 516,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 21440
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7638865966796983566",
+      "createdAt": "2026-05-12T05:01:19.000Z",
+      "creatorHandle": "balletblondie",
+      "videoUrl": "https://www.tiktok.com/@balletblondie/video/7638865966796983566",
+      "caption": "Realistic version as a girly who cleans her home once a week but yet struggles w her fame mental health so things go south fast✨ Basket products: @Olaplex @K18 Hair @Hawaiian Tropic @Bath & Body Works @LaRochePosayUS   Cleaning products: @Scrub Daddy @Lysol US  @target  Rot cups: @Chipotle @McDonald’s  Ballet bag: @e.l.f. Cosmetics  Makeup bag: @Lucky Brand #CleanTok #cleaningreset #MentalHealth #adhd",
+      "durationSeconds": 123,
+      "viewCount": 217600,
+      "likeCount": 22900,
+      "commentCount": 130,
+      "shareCount": 50,
+      "collectCount": 559,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 19738
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7629043921045228830",
+      "createdAt": "2026-04-15T17:46:46.000Z",
+      "creatorHandle": "amandabhome",
+      "videoUrl": "https://www.tiktok.com/@amandabhome/video/7629043921045228830",
+      "caption": "Shop at the link 🔗 in my bio! Genius Amazon home finds! 🙌💡🏡 #amazonfinds #homehacks #amazongadgets",
+      "durationSeconds": 44,
+      "viewCount": 102000,
+      "likeCount": 3877,
+      "commentCount": 40,
+      "shareCount": 557,
+      "collectCount": 2704,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 19651
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7640265147616955679",
+      "createdAt": "2026-05-15T23:30:52.000Z",
+      "creatorHandle": "herquietthoughts2",
+      "videoUrl": "https://www.tiktok.com/@herquietthoughts2/video/7640265147616955679",
+      "caption": "Day 42: It was nice doing some small projects the last few days before we start on the garage!  #cleaningtiktok #cleaningcar #cleanmotivation #satisfyingcleaning #cleanwithme",
+      "durationSeconds": 128,
+      "viewCount": 104400,
+      "likeCount": 14700,
+      "commentCount": 196,
+      "shareCount": 326,
+      "collectCount": 201,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 14810
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7640572363033136398",
+      "createdAt": "2026-05-16T19:23:01.000Z",
+      "creatorHandle": "keepitsimplesparkles",
+      "videoUrl": "https://www.tiktok.com/@keepitsimplesparkles/video/7640572363033136398",
+      "caption": "This week’s top 7 Amazon finds you loved most — high‑converting, problem‑solving, and actually worth it. Travel essentials, home organizers, and a couple low‑stock favorites you keep selling out. #amazonfinds #tiktokmademebuyit #travelmusthaves #homeorganization #cruisepacking",
+      "durationSeconds": 50,
+      "viewCount": 78500,
+      "likeCount": 2919,
+      "commentCount": 13,
+      "shareCount": 276,
+      "collectCount": 1369,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 10844
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640964328702643486",
+      "createdAt": "2026-05-17T20:44:02.000Z",
+      "creatorHandle": "brandonthecleaner",
+      "videoUrl": "https://www.tiktok.com/@brandonthecleaner/video/7640964328702643486",
+      "caption": "Ngl I think this might be my best video yet 😶‍🌫️ POV SUDSY trampoline wet mop using @PineSweep 😎🧼🤤  #cleantok #satisfyingcleaning #mopping #sudsy #cleaningasmr",
+      "durationSeconds": 285,
+      "viewCount": 165000,
+      "likeCount": 5446,
+      "commentCount": 73,
+      "shareCount": 118,
+      "collectCount": 292,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 8865
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7639849696852299022",
+      "createdAt": "2026-05-14T20:38:42.000Z",
+      "creatorHandle": "myclassroomdiaries",
+      "videoUrl": "https://www.tiktok.com/@myclassroomdiaries/video/7639849696852299022",
+      "caption": "clean with me 🤍✨🧼  #asmr #asmrsounds #cleantok #teachersoftiktok #teachertok",
+      "durationSeconds": 133,
+      "viewCount": 73200,
+      "likeCount": 7960,
+      "commentCount": 97,
+      "shareCount": 36,
+      "collectCount": 487,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 8650
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7630515870040739103",
+      "createdAt": "2026-04-19T16:58:41.000Z",
+      "creatorHandle": "lindleykay",
+      "videoUrl": "https://www.tiktok.com/@lindleykay/video/7630515870040739103",
+      "caption": "🔗🔗 under “home decor favs” #amazonfinds #amazonhome #amazonhomefinds #amazonmusthaves #amazonfavorites",
+      "durationSeconds": 0,
+      "viewCount": 40300,
+      "likeCount": 3149,
+      "commentCount": 8,
+      "shareCount": 66,
+      "collectCount": 1129,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7505
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7637566815064886558",
+      "createdAt": "2026-05-08T16:59:57.000Z",
+      "creatorHandle": "lindleykay",
+      "videoUrl": "https://www.tiktok.com/@lindleykay/video/7637566815064886558",
+      "caption": "🔗🔗 under “home decor favs” #amazonfinds #amazonmusthaves #amazonhome #amazonhomefinds #amazonfavorites",
+      "durationSeconds": 0,
+      "viewCount": 36300,
+      "likeCount": 2525,
+      "commentCount": 10,
+      "shareCount": 90,
+      "collectCount": 1142,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7377
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7636789827026963743",
+      "createdAt": "2026-05-06T14:44:50.000Z",
+      "creatorHandle": "eatwithchlo",
+      "videoUrl": "https://www.tiktok.com/@eatwithchlo/video/7636789827026963743",
+      "caption": "Go save some bread today 🥖 #cooking #baking #cookinghacks #bakinghacks #kitchenhacks",
+      "durationSeconds": 64,
+      "viewCount": 21800,
+      "likeCount": 2723,
+      "commentCount": 57,
+      "shareCount": 367,
+      "collectCount": 398,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6896
+    },
+    {
+      "term": "kitchenhacks",
+      "provider": "tag",
+      "videoId": "7630782120578813204",
+      "createdAt": "2026-04-20T10:11:52.000Z",
+      "creatorHandle": "zoebargrmcf",
+      "videoUrl": "https://www.tiktok.com/@zoebargrmcf/video/7630782120578813204",
+      "caption": "This peeler is of exceptionally high quality; it peels quickly and thinly. At this price, it's absolutely irresistible!#fyp #tiktokshop #foryou #stend #fun #kitchenessentialsea #MomHacks #VegetablePeeler #HomeCooking #superbrand #peeler #tiktokshop #tiktok #kitchengadgets #KitchenHacks #kitchenmusthaves #homeliving #foodprep #vegetablepeeler #alatdapur #pengupas #kemasrumah #musthaves #lifehacks #fyp",
+      "durationSeconds": 27,
+      "viewCount": 136600,
+      "likeCount": 953,
+      "commentCount": 47,
+      "shareCount": 264,
+      "collectCount": 250,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 6791
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7640991808603819295",
+      "createdAt": "2026-05-17T22:30:40.000Z",
+      "creatorHandle": "chen_sal",
+      "videoUrl": "https://www.tiktok.com/@chen_sal/video/7640991808603819295",
+      "caption": "Say goodbye to wall cracks, holes & damage with this quick-drying drywall repair kit 🏠✨ ✔️ Repairs cracks, dents & nail holes fast 🔨 ✔️ Smooth finish that blends perfectly 🎨 ✔️ Waterproof & durable formula 💧 ✔️ Easy to apply with included tools 🙌 ✔️ Perfect for home repairs & touch-ups 🏡 Simple, clean, and beginner-friendly repair solution 💯 #WallRepair #HomeHack #DIYProjects #RepairKit #Chen_Sal",
+      "durationSeconds": 27,
+      "viewCount": 77600,
+      "likeCount": 698,
+      "commentCount": 11,
+      "shareCount": 243,
+      "collectCount": 490,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 5915
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7629915447978151181",
+      "createdAt": "2026-04-18T02:08:44.000Z",
+      "creatorHandle": "missnellyintl",
+      "videoUrl": "https://www.tiktok.com/@missnellyintl/video/7629915447978151181",
+      "caption": "Adding little things to make my house to make it a home piece be piece. 🏡🥰 Check my Amazonstore front via 🔗 in byeo.  @Amazon Home  #amazonhomefinds #amazonfavorites #mothersdaygiftideas",
+      "durationSeconds": 74,
+      "viewCount": 31100,
+      "likeCount": 2786,
+      "commentCount": 179,
+      "shareCount": 87,
+      "collectCount": 182,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 5229
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7633146900060949791",
+      "createdAt": "2026-04-26T19:08:25.000Z",
+      "creatorHandle": "the.everyday.cele",
+      "videoUrl": "https://www.tiktok.com/@the.everyday.cele/video/7633146900060949791",
+      "caption": "POV: grocery store flowers & Amazon finds > designer decor 🤍 A few simple finds + fresh flowers can make any corner feel expensive. everything linked in bio ✨ #amazonhomefinds #grocerystoreflowers #homestylingideas #luxuryhomedecor #coastaldecor",
+      "durationSeconds": 11,
+      "viewCount": 42300,
+      "likeCount": 5703,
+      "commentCount": 35,
+      "shareCount": 27,
+      "collectCount": 158,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4896
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7640912417748176141",
+      "createdAt": "2026-05-17T17:22:36.000Z",
+      "creatorHandle": "thebaileylavender",
+      "videoUrl": "https://www.tiktok.com/@thebaileylavender/video/7640912417748176141",
+      "caption": "Clean my house with me #baileylavender #cleantok #cleaningtiktok #workingmomlife",
+      "durationSeconds": 49,
+      "viewCount": 70800,
+      "likeCount": 5485,
+      "commentCount": 31,
+      "shareCount": 4,
+      "collectCount": 75,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 4801
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7629508538229968150",
+      "createdAt": "2026-04-16T23:49:43.000Z",
+      "creatorHandle": "cool.findsss",
+      "videoUrl": "https://www.tiktok.com/@cool.findsss/video/7629508538229968150",
+      "caption": "10 Amazon Home Finds, number # 8 is my favorite 😍 #amazonfavorites #amazonhomefinds #amazongadgets #amazongadgets #amazonhomefavorites",
+      "durationSeconds": 69,
+      "viewCount": 29600,
+      "likeCount": 1367,
+      "commentCount": 4,
+      "shareCount": 169,
+      "collectCount": 520,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 4748
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7640922497529040158",
+      "createdAt": "2026-05-17T18:01:43.000Z",
+      "creatorHandle": "holistic.habits.health",
+      "videoUrl": "https://www.tiktok.com/@holistic.habits.health/video/7640922497529040158",
+      "caption": "You’ve been using aluminum foil wrong this whole time 👀⚠️   Most people only use aluminum foil for leftovers… but it’s secretly one of the most underrated kitchen hacks in your house.   ✂️ Fold foil and cut through it to help sharpen dull scissors   📶 Place curved foil behind your router to help direct Wi-Fi signal where you need it most   🍳 Crumple it with water and scrub rusty pans or stuck-on grime without destroying the surface   👔 Put foil under your ironing board cover to reflect heat and iron faster   🧺 Toss foil balls in the dryer to reduce static without dryer sheets   ✨ Line a bowl with foil + baking soda + hot water to help remove tarnish from silver jewelry fast   These are the kind of simple home hacks nobody teaches anymore… but once you know them, you use them forever.   Save this before your next grocery run ✔️   Send it to someone obsessed with kitchen hacks 😂   Comment “FOIL” if you want the next hidden household hacks 👇   ——— aluminum foil hacks, kitchen hacks, household hacks, foil tricks, home cleaning hacks, aluminum foil uses, DIY home hacks, cleaning tips, smart kitchen tips, life hacks, rusty pan, rust, ironing, laundry static, WiFi signal, ironing clothes faster, cleaning jewelry  #aluminumfoil #kitchenhacks #homehacks #lifehacks #kitchentips",
+      "durationSeconds": 68,
+      "viewCount": 4891,
+      "likeCount": 576,
+      "commentCount": 59,
+      "shareCount": 281,
+      "collectCount": 242,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 4192
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7639431149399395598",
+      "createdAt": "2026-05-13T17:34:31.000Z",
+      "creatorHandle": "gaketing",
+      "videoUrl": "https://www.tiktok.com/@gaketing/video/7639431149399395598",
+      "caption": "No regrets with these Amazon finds… every single one was worth it 💕. #amazonfinds #amazonhome #creatorsearchinsights #homefinds #homehacks",
+      "durationSeconds": 27,
+      "viewCount": 31000,
+      "likeCount": 886,
+      "commentCount": 3,
+      "shareCount": 106,
+      "collectCount": 448,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 3733
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7641024536833576205",
+      "createdAt": "2026-05-18T00:37:41.000Z",
+      "creatorHandle": "mads4urfav",
+      "videoUrl": "https://www.tiktok.com/@mads4urfav/video/7641024536833576205",
+      "caption": "another cleaning video! :) is there any another vids you guys would like to see from me? #fyp #viral #blowthisup #cleaning",
+      "durationSeconds": 175,
+      "viewCount": 12200,
+      "likeCount": 2287,
+      "commentCount": 86,
+      "shareCount": 87,
+      "collectCount": 83,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 3276
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640854762539306271",
+      "createdAt": "2026-05-17T13:38:52.000Z",
+      "creatorHandle": "anxietyapprovedclean",
+      "videoUrl": "https://www.tiktok.com/@anxietyapprovedclean/video/7640854762539306271",
+      "caption": "dont ask how long its been sitting outside im embarrassed 😩 but shes all clean now🥰 love me some dirty suds #cleantok #cleantokasmr #cleaningtiktok #brushscrubbing #oddlysatisfyingvideo",
+      "durationSeconds": 158,
+      "viewCount": 16900,
+      "likeCount": 1895,
+      "commentCount": 41,
+      "shareCount": 43,
+      "collectCount": 189,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 2796
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7637937993449213215",
+      "createdAt": "2026-05-09T17:00:19.000Z",
+      "creatorHandle": "lindleykay",
+      "videoUrl": "https://www.tiktok.com/@lindleykay/video/7637937993449213215",
+      "caption": "🔗🔗 under “home decor favs” #amazonfavorites #amazonmusthaves #amazonhomefinds #amazonhome #amazonfinds",
+      "durationSeconds": 0,
+      "viewCount": 15500,
+      "likeCount": 1049,
+      "commentCount": 7,
+      "shareCount": 20,
+      "collectCount": 371,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2549
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640967675581041950",
+      "createdAt": "2026-05-17T20:57:02.000Z",
+      "creatorHandle": "marquel222",
+      "videoUrl": "https://www.tiktok.com/@marquel222/video/7640967675581041950",
+      "caption": "Cleaning & yapping the usual #momtok #cleaning #cleaningtiktok #cleaningmotivation #morningreset",
+      "durationSeconds": 90,
+      "viewCount": 11100,
+      "likeCount": 1902,
+      "commentCount": 84,
+      "shareCount": 14,
+      "collectCount": 58,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 2357
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7640597471277862147",
+      "createdAt": "2026-05-16T21:00:27.000Z",
+      "creatorHandle": "primeproduct.0",
+      "videoUrl": "https://www.tiktok.com/@primeproduct.0/video/7640597471277862147",
+      "caption": "20 Amazon Useful Product You Actually Need it 2026 #amazonusa #amazonfinds #tiktokmademebuylt #amazon #amazonhome",
+      "durationSeconds": 147,
+      "viewCount": 18600,
+      "likeCount": 570,
+      "commentCount": 2,
+      "shareCount": 78,
+      "collectCount": 233,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 2233
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "discover",
+      "videoId": "7640931913271659790",
+      "createdAt": "2026-05-17T18:38:15.000Z",
+      "creatorHandle": "jordankerrr",
+      "videoUrl": "https://www.tiktok.com/@jordankerrr/video/7640931913271659790",
+      "caption": "do we like cleaning vlogs??? 🧼😌  - #cleaningtiktok #sundayreset #cleaningvlog #houseresetwithme #sundayroutine @Princess Polly",
+      "durationSeconds": 59,
+      "viewCount": 12800,
+      "likeCount": 1840,
+      "commentCount": 11,
+      "shareCount": 5,
+      "collectCount": 31,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 1450
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7639864087194651935",
+      "createdAt": "2026-05-14T21:34:32.000Z",
+      "creatorHandle": "amandabhome",
+      "videoUrl": "https://www.tiktok.com/@amandabhome/video/7639864087194651935",
+      "caption": "Shop at the link 🔗 in my bio! Amazon home finds I wish I’d bought sooner! 🏡🙌 #amazonfinds #amazonhome",
+      "durationSeconds": 64,
+      "viewCount": 9696,
+      "likeCount": 254,
+      "commentCount": 3,
+      "shareCount": 30,
+      "collectCount": 150,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1191
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7639432671906630925",
+      "createdAt": "2026-05-13T17:40:26.000Z",
+      "creatorHandle": "white.at.home",
+      "videoUrl": "https://www.tiktok.com/@white.at.home/video/7639432671906630925",
+      "caption": "Zero Regrets On These Finds 👏🏻👏🏻 Some of my all time Zero Regret Amazon finds 👏🏻👏🏻 which is your favorite?! @Amazon @Amazon Home  https://amzlink.to/az02zKDOijIHn #home #myhappyplace #homedecor #amazonhome #amazonfavorites",
+      "durationSeconds": 36,
+      "viewCount": 4604,
+      "likeCount": 194,
+      "commentCount": 3,
+      "shareCount": 18,
+      "collectCount": 104,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 779
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7638731382197423391",
+      "createdAt": "2026-05-11T20:19:04.000Z",
+      "creatorHandle": "usadealsvault",
+      "videoUrl": "https://www.tiktok.com/@usadealsvault/video/7638731382197423391",
+      "caption": "Follow + comment “WANT” for links! Steal my Amazon designer looks for less 🤍 These are the finds that make people think I spent way more than I actually did. From cozy textures to high-end looking details, every single one gives that custom/designer feel… without the designer price tag. #amazonfinds #homedecor #bathroomdecor #amazonhome #interiordesign",
+      "durationSeconds": 53,
+      "viewCount": 2562,
+      "likeCount": 85,
+      "commentCount": 13,
+      "shareCount": 6,
+      "collectCount": 36,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 416
+    },
+    {
+      "term": "amazonhomefinds",
+      "provider": "tag",
+      "videoId": "7640892216331832606",
+      "createdAt": "2026-05-17T16:04:12.000Z",
+      "creatorHandle": "thesmittencollective",
+      "videoUrl": "https://www.tiktok.com/@thesmittencollective/video/7640892216331832606",
+      "caption": "Amazon home decor with the luxury look for less ✨ #amazonhome #homedecor #interiordesign #decor #amazonfinds",
+      "durationSeconds": 17,
+      "viewCount": 3230,
+      "likeCount": 121,
+      "commentCount": 1,
+      "shareCount": 7,
+      "collectCount": 44,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 367
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7640985959886081293",
+      "createdAt": "2026-05-17T22:07:59.000Z",
+      "creatorHandle": "family_hack2",
+      "videoUrl": "https://www.tiktok.com/@family_hack2/video/7640985959886081293",
+      "caption": "Genius dollar tree hack 😍✨🌳 #dollartree #dollartreefinds #dollartreediy #homehack#hack",
+      "durationSeconds": 61,
+      "viewCount": 7413,
+      "likeCount": 77,
+      "commentCount": 2,
+      "shareCount": 3,
+      "collectCount": 17,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 299
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7640966254106283277",
+      "createdAt": "2026-05-17T20:51:31.000Z",
+      "creatorHandle": "danielle.donohue",
+      "videoUrl": "https://www.tiktok.com/@danielle.donohue/video/7640966254106283277",
+      "caption": "All items are LINKED in my profile  Obsessed with these new tumblers🙌🏼  Follow @danielle.donohue so you don’t miss the links! #homehacks #amazonhome #asmr #amazonfavorites #amazongadgets  20oz Hobnail Glass Cups with Lids and Glass Straws 4 Pieces, Thick-Walled Glass Tumblers for Iced Coffee, Smoothies, Milk, Water, Juice, and More Elegant and Durable Drinking Glasses insetlan organic modern matcha",
+      "durationSeconds": 15,
+      "viewCount": 2907,
+      "likeCount": 68,
+      "commentCount": 1,
+      "shareCount": 6,
+      "collectCount": 25,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 250
+    },
+    {
+      "term": "cleaningtiktok",
+      "provider": "tag",
+      "videoId": "7638651177688632596",
+      "createdAt": "2026-05-11T15:07:50.000Z",
+      "creatorHandle": "clutterbug_me",
+      "videoUrl": "https://www.tiktok.com/@clutterbug_me/video/7638651177688632596",
+      "caption": "Spring Cleaning got you down? This video will cover all your bases. This is all the stuff I try to do as rarely as possible, but, well, I have to be a grown up sometime. Hopefully this saves you the trouble of figuring out the problem spots before it's too late and your home is overtaken by a science experiment against your will.  #springcleaning #cleantok #kitchenhacks",
+      "durationSeconds": 262,
+      "viewCount": 2300,
+      "likeCount": 66,
+      "commentCount": 3,
+      "shareCount": 1,
+      "collectCount": 14,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 173
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7640291236913433877",
+      "createdAt": "2026-05-16T01:12:06.000Z",
+      "creatorHandle": "myidealproducts",
+      "videoUrl": "https://www.tiktok.com/@myidealproducts/video/7640291236913433877",
+      "caption": "My favorite smart home upgrade from Amazon—simple, convenient, and it makes everyday life so much easier. ✨ On my amazon store: As Seen In Videos. #homegadgets #homehacks #amazonfavorites #coolvibes #shoppinghaul",
+      "durationSeconds": 137,
+      "viewCount": 1504,
+      "likeCount": 48,
+      "commentCount": 0,
+      "shareCount": 1,
+      "collectCount": 17,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 130
+    },
+    {
+      "term": "homegadgets",
+      "provider": "tag",
+      "videoId": "7636118739565497614",
+      "createdAt": "2026-05-04T19:20:41.000Z",
+      "creatorHandle": "tikgadget.store",
+      "videoUrl": "https://www.tiktok.com/@tikgadget.store/video/7636118739565497614",
+      "caption": "1-1#gadgets #homehacks #tiktokmademebuyit #amazonfinds #kitchengadgets",
+      "durationSeconds": 17,
+      "viewCount": 503,
+      "likeCount": 18,
+      "commentCount": 0,
+      "shareCount": 3,
+      "collectCount": 5,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 63
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7641061571392851230",
+      "createdAt": "2026-05-18T03:01:23.000Z",
+      "creatorHandle": "hacksbyviktoriia",
+      "videoUrl": "https://www.tiktok.com/@hacksbyviktoriia/video/7641061571392851230",
+      "caption": "My cleaning lady showed me how to clean a toilet properly… and I’ve been doing it WRONG all this time 😳🧽 This hack makes everything so much easier and actually keeps it way cleaner for longer ✨ Save this if you love clean home hacks ✔️ #cleaninghacks #cleaningtips #cleantok #homehacks #cleanhome",
+      "durationSeconds": 60,
+      "viewCount": 126,
+      "likeCount": 5,
+      "commentCount": 4,
+      "shareCount": 0,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 53
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7641044410045664525",
+      "createdAt": "2026-05-18T01:54:48.000Z",
+      "creatorHandle": "geniusoneminutehacks",
+      "videoUrl": "https://www.tiktok.com/@geniusoneminutehacks/video/7641044410045664525",
+      "caption": "In case your mom didn’t teach you!#lifehack #momhacks #fyp#homehacks #momsoftiktok",
+      "durationSeconds": 61,
+      "viewCount": 436,
+      "likeCount": 9,
+      "commentCount": 1,
+      "shareCount": 1,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 39
+    },
+    {
+      "term": "homehacks",
+      "provider": "tag",
+      "videoId": "7641056813277891871",
+      "createdAt": "2026-05-18T02:42:56.000Z",
+      "creatorHandle": "cmthzwvzqv",
+      "videoUrl": "https://www.tiktok.com/@cmthzwvzqv/video/7641056813277891871",
+      "caption": "Honestly, I recommend this to everybody — rich or broke 😭🔥#CleanTok #cleaninghacks #homehacks #deepcleaning #satisfyingclean #cleanwithme #cleaningmotivation #homecleaning #viralproducts #musthave",
+      "durationSeconds": 31,
+      "viewCount": 12,
+      "likeCount": 0,
+      "commentCount": 0,
+      "shareCount": 0,
+      "collectCount": 0,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 0
+    }
+  ]
+}

@@ -1,5 +1,26 @@
 # long-term-memory.md
 
+## 2026-05-18 US creator persona research batch
+
+- Issue: `ULT-313`
+- Added immediate weekly-cycle research artifacts for US-facing home/living, pet, and auto accessory/parts creator personas across TikTok, Instagram, YouTube, and Facebook.
+- Main artifacts:
+  - `trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`
+  - `case_library/2026-05-18_us_creator_persona_case_packet_home_pet_auto.md`
+  - `playbooks/faceless_crossborder_creator_operating_plan_2026-05-18.md`
+  - `relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
+- Local TikTok scout runs:
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_home/`
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_pet/`
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_auto/`
+- Stable process lesson: cross-platform creator rankings are useful persona radar, but not TikTok-native proof without video-level manual review.
+- Stable creative direction: for a China cross-border faceless account, lead with a repeatable proof persona, not human lifestyle identity. Best personas are product test bench, quality scout, small-space fixer, pet-care desk, and fitment skeptic.
+- Stable risk boundary: home gadgets are lowest compliance; pet needs animal-respect and health/safety limits; auto needs fitment/safety/repair review.
+- No durable taxonomy, relation, performance, conversion, or prediction claims were promoted.
+- Next useful work: classifier review of proposed claims, explainer conversion into script formulas/test batch, and judge audit of overfit/readiness.
+
+---
+
 ## 2026-05-17 next concept gate
 
 - Created `creative_outputs/pet_corgi_baguette_doorway/concept_gate_packet.md` as the first post-ULT-299 gated concept.

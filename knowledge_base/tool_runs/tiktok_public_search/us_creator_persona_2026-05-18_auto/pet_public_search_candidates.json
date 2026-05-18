@@ -1,0 +1,1141 @@
+{
+  "generatedAt": "2026-05-18T04:40:27.752Z",
+  "days": 45,
+  "terms": [
+    "caraccessories",
+    "cartok",
+    "cardetailing",
+    "carhacks",
+    "autoparts",
+    "cargadgets"
+  ],
+  "warnings": [],
+  "scoring": "petInterestScore = comments*10 + shares*8 + collects*4 + likes*0.5 + views*0.02. Public proxy only.",
+  "candidates": [
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7632785967950073110",
+      "createdAt": "2026-04-25T19:47:49.000Z",
+      "creatorHandle": "encryptedgold_real",
+      "videoUrl": "https://www.tiktok.com/@encryptedgold_real/video/7632785967950073110",
+      "caption": "Geometry Dash is my joy in life 😁 || @Evan Hynd @CraftTheCreator Manga @F🗣 @✨Bella💫 @eryn @Geet @illovejuicewrld999 @Jack 🫡 @James4Wands @josephscotting2 @ᴍᴀʏᴀ † @riley ひ @Robert 💏 @wigglyplays @tee_es_on_tiktok @𐋅𐌀𐌵𐌍𐌕 || #fypシ゚viral #xyzbca #funnymemes #geometrydash #pain",
+      "durationSeconds": 18,
+      "viewCount": 2300000,
+      "likeCount": 284200,
+      "commentCount": 1170,
+      "shareCount": 51000,
+      "collectCount": 38400,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 761400
+    },
+    {
+      "term": "cargadgets",
+      "provider": "tag",
+      "videoId": "7637269111847865621",
+      "createdAt": "2026-05-07T21:44:43.000Z",
+      "creatorHandle": "ameliaruizvega",
+      "videoUrl": "https://www.tiktok.com/@ameliaruizvega/video/7637269111847865621",
+      "caption": "Solo espero q todos hayamos podido salir con bien 😢",
+      "durationSeconds": 31,
+      "viewCount": 9200000,
+      "likeCount": 577500,
+      "commentCount": 5573,
+      "shareCount": 11800,
+      "collectCount": 34600,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 761280
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7633758407824002326",
+      "createdAt": "2026-04-28T10:41:23.000Z",
+      "creatorHandle": "stanftiger",
+      "videoUrl": "https://www.tiktok.com/@stanftiger/video/7633758407824002326",
+      "caption": "#snapple #tomodachilife #store #meme",
+      "durationSeconds": 15,
+      "viewCount": 2200000,
+      "likeCount": 352500,
+      "commentCount": 801,
+      "shareCount": 36600,
+      "collectCount": 39500,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 679060
+    },
+    {
+      "term": "caraccessories",
+      "provider": "discover",
+      "videoId": "7637588443412860167",
+      "createdAt": "2026-05-08T18:23:53.000Z",
+      "creatorHandle": "lalistadeportes",
+      "videoUrl": "https://www.tiktok.com/@lalistadeportes/video/7637588443412860167",
+      "caption": "¡Fuera de lugar... y del corazón! 🚫💔 El VAR no perdonó esta vez: una mujer captó a su novio siendo infiel en pleno partido y el reclamo se volvió el verdadero espectáculo.",
+      "durationSeconds": 77,
+      "viewCount": 9100000,
+      "likeCount": 516300,
+      "commentCount": 3546,
+      "shareCount": 14500,
+      "collectCount": 21400,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 677210
+    },
+    {
+      "term": "cargadgets",
+      "provider": "discover",
+      "videoId": "7636847479924804872",
+      "createdAt": "2026-05-06T18:28:34.000Z",
+      "creatorHandle": "the.abbouds",
+      "videoUrl": "https://www.tiktok.com/@the.abbouds/video/7636847479924804872",
+      "caption": "#doglovers #familylove",
+      "durationSeconds": 23,
+      "viewCount": 12400000,
+      "likeCount": 283100,
+      "commentCount": 1783,
+      "shareCount": 15800,
+      "collectCount": 26200,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 638580
+    },
+    {
+      "term": "cardetailing",
+      "provider": "discover",
+      "videoId": "7632929212340620564",
+      "createdAt": "2026-04-26T05:03:41.000Z",
+      "creatorHandle": "josmar_0ficial",
+      "videoUrl": "https://www.tiktok.com/@josmar_0ficial/video/7632929212340620564",
+      "caption": "Espero con ansias esa edad jajaja 🥴😂 #fyp #hijo #viral",
+      "durationSeconds": 6,
+      "viewCount": 2000000,
+      "likeCount": 96500,
+      "commentCount": 468,
+      "shareCount": 41500,
+      "collectCount": 7446,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 454714
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7632824903527451917",
+      "createdAt": "2026-04-25T22:18:55.000Z",
+      "creatorHandle": "dietculturerebel",
+      "videoUrl": "https://www.tiktok.com/@dietculturerebel/video/7632824903527451917",
+      "caption": "#dietculture #dietculturerebel #dietitian #intuitiveeating #foodfreedom",
+      "durationSeconds": 70,
+      "viewCount": 6800000,
+      "likeCount": 340800,
+      "commentCount": 1293,
+      "shareCount": 3194,
+      "collectCount": 12900,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 396482
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7628938523072122142",
+      "createdAt": "2026-04-15T10:57:46.000Z",
+      "creatorHandle": "thao.dan88",
+      "videoUrl": "https://www.tiktok.com/@thao.dan88/video/7628938523072122142",
+      "caption": "To love but not be loved.#degrassinextgeneration #edit #comment #fypppppppppppppppppppppp",
+      "durationSeconds": 122,
+      "viewCount": 4600000,
+      "likeCount": 262600,
+      "commentCount": 340,
+      "shareCount": 3562,
+      "collectCount": 23800,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 350396
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7629480944369503501",
+      "createdAt": "2026-04-16T22:02:39.000Z",
+      "creatorHandle": "le_batkid",
+      "videoUrl": "https://www.tiktok.com/@le_batkid/video/7629480944369503501",
+      "caption": "That’s how it goes 😎 #lotus #exige #cartok #exotic",
+      "durationSeconds": 10,
+      "viewCount": 1000000,
+      "likeCount": 97300,
+      "commentCount": 1048,
+      "shareCount": 26000,
+      "collectCount": 7387,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 316678
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7638708622775700766",
+      "createdAt": "2026-05-11T18:50:45.000Z",
+      "creatorHandle": "murderedd.a4",
+      "videoUrl": "https://www.tiktok.com/@murderedd.a4/video/7638708622775700766",
+      "caption": "Same parking lot lol #audi #cartok #headlightdelete #dmv #quattro",
+      "durationSeconds": 16,
+      "viewCount": 1100000,
+      "likeCount": 160000,
+      "commentCount": 821,
+      "shareCount": 10000,
+      "collectCount": 8951,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 226014
+    },
+    {
+      "term": "cartok",
+      "provider": "discover",
+      "videoId": "7640386608226716942",
+      "createdAt": "2026-05-16T07:22:11.000Z",
+      "creatorHandle": "spiffyuddish",
+      "videoUrl": "https://www.tiktok.com/@spiffyuddish/video/7640386608226716942",
+      "caption": "Ranking the WORST sounding cars… and yes, this list is going to upset people 😭 Some of these exhaust notes sound personally offended to exist. Watch until the end, save it, and duet with your own ranking. #WorstSoundingCars #CarTok #ExhaustSounds #CarRanking #CarOpinions",
+      "durationSeconds": 40,
+      "viewCount": 680200,
+      "likeCount": 97600,
+      "commentCount": 736,
+      "shareCount": 13300,
+      "collectCount": 8163,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 208816
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7640587312295939350",
+      "createdAt": "2026-05-16T20:21:01.000Z",
+      "creatorHandle": "werksssssx.exe",
+      "videoUrl": "https://www.tiktok.com/@werksssssx.exe/video/7640587312295939350",
+      "caption": "best sounding V12? #ferrari #812 #supercars #monaco #cartok #parati",
+      "durationSeconds": 14,
+      "viewCount": 506800,
+      "likeCount": 108100,
+      "commentCount": 797,
+      "shareCount": 7756,
+      "collectCount": 12900,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 185804
+    },
+    {
+      "term": "caraccessories",
+      "provider": "discover",
+      "videoId": "7637106730274458888",
+      "createdAt": "2026-05-07T11:14:35.000Z",
+      "creatorHandle": "teh.yuli.cianjur",
+      "videoUrl": "https://www.tiktok.com/@teh.yuli.cianjur/video/7637106730274458888",
+      "caption": "pelan pelan",
+      "durationSeconds": 12,
+      "viewCount": 4500000,
+      "likeCount": 49300,
+      "commentCount": 257,
+      "shareCount": 1859,
+      "collectCount": 4838,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 151444
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7636076673733086486",
+      "createdAt": "2026-05-04T16:37:26.000Z",
+      "creatorHandle": "glowwash1",
+      "videoUrl": "https://www.tiktok.com/@glowwash1/video/7636076673733086486",
+      "caption": "I refuse one out of every four clients for these reasons. #greatbritain #unitedkindom #carwash #cardetailing #car",
+      "durationSeconds": 60,
+      "viewCount": 2200000,
+      "likeCount": 126600,
+      "commentCount": 283,
+      "shareCount": 858,
+      "collectCount": 5337,
+      "petShapeLabels": [
+        "stubborn_or_sassy",
+        "food_or_eating"
+      ],
+      "petInterestScore": 138342
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7638716504892050702",
+      "createdAt": "2026-05-11T19:21:20.000Z",
+      "creatorHandle": "fahriodetailing",
+      "videoUrl": "https://www.tiktok.com/@fahriodetailing/video/7638716504892050702",
+      "caption": "How my day went as a student & mobile detailer 🙌 More videos like this? #cardetailing #autodetailing #losangeles",
+      "durationSeconds": 49,
+      "viewCount": 1600000,
+      "likeCount": 127400,
+      "commentCount": 249,
+      "shareCount": 2097,
+      "collectCount": 3599,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 129362
+    },
+    {
+      "term": "cargadgets",
+      "provider": "tag",
+      "videoId": "7635546287420624141",
+      "createdAt": "2026-05-03T06:19:16.000Z",
+      "creatorHandle": "licksizuku",
+      "videoUrl": "https://www.tiktok.com/@licksizuku/video/7635546287420624141",
+      "caption": "IZUKU DOUBLES DNI - i’m basically eating his face 🥹✌️ #yumeshipping #yumeship #fyp #licksizuku #yumeshipper",
+      "durationSeconds": 9,
+      "viewCount": 323700,
+      "likeCount": 53700,
+      "commentCount": 1949,
+      "shareCount": 2473,
+      "collectCount": 11700,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 119398
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7630240781827132685",
+      "createdAt": "2026-04-18T23:11:12.000Z",
+      "creatorHandle": "billyrubino22.4",
+      "videoUrl": "https://www.tiktok.com/@billyrubino22.4/video/7630240781827132685",
+      "caption": "Now you know #lifehack #lifehacks #cartok",
+      "durationSeconds": 25,
+      "viewCount": 183600,
+      "likeCount": 7735,
+      "commentCount": 141,
+      "shareCount": 9669,
+      "collectCount": 1489,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 92258
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7629031134336208141",
+      "createdAt": "2026-04-15T16:57:09.000Z",
+      "creatorHandle": "vrzmobiledetailing",
+      "videoUrl": "https://www.tiktok.com/@vrzmobiledetailing/video/7629031134336208141",
+      "caption": "just wait for those results..🚀  pov: mobile car detailing in Denver, CO..🚜#cardetailing #pov #asmr #transformation #fyp",
+      "durationSeconds": 133,
+      "viewCount": 786300,
+      "likeCount": 42700,
+      "commentCount": 461,
+      "shareCount": 2239,
+      "collectCount": 6215,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 84458
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7638875521744440590",
+      "createdAt": "2026-05-12T05:38:24.000Z",
+      "creatorHandle": "b58yden",
+      "videoUrl": "https://www.tiktok.com/@b58yden/video/7638875521744440590",
+      "caption": "best looking Audi 🙂‍↕️  . #r8 #cartok #fyp #catsoftiktok #audi",
+      "durationSeconds": 11,
+      "viewCount": 189200,
+      "likeCount": 45800,
+      "commentCount": 80,
+      "shareCount": 2975,
+      "collectCount": 3529,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 65400
+    },
+    {
+      "term": "cardetailing",
+      "provider": "discover",
+      "videoId": "7627223116317461791",
+      "createdAt": "2026-04-10T20:01:07.000Z",
+      "creatorHandle": "spin",
+      "videoUrl": "https://www.tiktok.com/@spin/video/7627223116317461791",
+      "caption": "Bush's new performance of \"Glycerine\" on NPR's Tiny Desk is nothing short of mesmerizing. (📹 via @npr) #bush #postgrunge #90s #gavinrossdale #live",
+      "durationSeconds": 213,
+      "viewCount": 257900,
+      "likeCount": 24400,
+      "commentCount": 843,
+      "shareCount": 3303,
+      "collectCount": 2651,
+      "petShapeLabels": [
+        "cute"
+      ],
+      "petInterestScore": 62816
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7639606670066289951",
+      "createdAt": "2026-05-14T04:55:38.000Z",
+      "creatorHandle": "f80_rbk",
+      "videoUrl": "https://www.tiktok.com/@f80_rbk/video/7639606670066289951",
+      "caption": "#bmw #f80 #cartok #xyzbca #fypシ",
+      "durationSeconds": 10,
+      "viewCount": 114900,
+      "likeCount": 29600,
+      "commentCount": 107,
+      "shareCount": 2925,
+      "collectCount": 2222,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 50456
+    },
+    {
+      "term": "cargadgets",
+      "provider": "tag",
+      "videoId": "7637482490394971406",
+      "createdAt": "2026-05-08T11:32:44.000Z",
+      "creatorHandle": "alejandrobrett023",
+      "videoUrl": "https://www.tiktok.com/@alejandrobrett023/video/7637482490394971406",
+      "caption": "This air chuck quick attachment makes life a lot easier when airing up tires  @ #carseat #carseatheadrest #cargadgets #musthavegadgets #TikTokShopJumpstartSale",
+      "durationSeconds": 21,
+      "viewCount": 1500000,
+      "likeCount": 2226,
+      "commentCount": 39,
+      "shareCount": 563,
+      "collectCount": 632,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 38535
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7640083595650010389",
+      "createdAt": "2026-05-15T11:46:21.000Z",
+      "creatorHandle": "bilusiautoparts_can",
+      "videoUrl": "https://www.tiktok.com/@bilusiautoparts_can/video/7640083595650010389",
+      "caption": "Having to wait endlessly for spare parts—only to receive components of inconsistent quality—severely damages our reputation. #autoparts#carparts #factory #autosupplies#car",
+      "durationSeconds": 23,
+      "viewCount": 86700,
+      "likeCount": 2083,
+      "commentCount": 653,
+      "shareCount": 1297,
+      "collectCount": 990,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 23642
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7625874373697703181",
+      "createdAt": "2026-04-07T04:47:18.000Z",
+      "creatorHandle": "vangoxu",
+      "videoUrl": "https://www.tiktok.com/@vangoxu/video/7625874373697703181",
+      "caption": "The boss asked us to do business together #AutoParts #CarParts #OEM #Aftermarket #AutoSupply",
+      "durationSeconds": 7,
+      "viewCount": 208700,
+      "likeCount": 5003,
+      "commentCount": 197,
+      "shareCount": 991,
+      "collectCount": 1173,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 21266
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7632524712068877581",
+      "createdAt": "2026-04-25T02:54:01.000Z",
+      "creatorHandle": "rico_rixo",
+      "videoUrl": "https://www.tiktok.com/@rico_rixo/video/7632524712068877581",
+      "caption": "How to Start Detailing Cars 🚗 💰 🤑💸  🫧🧼  If you want to start your own car wash buisness then this video will set you on the right path I Started Detailing and it was super fun! I Talked wiht the experts so i know a few things 😼 #detailing #detailersoftiktok #satisfying #foryou #carwash",
+      "durationSeconds": 62,
+      "viewCount": 154000,
+      "likeCount": 9420,
+      "commentCount": 79,
+      "shareCount": 564,
+      "collectCount": 1689,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 19848
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7640025341448310046",
+      "createdAt": "2026-05-15T08:00:17.000Z",
+      "creatorHandle": "f80ivan",
+      "videoUrl": "https://www.tiktok.com/@f80ivan/video/7640025341448310046",
+      "caption": "#bmw #cartok #f80 #m3 #fyp",
+      "durationSeconds": 19,
+      "viewCount": 43100,
+      "likeCount": 8373,
+      "commentCount": 17,
+      "shareCount": 634,
+      "collectCount": 723,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 13183
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7639569143498378509",
+      "createdAt": "2026-05-14T02:30:00.000Z",
+      "creatorHandle": "finaltouchdetailingg",
+      "videoUrl": "https://www.tiktok.com/@finaltouchdetailingg/video/7639569143498378509",
+      "caption": "Even the state troopers know who to call when the car needs to be spotless 👀 This patrol car got cleaned up the right way with that Final Touch shine 🔥 📩 Shoot us a DM! 📞 CALL / TEXT: (305) 970-6605 📧 EMAIL: finaltouchdetailing@gmail.com ✅ Interior / Exterior Details ✅ Deep Interior Cleaning ✅ Seat & Carpet Shampoo ✅ Hand Wash & Wheel Cleaning ✅ Wax / Paint Protection ✅ Engine Bay Cleaning ✅ Headlight Restoration ✅ Odor Removal ✅ Much more! ✨ Because the final touch matters 💙 #pov #mobiledetailing #statetrooper #xyzbca #cardetailing",
+      "durationSeconds": 118,
+      "viewCount": 108000,
+      "likeCount": 7224,
+      "commentCount": 91,
+      "shareCount": 152,
+      "collectCount": 1235,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 12838
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7639774141121318174",
+      "createdAt": "2026-05-14T15:45:30.000Z",
+      "creatorHandle": "deep.carpro",
+      "videoUrl": "https://www.tiktok.com/@deep.carpro/video/7639774141121318174",
+      "caption": "#detailing #carcleaning #carwashing #detailer #carwash",
+      "durationSeconds": 69,
+      "viewCount": 182200,
+      "likeCount": 6642,
+      "commentCount": 54,
+      "shareCount": 332,
+      "collectCount": 363,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 11613
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7640755406632996127",
+      "createdAt": "2026-05-17T07:13:19.000Z",
+      "creatorHandle": "f80ivan",
+      "videoUrl": "https://www.tiktok.com/@f80ivan/video/7640755406632996127",
+      "caption": "#bmw #cartok #f80 #m3 #fyp",
+      "durationSeconds": 14,
+      "viewCount": 31100,
+      "likeCount": 6745,
+      "commentCount": 7,
+      "shareCount": 620,
+      "collectCount": 531,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 11149
+    },
+    {
+      "term": "cargadgets",
+      "provider": "tag",
+      "videoId": "7639789856217910559",
+      "createdAt": "2026-05-14T16:46:29.000Z",
+      "creatorHandle": "printlair",
+      "videoUrl": "https://www.tiktok.com/@printlair/video/7639789856217910559",
+      "caption": "CAR GUYS NEED A 3D PRINTER - 3D PRINTED CAR WASH GADGETS #carwash #carcleaning #carslover #foamcannon #microfibertowel",
+      "durationSeconds": 61,
+      "viewCount": 131500,
+      "likeCount": 4456,
+      "commentCount": 20,
+      "shareCount": 398,
+      "collectCount": 621,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 10726
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7635990824282590471",
+      "createdAt": "2026-05-04T11:04:18.000Z",
+      "creatorHandle": "popular.auto.parts",
+      "videoUrl": "https://www.tiktok.com/@popular.auto.parts/video/7635990824282590471",
+      "caption": "#popularautoparts #popular #autoparts #automobile #spareparts",
+      "durationSeconds": 21,
+      "viewCount": 123800,
+      "likeCount": 1953,
+      "commentCount": 37,
+      "shareCount": 314,
+      "collectCount": 1066,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 10599
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7635507819831102750",
+      "createdAt": "2026-05-03T03:50:00.000Z",
+      "creatorHandle": "mike.car88",
+      "videoUrl": "https://www.tiktok.com/@mike.car88/video/7635507819831102750",
+      "caption": "The ultimate of “forbidden” car hacks. Agree or disagree: later the government killing car culture.#cartok#carhacks#tipsandtricks#carsecrets#foryou",
+      "durationSeconds": 279,
+      "viewCount": 25300,
+      "likeCount": 1659,
+      "commentCount": 5,
+      "shareCount": 554,
+      "collectCount": 948,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 9610
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7625634784168971533",
+      "createdAt": "2026-04-06T13:17:35.000Z",
+      "creatorHandle": "clip.us.dashcam",
+      "videoUrl": "https://www.tiktok.com/@clip.us.dashcam/video/7625634784168971533",
+      "caption": "#Godfirst #starkvarg #worldsfastestbike #bikelife #rideout",
+      "durationSeconds": 68,
+      "viewCount": 173500,
+      "likeCount": 4451,
+      "commentCount": 21,
+      "shareCount": 30,
+      "collectCount": 251,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7150
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7638779681675742494",
+      "createdAt": "2026-05-11T23:26:30.000Z",
+      "creatorHandle": "t.bdetailing",
+      "videoUrl": "https://www.tiktok.com/@t.bdetailing/video/7638779681675742494",
+      "caption": "Step by Step Interior and Exterior Detail 🛻 #detailing #cardetailing #interiordetailing #exteriordetailing #stepbystep",
+      "durationSeconds": 151,
+      "viewCount": 26900,
+      "likeCount": 2409,
+      "commentCount": 67,
+      "shareCount": 169,
+      "collectCount": 831,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 7089
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7632812941074599181",
+      "createdAt": "2026-04-25T21:32:29.000Z",
+      "creatorHandle": "raredetailing_",
+      "videoUrl": "https://www.tiktok.com/@raredetailing_/video/7632812941074599181",
+      "caption": "This stunning GMC Denali Ultimate came to us ready for a inside and out transformation—and we delivered ✨ We started with a complete interior reset, meticulously scrubbing all surfaces, deep shampooing the carpets, and detailing every nook and crevice. To finish, we applied a premium leather conditioner to restore richness, enhance appearance, and protect for the long haul.  On the exterior, we kicked things off with an intensive wheel and wheel well cleaning. followed by a thorough pre-wash to break down grime, bugs, and buildup 🐞 Then came a rich foam bath and careful hand wash to safely cleanse the paint 🫧 To elevate the finish, we applied our signature 6-month high-gloss sealant, delivering next-level shine and long-lasting protection. We wrapped it up with a clean tire shine for that perfect finishing touch.  The result? A Denali that looks refreshed, protected, and ready for the road ahead🛣️ Interested in getting your investment professionally detailed and protected? We come to you! Servicing all of Washington county and more! Feel free to call us.  📲 : 307-431-0288 🗓️Monday-Saturday 8:00am-6:00pm 💎Experience RARE ————————————————————— ✔️Interior/Exterior Detailing  ✔️Ceramic Coating/Paint Correction ✔️Engine Bay Detailing  ✔️Headlight Restorarion  ✔️Trim Restoration  ✔️Carpet/ Upholstery Shampoo  ✔️Much More ✨ . . . #mobiledetailing #stgeorgeutah #jesusisking #detailing #carcare",
+      "durationSeconds": 130,
+      "viewCount": 87100,
+      "likeCount": 3804,
+      "commentCount": 49,
+      "shareCount": 187,
+      "collectCount": 361,
+      "petShapeLabels": [
+        "food_or_eating",
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 7074
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7627961483787291917",
+      "createdAt": "2026-04-12T19:46:22.000Z",
+      "creatorHandle": "bobs_auto_salvage",
+      "videoUrl": "https://www.tiktok.com/@bobs_auto_salvage/video/7627961483787291917",
+      "caption": "Things that just make sense at Bob’s Auto Salvage! 👀 Our salvage yard has got all the parts you need! Call us Monday thru Saturday for your parts! 🔥🚗 #bobsautosalvage #salvageyard #carparts #carlife #autoparts",
+      "durationSeconds": 16,
+      "viewCount": 27300,
+      "likeCount": 1670,
+      "commentCount": 66,
+      "shareCount": 222,
+      "collectCount": 713,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6669
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7639822855353519374",
+      "createdAt": "2026-05-14T18:54:32.000Z",
+      "creatorHandle": "crackedoutreels",
+      "videoUrl": "https://www.tiktok.com/@crackedoutreels/video/7639822855353519374",
+      "caption": "Most people don’t know this about car mirrors #waitforit #noway #safety #lifehacks",
+      "durationSeconds": 64,
+      "viewCount": 210900,
+      "likeCount": 722,
+      "commentCount": 97,
+      "shareCount": 44,
+      "collectCount": 136,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6445
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7629298325308673300",
+      "createdAt": "2026-04-16T10:13:59.000Z",
+      "creatorHandle": "bilusiautoparts_can",
+      "videoUrl": "https://www.tiktok.com/@bilusiautoparts_can/video/7629298325308673300",
+      "caption": "A complete chassis component, eliminating two middlemen and cutting platform commissions. We only do one thing: factory direct supply, wholesale price even for a single piece. #autoparts#carparts #factory #autosupplies#car",
+      "durationSeconds": 24,
+      "viewCount": 29900,
+      "likeCount": 1066,
+      "commentCount": 137,
+      "shareCount": 305,
+      "collectCount": 343,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 6313
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7638914900638715150",
+      "createdAt": "2026-05-12T08:11:13.000Z",
+      "creatorHandle": "timelesscardetailing_",
+      "videoUrl": "https://www.tiktok.com/@timelesscardetailing_/video/7638914900638715150",
+      "caption": "POV: learning how to wash your car properly (bc ik you’re taking it to the car wash 🫩) why am i breathing so hard LOL 🤣 Give your car the attention it deserves!! BOOK NOW! #fyp #pov #detailing #autodetailing #roseville",
+      "durationSeconds": 348,
+      "viewCount": 16000,
+      "likeCount": 1412,
+      "commentCount": 53,
+      "shareCount": 91,
+      "collectCount": 697,
+      "petShapeLabels": [
+        "food_or_eating",
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 5072
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7639945718865710366",
+      "createdAt": "2026-05-15T02:51:19.000Z",
+      "creatorHandle": "carautozone",
+      "videoUrl": "https://www.tiktok.com/@carautozone/video/7639945718865710366",
+      "caption": "17 _Illegal_ Tricks That Instantly Make Your Car Run Better(#carecare #cartips#carcareproducts #carmaintenance #enginemaintance #car#carengine #carfeatures#carsensors#carprice #carhacks #protips #prohabit #trending #viral #fyp #trend #foryoupage)",
+      "durationSeconds": 104,
+      "viewCount": 32400,
+      "likeCount": 1080,
+      "commentCount": 19,
+      "shareCount": 240,
+      "collectCount": 363,
+      "petShapeLabels": [
+        "food_or_eating"
+      ],
+      "petInterestScore": 4750
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7638543296599543061",
+      "createdAt": "2026-05-11T08:09:12.000Z",
+      "creatorHandle": "huangpukwau",
+      "videoUrl": "https://www.tiktok.com/@huangpukwau/video/7638543296599543061",
+      "caption": "High-quality auto parts🚗🚗#autoparts #carparts #wholesale",
+      "durationSeconds": 37,
+      "viewCount": 10200,
+      "likeCount": 408,
+      "commentCount": 40,
+      "shareCount": 190,
+      "collectCount": 82,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 2656
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7640532114928143639",
+      "createdAt": "2026-05-16T16:46:50.000Z",
+      "creatorHandle": "detailingwithash",
+      "videoUrl": "https://www.tiktok.com/@detailingwithash/video/7640532114928143639",
+      "caption": "Detailing a family sports car.  #cardetailing #fyp #carcleaning #detailing #carwash",
+      "durationSeconds": 156,
+      "viewCount": 11200,
+      "likeCount": 446,
+      "commentCount": 152,
+      "shareCount": 4,
+      "collectCount": 35,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 2139
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7640743019129425160",
+      "createdAt": "2026-05-17T06:25:15.000Z",
+      "creatorHandle": "g82.arva",
+      "videoUrl": "https://www.tiktok.com/@g82.arva/video/7640743019129425160",
+      "caption": "🥷🏿 #bmw #m4 #carsoftiktok #g82 #cartok",
+      "durationSeconds": 18,
+      "viewCount": 4209,
+      "likeCount": 822,
+      "commentCount": 5,
+      "shareCount": 95,
+      "collectCount": 67,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 1573
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7640880930466385174",
+      "createdAt": "2026-05-17T15:20:25.000Z",
+      "creatorHandle": "nsn.autodetailing",
+      "videoUrl": "https://www.tiktok.com/@nsn.autodetailing/video/7640880930466385174",
+      "caption": "And thats how you make €1k in 18 Hours 💵 #cardetailing #carcleaning #detailing #fyp #carwash @xpertdetailingsupplies",
+      "durationSeconds": 216,
+      "viewCount": 9047,
+      "likeCount": 785,
+      "commentCount": 13,
+      "shareCount": 17,
+      "collectCount": 48,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 1031
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7640229002409463053",
+      "createdAt": "2026-05-15T21:10:36.000Z",
+      "creatorHandle": "keepitsimplesparkles",
+      "videoUrl": "https://www.tiktok.com/@keepitsimplesparkles/video/7640229002409463053",
+      "caption": "Amazon Mom Car Must-Haves and summer roadtrip must-haves. Minivan console organizer, cupholder trash can, MagSafe phone mounts that don’t fall, expanding cup holder for big tumblers, headrest charging hub for every device, screen cleaner spray, safety hammer, vomit bags, and a sunglasses visor holder. Little upgrades that make the mom car feel way more organized. #amazonfinds #carorganization #momsoftiktok #carhacks #summerroadtrip",
+      "durationSeconds": 58,
+      "viewCount": 7180,
+      "likeCount": 353,
+      "commentCount": 3,
+      "shareCount": 19,
+      "collectCount": 93,
+      "petShapeLabels": [
+        "care_or_cleaning"
+      ],
+      "petInterestScore": 874
+    },
+    {
+      "term": "cartok",
+      "provider": "discover",
+      "videoId": "7640857084480818463",
+      "createdAt": "2026-05-17T13:47:53.000Z",
+      "creatorHandle": "ekajx.archive",
+      "videoUrl": "https://www.tiktok.com/@ekajx.archive/video/7640857084480818463",
+      "caption": "cheap+fast cars | #cartok #cars #top5 #cheapcars #fastcars",
+      "durationSeconds": 36,
+      "viewCount": 5562,
+      "likeCount": 242,
+      "commentCount": 5,
+      "shareCount": 10,
+      "collectCount": 56,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 586
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7641006557274115359",
+      "createdAt": "2026-05-17T23:27:54.000Z",
+      "creatorHandle": "de4blackbeast",
+      "videoUrl": "https://www.tiktok.com/@de4blackbeast/video/7641006557274115359",
+      "caption": "H8tin us cause they ain’t us @Aidan☝🏼 #acuraintegra #2023acuraintegra #acura #cartok @Common Traffic Mafia LLC @chained2.0t @Kalia @kellaa🖤",
+      "durationSeconds": 10,
+      "viewCount": 899,
+      "likeCount": 138,
+      "commentCount": 14,
+      "shareCount": 19,
+      "collectCount": 4,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 395
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7639049108447055117",
+      "createdAt": "2026-05-12T16:52:00.000Z",
+      "creatorHandle": "sanny.z3",
+      "videoUrl": "https://www.tiktok.com/@sanny.z3/video/7639049108447055117",
+      "caption": "Export of the used car parts from the source factory in China #engine #autoparts #China #usedcar #export",
+      "durationSeconds": 18,
+      "viewCount": 3863,
+      "likeCount": 136,
+      "commentCount": 7,
+      "shareCount": 14,
+      "collectCount": 14,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 383
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7640984156909964575",
+      "createdAt": "2026-05-17T22:00:59.000Z",
+      "creatorHandle": "5oh.byro",
+      "videoUrl": "https://www.tiktok.com/@5oh.byro/video/7640984156909964575",
+      "caption": "#fyp #mustang #cartok #viral #s550",
+      "durationSeconds": 17,
+      "viewCount": 1065,
+      "likeCount": 230,
+      "commentCount": 10,
+      "shareCount": 6,
+      "collectCount": 10,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 324
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7640992617055964430",
+      "createdAt": "2026-05-17T22:33:49.000Z",
+      "creatorHandle": "trqautoparts",
+      "videoUrl": "https://www.tiktok.com/@trqautoparts/video/7640992617055964430",
+      "caption": "Ever wonder why some steering knuckle assemblies come preassembled? In this video, we break down what’s included in a complete steering knuckle assembly and why combining components like the wheel hub, backing plate and ball joint can simplify the repair process. Understanding the value of preassembled suspension components can save time, reduce extra labor, and make repairs more approachable — especially for DIYers. Need to replace your steering knuckle? Shop premium TRQ steering knuckle assemblies and access FREE step-by-step installation videos via link in bio. #trq #trqautoparts",
+      "durationSeconds": 131,
+      "viewCount": 3631,
+      "likeCount": 149,
+      "commentCount": 7,
+      "shareCount": 4,
+      "collectCount": 12,
+      "petShapeLabels": [
+        "surprise_or_reaction"
+      ],
+      "petInterestScore": 297
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7639479661201739039",
+      "createdAt": "2026-05-13T20:42:46.000Z",
+      "creatorHandle": "pristinedetailingclub",
+      "videoUrl": "https://www.tiktok.com/@pristinedetailingclub/video/7639479661201739039",
+      "caption": "How we detail a dirty car (exterior edition) ⭐️ Your car deserves this type of care. BOOK YOUR NEXT DETAIL link in bio!  #mobiledetailing #losangeles #cardetailing",
+      "durationSeconds": 44,
+      "viewCount": 2268,
+      "likeCount": 62,
+      "commentCount": 8,
+      "shareCount": 12,
+      "collectCount": 7,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 280
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7640940247123070238",
+      "createdAt": "2026-05-17T19:10:35.000Z",
+      "creatorHandle": "mathers__teamwork",
+      "videoUrl": "https://www.tiktok.com/@mathers__teamwork/video/7640940247123070238",
+      "caption": "A little bit more, jumps from 350 to 800. 😂#cardetailing #detatailing #detailersoftiktok #cars #car #foryou #viralvideo #viral #povs #asmr",
+      "durationSeconds": 277,
+      "viewCount": 5936,
+      "likeCount": 151,
+      "commentCount": 3,
+      "shareCount": 0,
+      "collectCount": 7,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 252
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7640990169113365790",
+      "createdAt": "2026-05-17T22:24:19.000Z",
+      "creatorHandle": "brotdetailing",
+      "videoUrl": "https://www.tiktok.com/@brotdetailing/video/7640990169113365790",
+      "caption": "is this good advice?? #detailing #cardetailing #sponsored @Jobber",
+      "durationSeconds": 73,
+      "viewCount": 1763,
+      "likeCount": 149,
+      "commentCount": 1,
+      "shareCount": 3,
+      "collectCount": 22,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 232
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7641059485783477518",
+      "createdAt": "2026-05-18T02:53:18.000Z",
+      "creatorHandle": "cncdetails",
+      "videoUrl": "https://www.tiktok.com/@cncdetails/video/7641059485783477518",
+      "caption": "DIY detail car setup😮‍💨 #fyp #asmr #cardetailing #setup",
+      "durationSeconds": 166,
+      "viewCount": 1445,
+      "likeCount": 148,
+      "commentCount": 4,
+      "shareCount": 0,
+      "collectCount": 13,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 195
+    },
+    {
+      "term": "carhacks",
+      "provider": "tag",
+      "videoId": "7637695754491940126",
+      "createdAt": "2026-05-09T01:20:18.000Z",
+      "creatorHandle": "chandlelan1",
+      "videoUrl": "https://www.tiktok.com/@chandlelan1/video/7637695754491940126",
+      "caption": "#lifehacks #lifestyle #foryou #liveoutlandish",
+      "durationSeconds": 72,
+      "viewCount": 4215,
+      "likeCount": 60,
+      "commentCount": 2,
+      "shareCount": 4,
+      "collectCount": 6,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 190
+    },
+    {
+      "term": "cardetailing",
+      "provider": "tag",
+      "videoId": "7640940257562643742",
+      "createdAt": "2026-05-17T19:10:38.000Z",
+      "creatorHandle": "mathers__teamwork",
+      "videoUrl": "https://www.tiktok.com/@mathers__teamwork/video/7640940257562643742",
+      "caption": "“little more” price increases 4x 😭💀#cardetailing #detatailing #detailersoftiktok #cars #car #foryou #viralvideo #viral #povs #asmr",
+      "durationSeconds": 161,
+      "viewCount": 1827,
+      "likeCount": 37,
+      "commentCount": 3,
+      "shareCount": 0,
+      "collectCount": 1,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 89
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7640070198854159646",
+      "createdAt": "2026-05-15T10:54:21.000Z",
+      "creatorHandle": "jiaofeixu",
+      "videoUrl": "https://www.tiktok.com/@jiaofeixu/video/7640070198854159646",
+      "caption": "🔥 CTR Original Chassis Parts | Hyundai & KIA Professional Supplier ✅ OEM‑Grade Quality | 3500+ SKUs for All Hyundai & KIA Models ✅ Factory Direct Supply | No Middleman | Global Door‑to‑Door Delivery Ball Joints, Control Arms, Tie Rod Ends, Shocks, Brakes, Wheel Hubs, Engine Mounts ✅ 100% Genuine CTR | Large In‑Stock | Fast Worldwide Shipment 🎁 LIMITED‑TIME OFFER Like & Share → Extra 2% Off for Bulk Wholesale Orders Valid Until May 20th! Don’t Miss Out 👉 DM for Full Catalog & Exclusive Wholesale Price ⚠️ Strictly Wholesale Only, No Retail #AutoParts#HyundaiKiaParts#CTRChassisParts#SuspensionParts#ControlArm",
+      "durationSeconds": 7,
+      "viewCount": 697,
+      "likeCount": 37,
+      "commentCount": 1,
+      "shareCount": 3,
+      "collectCount": 4,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 82
+    },
+    {
+      "term": "cartok",
+      "provider": "tag",
+      "videoId": "7641058498951810334",
+      "createdAt": "2026-05-18T02:49:28.000Z",
+      "creatorHandle": "sbuckingham1",
+      "videoUrl": "https://www.tiktok.com/@sbuckingham1/video/7641058498951810334",
+      "caption": "#fyp #corvette #blackcar #cartok #trend",
+      "durationSeconds": 8,
+      "viewCount": 461,
+      "likeCount": 45,
+      "commentCount": 2,
+      "shareCount": 1,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "unclear"
+      ],
+      "petInterestScore": 68
+    },
+    {
+      "term": "autoparts",
+      "provider": "tag",
+      "videoId": "7640045503593385229",
+      "createdAt": "2026-05-15T09:18:32.000Z",
+      "creatorHandle": "warriorvalley3",
+      "videoUrl": "https://www.tiktok.com/@warriorvalley3/video/7640045503593385229",
+      "caption": "#jack #tools #tiktokmademebuyit #fyp #Autoparts",
+      "durationSeconds": 15,
+      "viewCount": 587,
+      "likeCount": 6,
+      "commentCount": 0,
+      "shareCount": 2,
+      "collectCount": 2,
+      "petShapeLabels": [
+        "stubborn_or_sassy"
+      ],
+      "petInterestScore": 39
+    }
+  ]
+}

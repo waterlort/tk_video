@@ -2,6 +2,52 @@
 
 ## Step Identity
 
+- Issue: `ULT-313` / `a434a512-3fe4-4bea-817d-cdd4df3fbefe`
+- Node type: immediate US creator persona research batch
+- Owner: `tk-case-librarian`
+- Time: 2026-05-18 Asia/Shanghai
+
+## Condensed Local Context
+
+- User requested a manual instance of the weekly US creator persona research cycle across home/living, pet, and auto accessories/parts on TikTok, Instagram, YouTube, and Facebook.
+- Strategic target: translate creator/persona evidence into a faceless China cross-border TikTok operating plan with low compliance cost.
+- Project boundary: evidence and candidate/proposed claims only; no durable taxonomy or relation mutation.
+
+## Work Trace
+
+- Read project brief, KB design, object map, root memory, changelog, ULT-299 review, short-video viral mechanics foundation, case template, and trend research protocol.
+- Marked `ULT-313` in progress.
+- Ran local TikTok public-search adapter for home, pet, and auto:
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_home/`
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_pet/`
+  - `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_auto/`
+- Used public/secondary web sources for creator rankings and platform compliance context.
+- Added:
+  - `trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`
+  - `case_library/2026-05-18_us_creator_persona_case_packet_home_pet_auto.md`
+  - `playbooks/faceless_crossborder_creator_operating_plan_2026-05-18.md`
+  - `relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
+
+## Key Findings
+
+- Faceless account persona should be proof-role based: product test bench, quality scout, small-space fixer, pet-care desk, or fitment skeptic.
+- Home/living has the lowest compliance burden and strongest hands-only product-demo fit.
+- Pet can work faceless only if it uses ethical real animal footage or bench-tested pet products; AI pet-story rows stay separate.
+- Auto has strong product/comment mechanics but higher compliance risk around safety, fitment, repair, and road use.
+- TikTok public tag/discover routes were noisy, especially home and auto; high-score off-topic rows were preserved as search-noise controls.
+- Instagram/Facebook/YouTube rankings are useful persona radar only and cannot become TikTok-native evidence without manual video-level review.
+
+## Open Threads
+
+- Manually verify first 3 seconds, shot order, audio role, comments, and originality for 8-12 selected rows before classifier confidence.
+- Route proposed claims to TK Knowledge Classifier before any modifier update.
+- Have TK Content Explainer turn the operating plan into TikTok-native scripts only after acknowledging scout-only evidence.
+- Have TK Viral Judge audit overfit risk and readiness before using the 12-video batch as a learning set.
+
+---
+
+## Step Identity
+
 - Issue: local continuation / next concept gate after ULT-299
 - Node type: concept gate packet
 - Owner: Codex
