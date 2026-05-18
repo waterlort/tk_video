@@ -2,6 +2,42 @@
 
 ## Step Identity
 
+- Issue: weekly automation follow-up / creator persona current-source refresh
+- Node type: Multica workflow continuation / evidence and commerce boundary gate
+- Owner: Codex automation using tk-case-librarian, tk-content-explainer, tk-knowledge-classifier, tk-knowledge-modifier, and tk-viral-judge roles
+- Time: 2026-05-18T19:07:03+0800
+
+## Condensed Local Context
+
+- Automation memory was present and read before work.
+- The same-day broad creator-persona cycle already had ULT-313/314/315/316/317/318 artifacts, including the 18-row ULT-317 public-page visual-check packet.
+- The useful next step is not another broad creator-ranking sweep; it is comment/originality capture or 12-script preflight.
+
+## Work Trace
+
+- Re-read project brief, KB design, Multica object map, KB README, root memory, changelog, weekly synthesis, ULT-316 judge audit, ULT-317 verification packet, operating plan, proposed claims, and ULT-318 guardrail report.
+- Re-checked current public/platform sources for creator radar and product/compliance boundaries.
+- Checked Multica CLI availability; attempted `multica issue comment add ULT-317`, but DNS resolution for `api.multica.ai` failed, so no remote issue mutation completed.
+- Added `playbooks/weekly_us_creator_persona_followup_2026-05-18.md`.
+- Updated the weekly synthesis, faceless operating plan, root long-term memory, changelog, and object map links.
+
+## Key Decisions
+
+- Existing Multica issues are sufficient: `ULT-313`, `ULT-314`, `ULT-315`, `ULT-316`, `ULT-317`, and `ULT-318`.
+- Automotive/mobility parts and pet supplies stay in product-policy/seller-eligibility review before any TikTok Shop or affiliate path.
+- Pet supplements/medicine/medical claims, auto mechanical/repair/fitment/safety claims, theft-related devices, and universal compatibility language remain blocked from low-compliance content.
+- No durable performance, conversion, TikTok Shop, category-fit, persona-superiority, or cross-platform transfer claim was promoted.
+
+## Open Threads
+
+- Capture 5-10 publicly visible top/relevant comments per ULT-317 row where accessible without login/bypass.
+- Run originality/repost checks for the ULT-317 rows before any case-confidence upgrade.
+- Lock the 12-script sheet with persona, category, product risk, disclosure note, visual proof, and one metric hypothesis per video.
+
+---
+
+## Step Identity
+
 - Issue: weekly automation / creator persona cycle synthesis
 - Node type: cross-agent synthesis / operating-plan gate
 - Owner: Codex automation using Multica workflow

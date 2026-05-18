@@ -54,6 +54,7 @@ Local public-source inputs:
 - `trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`
 - `case_library/2026-05-18_us_creator_persona_case_packet_home_pet_auto.md`
 - `evaluation/ult317_manual_verification_creator_persona_rows_2026-05-18.md`
+- `playbooks/weekly_us_creator_persona_followup_2026-05-18.md`
 - `evaluation/assets/ult317_manual_verification_2026-05-18/public_page_capture_summary.json`
 - TikTok public-search local runs under `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_*`
 
@@ -200,3 +201,5 @@ Must not become durable claims yet:
 ## Current Gate
 
 Proceed to a 12-video faceless exploratory batch only after scripts are locked with category risk notes and observation windows. Do not route any new relation/performance/modifier promotion until ULT-317 comment/originality gaps are addressed and TK Knowledge Classifier accepts the narrowed scope.
+
+Follow-up note, 2026-05-18: `playbooks/weekly_us_creator_persona_followup_2026-05-18.md` adds the current-source refresh and stricter commerce boundary. It keeps automotive/mobility parts and pet supplies in product-policy review before any TikTok Shop or affiliate path, and it blocks another broad creator-ranking sweep until either ULT-317 comment/originality capture or the 12-script preflight is complete.

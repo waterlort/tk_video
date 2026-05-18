@@ -131,6 +131,7 @@ Avoid: brake/engine/airbag/electrical repair advice, unsafe driving, claims that
 7. Use "I am testing" language until actual sales/returns data exists.
 8. If a video has affiliate/shop links, use required disclosure tools and avoid false urgency.
 9. Re-check TikTok Shop US product eligibility before scripting. Treat auto mechanical/repair/fitment parts, vehicle-safety items, pet health/medical/supplement claims, and restricted-category products as review-blocked until platform policy and seller eligibility are confirmed.
+10. Current-source follow-up, 2026-05-18: see `playbooks/weekly_us_creator_persona_followup_2026-05-18.md`. Automotive/mobility parts and pet supplies should be treated as seller-qualification/product-eligibility review items before product cards, even when the video itself is low-risk content-first.
 
 ## Low-Compliance Boundaries
 
@@ -196,6 +197,8 @@ Avoid:
 | 12 | Auto | Cable/clip dashboard tidy test | source comments |
 
 Policy refresh note, 2026-05-18: slot 11 requires product-policy review before any TikTok Shop or affiliate path. Keep language to convenience/testing and tell viewers to follow their vehicle/manual pressure guidance; do not imply repair, safety improvement, or universal fit.
+
+Follow-up packet: `playbooks/weekly_us_creator_persona_followup_2026-05-18.md` is the current operating addendum for comment/originality capture, commerce-boundary preflight, and the next 12-script lock.
 
 ## Anti-Overfit
 

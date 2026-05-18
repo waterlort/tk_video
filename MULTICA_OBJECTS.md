@@ -144,3 +144,4 @@
 - Weekly US creator persona cycle synthesis: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/weekly_us_creator_persona_cycle_2026-05-18.md`
 - Creator persona proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
 - Creator persona judge audit: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`
+- Weekly creator persona follow-up: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/weekly_us_creator_persona_followup_2026-05-18.md`

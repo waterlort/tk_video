@@ -1,5 +1,17 @@
 # long-term-memory.md
 
+## 2026-05-18 weekly creator persona follow-up
+
+- Automation: Weekly US Creator Persona Research.
+- Follow-up packet: `playbooks/weekly_us_creator_persona_followup_2026-05-18.md`.
+- Multica routing reused existing issues: `ULT-313`/`ULT-317` for case-librarian evidence, `ULT-314` for explainer script conversion, `ULT-315` for classifier boundaries, `ULT-316` for judge gate, and `ULT-318` for modifier guardrail indexing.
+- Remote Multica update status: attempted to add an `ULT-317` comment, but the restricted shell still could not resolve `api.multica.ai`; no remote mutation completed.
+- Current-source refresh tightened commerce/product boundaries: automotive/mobility parts and pet supplies stay in seller-qualification/product-eligibility review before TikTok Shop product cards or affiliate links; prohibited/sensitive areas remain blocked from low-compliance scripting.
+- Next useful work: do not run another broad creator-ranking sweep. Capture ULT-317 comment text/originality where publicly accessible, or lock the 12-script sheet with product risk, disclosure note, visual proof, and metric hypothesis per video.
+- No durable virality, conversion, TikTok Shop, persona-superiority, category-fit, or cross-platform transfer claim was promoted.
+
+---
+
 ## 2026-05-18 weekly US creator persona cycle synthesis
 
 - Automation: Weekly US Creator Persona Research.
