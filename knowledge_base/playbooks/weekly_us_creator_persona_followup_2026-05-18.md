@@ -132,3 +132,13 @@ Do not run another broad creator-ranking sweep until the ULT-317 evidence gaps a
 1. Comment/originality capture for the 18 ULT-317 rows.
 2. A locked 12-script sheet with persona, category, product risk, disclosure note, visual proof, and one metric hypothesis per video.
 3. A judge-owned readout plan with T+24h, T+72h, and T+7d windows before publishing begins.
+
+## 2026-05-18 Script Preflight Addendum
+
+The 12-script sheet is now locked locally as `playbooks/locked_12_script_preflight_2026-05-18_creator_persona.md`.
+
+Status remains exploratory:
+
+- This does not close the ULT-317 comment/originality gap.
+- This does not promote any persona, platform-transfer, category-fit, conversion, TikTok Shop, or virality claim.
+- It gives `ULT-314` a scoped script surface, `ULT-316` a judge gate before filming, and `ULT-318` no durable relation work beyond existing accepted process guardrails.

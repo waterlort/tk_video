@@ -1,5 +1,17 @@
 # long-term-memory.md
 
+## 2026-05-18 creator persona locked script preflight
+
+- Automation: Weekly US Creator Persona Research.
+- Added `playbooks/locked_12_script_preflight_2026-05-18_creator_persona.md` and linked it from the weekly follow-up and `MULTICA_OBJECTS.md`.
+- Multica routing reused existing issues: `ULT-313`/`ULT-317` for evidence, `ULT-314` for script conversion, `ULT-315` for classifier guardrails, `ULT-316` for judge gate, and `ULT-318` for modifier guardrail indexing.
+- Remote Multica update status: attempted comments on `ULT-314`, `ULT-316`, and `ULT-317`, but `api.multica.ai` DNS resolution failed; no remote mutation completed.
+- Current output: 12 exploratory faceless TikTok scripts with persona, first-2-second hook, script spine, assets, risk note, disclosure boundary, measurement hypothesis, and no-go gates.
+- Durable status: no persona-superiority, category-fit, platform-transfer, virality, conversion, TikTok Shop, or product-eligibility claim was promoted.
+- Next useful work: create the measurement sheet before publishing, run product-policy review before any shop/affiliate link, and capture ULT-317 comments/originality before any claim upgrade.
+
+---
+
 ## 2026-05-18 weekly creator persona follow-up
 
 - Automation: Weekly US Creator Persona Research.

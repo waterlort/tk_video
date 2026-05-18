@@ -145,3 +145,4 @@
 - Creator persona proposed claims: `/Users/airlort/Documents/tk_video/knowledge_base/relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`
 - Creator persona judge audit: `/Users/airlort/Documents/tk_video/knowledge_base/evaluation/eval_2026_05_18_creator_persona_readiness_ult316.md`
 - Weekly creator persona follow-up: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/weekly_us_creator_persona_followup_2026-05-18.md`
+- Creator persona locked 12-script preflight: `/Users/airlort/Documents/tk_video/knowledge_base/playbooks/locked_12_script_preflight_2026-05-18_creator_persona.md`
