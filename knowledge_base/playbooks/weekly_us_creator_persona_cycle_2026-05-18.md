@@ -42,6 +42,8 @@ Platform/compliance inputs:
 - TikTok Creative Center help overview: https://ads.us.tiktok.com/help/article/creative-center
 - TikTok Branded Content Policy: https://www.tiktok.com/legal/page/global/bc-policy/en
 - TikTok Shop US launch note: https://newsroom.tiktok.com/en-us/introducing-tiktok-shop
+- TikTok Shop US Prohibited Products Policy: https://seller-us.tiktok.com/university/essay?anchor_link=10C3FFFD&from=policy&identity=1&knowledge_id=1399532709988097&role=1
+- TikTok Shop US Restricted Products Policy: https://seller-us.tiktok.com/university/essay?knowledge_id=6939143037667118&lang=en
 - Meta Reels ads page: https://www.facebook.com/business/ads/facebook-instagram-reels-ads
 - Facebook Reels help page: https://www.facebook.com/help/398606435303267
 - YouTube upload/video settings help: https://help.youtube.com/support/youtube/bin/answer.py?answer=57924
@@ -109,12 +111,14 @@ Supply-chain bridge rules:
 3. Show rejects and limitations; this is the trust edge.
 4. Avoid brand lookalikes, counterfeit-adjacent comparisons, hidden sponsorship, fake scarcity, or unverified origin claims.
 5. For affiliate/TikTok Shop paths, use platform disclosure tools and keep claims testable.
+6. Re-check TikTok Shop US product eligibility before scripting. Treat auto mechanical/repair/fitment parts, vehicle-safety items, pet health/medical/supplement claims, and restricted-category products as review-blocked until platform policy and seller eligibility are confirmed.
 
 Low-compliance boundaries:
 
 - Prefer: storage, organization, cleaning, washable materials, non-medical pet comfort, car interior convenience, non-critical accessories.
 - Route to review: pet health/diet/anxiety/training, electrical auto accessories, tire/brake/engine/suspension/steering/airbag content, child/pet safety devices, legal/certification claims, flame resistance, counterfeit comparisons.
 - Avoid: cure/guarantee language, unsafe animal handling, dangerous driving, fake testimonials, and AI/avatar product-use proof.
+- First-batch rule: do not assume TikTok Shop is available for all auto-parts or pet-product ideas. Keep early posts focused on content learning unless product eligibility is separately verified.
 
 Length and density:
 
@@ -155,7 +159,7 @@ Exploratory only; not prediction scoring.
 | 8 | Pet | Real pet behavior, if owned/licensed | No forced reaction or unsafe feeding. |
 | 9 | Auto | Trunk organizer fit check | State vehicle context; no universal claim. |
 | 10 | Auto | Interior cleaning brush before/after | Cleaning-only, not repair. |
-| 11 | Auto | Tire air chuck convenience demo | Include fit/pressure boundary; route script review. |
+| 11 | Auto | Tire air chuck convenience demo | Include fit/pressure boundary; route script and product-policy review before any shop/affiliate path. |
 | 12 | Auto | Cable/clip dashboard tidy test | No driving-distraction or safety claim. |
 
 Observation windows: T+24h, T+72h, T+7d. Track 2-second hold, completion, saves, comments by type, source/fitment questions, profile visits, link/shop actions if available, policy flags, and spam/trust comment quality.

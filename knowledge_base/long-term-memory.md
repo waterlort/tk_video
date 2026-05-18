@@ -23,7 +23,8 @@
 - Durable process guardrail: public TikTok tag/discover/search rows are scout discovery inputs, not category evidence, until manually watched and category-confirmed; high-score off-topic rows should be preserved as route-noise controls.
 - Merge note: the ULT-313 public-search route-noise guardrail was merged with `candidate_claim_cross_vertical_2026_05_16_006`.
 - No durable virality, conversion, TikTok Shop, follower-growth, persona-superiority, product-category, or cross-platform transfer claim was promoted.
-- ULT-317 manual verification has no completed output yet, so verified case backlinks remain pending.
+- Continuation note: ULT-317 is now complete at public-page visual-check level only. It provides opening-frame/category checks for 18 selected rows but still lacks comment text, exact source-video first-3-second extraction, originality checks, retention, conversion, and policy history.
+- Product-boundary refresh: before any TikTok Shop or affiliate path, auto mechanical/repair/fitment parts, vehicle-safety items, pet health/medical/supplement claims, and restricted-category products require platform-policy and seller-eligibility review.
 
 ---
 

@@ -15,7 +15,9 @@ This file records process and evidence-routing guardrails. It does not promote a
 
 Candidate claims `001`, `002`, and `003` remain operating hypotheses. They require manual first-3-second verification, comment coding, originality checks, mixed-outcome controls, and post-batch outcome evidence before any relation or performance promotion.
 
-`ULT-317` manual verification has no completed output at indexing time, so no verified case-packet backlinks were added here. The supporting cases below are scout/case-intake evidence unless explicitly marked otherwise.
+Original indexing note: `ULT-317` manual verification had no completed output at indexing time, so no verified case-packet backlinks were added in the first modifier pass.
+
+Continuation update, 2026-05-18: `ULT-317` now has a completed public-page visual verification packet at `evaluation/ult317_manual_verification_creator_persona_rows_2026-05-18.md`. The packet upgrades selected rows to public-page visually checked for opening-frame/category status only. It still lacks comment text, exact source-video first-3-second extraction, originality checks, retention, conversion, and policy history, so it does not authorize relation/performance/conversion promotion.
 
 ## accepted_process_guardrail_creator_persona_2026_05_18_004
 
@@ -58,18 +60,18 @@ Candidate claims `001`, `002`, and `003` remain operating hypotheses. They requi
 - Applies when: Search terms return unrelated high-view rows, unclear captions, non-category entertainment, off-platform reposts, AI/story rows, or rows whose category fit is not visually confirmed.
 - Does not apply when: A row has been manually watched, first-frame/first-seconds notes are recorded, and category fit is confirmed.
 - Related content categories: all public-search-sourced TK research categories; ULT-313 home and auto showed especially visible route noise, and pet-gadget routes require AI/story separation from real-pet evidence.
-- Supporting cases and artifacts: `candidate_claim_cross_vertical_2026_05_16_006`, `case_2026_05_16_cv_005`, local runs `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_home/`, `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_pet/`, `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_auto/`, and `trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`.
+- Supporting cases and artifacts: `candidate_claim_cross_vertical_2026_05_16_006`, `case_2026_05_16_cv_005`, local runs `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_home/`, `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_pet/`, `tool_runs/tiktok_public_search/us_creator_persona_2026-05-18_auto/`, `trends/us_creator_persona_radar_2026-05-18_home_pet_auto.md`, and `evaluation/ult317_manual_verification_creator_persona_rows_2026-05-18.md`.
 - Counterexamples needed: Manually verified route rows where public-search category fit is consistently accurate across high, ordinary, and cold examples.
 - Confidence: high as a process guardrail; not a category-performance claim.
 - Last reviewed: 2026-05-18.
 - Review owner: TK Knowledge Classifier via `ULT-315`; indexed by TK Knowledge Modifier via `ULT-318`.
 - Recommended use: Preserve noisy rows as negative controls and require manual first-frame/first-3-second verification before any public-search row supports a category, hook, persona, or product claim.
-- Next validation test: Run the `ULT-317` 18-row manual verification pass: 6 home, 6 pet, 6 auto, with high-metric relevant rows, ordinary/lower-signal controls, and high-metric noise controls.
+- Next validation test: Complete comment-signal capture, exact first-3-second playback/source-video checks, and originality/repost checks for the `ULT-317` positive and control rows before classifier confidence upgrades.
 - Status: accepted_process_guardrail; merged with `candidate_claim_cross_vertical_2026_05_16_006`.
 - Change history: `change_history/CHANGELOG.md`, 2026-05-18 ULT-318 row.
 
 ## Backlink And Evidence Status
 
 - Backlinks updated: `relations/proposed_claims_2026-05-18_creator_persona_home_pet_auto.md`, `relations/proposed_claims_2026-05-16_cross_vertical.md`, `short-term-memory.md`, `long-term-memory.md`, and `change_history/CHANGELOG.md`.
-- Verified case backlinks not updated: `ULT-317` has not produced a verification packet or comment output as of this modifier pass.
-- Missing-evidence risk: all ULT-313 video rows remain scout/case-intake unless manually verified; no current claim here should be read as evidence of TikTok performance, conversion, or product category fit.
+- Verified case backlinks updated only to public-page visual-check level: `ULT-317` produced a verification packet, but no comment output or originality result.
+- Missing-evidence risk: ULT-313/ULT-317 video rows remain ineligible for durable performance, conversion, TikTok Shop, follower-growth, product-category, or persona-superiority claims.

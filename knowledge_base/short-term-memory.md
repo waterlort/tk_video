@@ -10,7 +10,7 @@
 ## Condensed Local Context
 
 - The same-day creator-persona cycle already had ULT-313 radar/case/plan artifacts, ULT-315 classifier guardrails, ULT-316 judge audit, ULT-317 public-page visual verification, and ULT-318 modifier guardrail indexing in the workspace.
-- No prior automation memory file existed at `$CODEX_HOME/automations/weekly-us-creator-persona-research/memory.md`.
+- Automation memory was present at `/Users/airlort/.codex/automations/weekly-us-creator-persona-research/memory.md` and was read before continuing the cycle.
 
 ## Work Trace
 
@@ -24,6 +24,7 @@
 - Existing Multica routing is sufficient for this cycle: `ULT-313` case-librarian radar, `ULT-314` explainer formulas, `ULT-315` classifier, `ULT-316` judge, `ULT-317` manual public-page verification, and `ULT-318` modifier guardrail.
 - ULT-317 raises evidence from scout-only to public-page visually checked for selected fields only; it does not unlock durable performance, conversion, or product-fit claims.
 - The recommended next action remains a 12-video exploratory faceless batch with script risk review and T+24h/T+72h/T+7d observation windows.
+- 2026-05-18 continuation tightened TikTok Shop/product-boundary routing: auto mechanical/repair/fitment parts, vehicle-safety items, pet health/medical/supplement claims, and restricted-category products require policy/seller-eligibility review before product cards or affiliate paths.
 
 ## Open Threads
 
@@ -43,7 +44,7 @@
 ## Condensed Local Context
 
 - ULT-315 accepted only creator-persona process guardrails from ULT-313 candidate claims `004`, `005`, and `006`.
-- ULT-317 manual verification has no completed output yet, so verified case backlinks remain blocked.
+- ULT-317 manual verification was incomplete at the original ULT-318 indexing time; it is now complete at public-page visual-check level only, with comments/originality/source-video playback still missing.
 
 ## Key Decisions
 
@@ -63,7 +64,7 @@
 
 ## Open Threads
 
-- Wait for ULT-317 manual verification before adding verified case-packet backlinks.
+- Use ULT-317 only as public-page visual-check evidence until comment capture, exact source-video playback, and originality checks are done.
 - Keep ULT-313 video rows at scout/case-intake status until first-3-second notes, shot sequence, audio role, comments, originality, category fit, metrics, and risks are manually captured.
 - Any future persona, hook, category, conversion, or performance upgrade still needs mixed-outcome controls and classifier acceptance.
 

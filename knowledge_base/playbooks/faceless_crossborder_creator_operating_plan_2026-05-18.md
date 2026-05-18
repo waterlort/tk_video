@@ -130,6 +130,7 @@ Avoid: brake/engine/airbag/electrical repair advice, unsafe driving, claims that
 6. For pet and auto, include fit/safety boundaries on-screen.
 7. Use "I am testing" language until actual sales/returns data exists.
 8. If a video has affiliate/shop links, use required disclosure tools and avoid false urgency.
+9. Re-check TikTok Shop US product eligibility before scripting. Treat auto mechanical/repair/fitment parts, vehicle-safety items, pet health/medical/supplement claims, and restricted-category products as review-blocked until platform policy and seller eligibility are confirmed.
 
 ## Low-Compliance Boundaries
 
@@ -140,10 +141,12 @@ Prefer:
 Route to review:
 
 - pet health, supplements, anxiety, training corrections, raw feeding, electrical car accessories, tire/brake/engine/suspension repair, child/pet safety devices, claims about legal compliance, certifications, flame resistance, medical devices, counterfeit/brand comparisons.
+- TikTok Shop eligibility for auto accessory, vehicle part, pet care, pet supplement, and pet safety products before adding product cards or affiliate links.
 
 Avoid:
 
 - miracle claims, "cures," "guaranteed," fake scarcity, hidden sponsorship, unsafe animal treatment, dangerous driving, unlicensed music in commercial videos, AI/avatar pretending to have used a product.
+- assuming TikTok Shop is available for all auto-parts or pet-product ideas; keep the first batch focused on low-risk content learning unless product eligibility is separately verified.
 
 ## Video Length And Density
 
@@ -191,6 +194,8 @@ Avoid:
 | 10 | Auto | Interior cleaning brush before/after | saves, completion |
 | 11 | Auto | Tire air chuck convenience demo with disclaimer | safety/fitment comments |
 | 12 | Auto | Cable/clip dashboard tidy test | source comments |
+
+Policy refresh note, 2026-05-18: slot 11 requires product-policy review before any TikTok Shop or affiliate path. Keep language to convenience/testing and tell viewers to follow their vehicle/manual pressure guidance; do not imply repair, safety improvement, or universal fit.
 
 ## Anti-Overfit
 
